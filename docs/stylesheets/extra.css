@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Bookinsanity;
+    src: local("Bookinsanity"),
+        url("fonts/Bookinsanity/Bookinsanity.otf") format("opentype");
+}
+
+:root {
+    --md-primary-fg-color: #58170d;
+}
+
+body {
+    font-family: Bookinsanity;
+    background-image: url("https://img.freepik.com/premium-photo/old-parchment-paper-texture-background-square-wallpaper_118047-17542.jpg");
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+.md-typeset :is(h1, h2, h3, h4, h5, h6) {
+    color: #58170d;
+}

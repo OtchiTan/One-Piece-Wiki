@@ -7,13 +7,15 @@ theme:
           toggle:
               icon: material/brightness-4
               name: Thème sombre
-          primary: red
+          primary: custom
           accent: red
         - scheme: slate
           toggle:
               icon: material/brightness-7
               name: Thème clair
-          primary: red
+          primary: custom
           accent: red
     features:
         - navigation.footer
+extra_css:
+    - stylesheets/extra.css
