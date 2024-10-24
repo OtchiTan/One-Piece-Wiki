@@ -1,3 +1,5 @@
+## Table de combat
+
 | Niveau | Bonus de Maîtrise | Bagarreur | Fureur | Caractéristiques                                               |
 | ------ | ----------------- | --------- | ------ | -------------------------------------------------------------- |
 | 1er    | +2                | 1d6       | -      | Bagarreur, Défense sans armure                                 |
@@ -20,3 +22,43 @@
 | 18e    | +6                | 1d12      | 10     | Invincible                                                     |
 | 19e    | +6                | 1d12      | 10     | Amélioration des scores de caractéristiques                    |
 | 20e    | +6                | 1d12      | 12     | Le Roi                                                         |
+## Aptitudes de classe
+Vous recevez les aptitudes de classe suivante en tant que brute
+#### Points de vie
+**Dés de vie** 1d12 par niveau de brute
+**Point de vie au niveau 1 :** 12 + votre modificateur de Constitution
+**Points de vie à plus haut niveau :** 1d12 (ou 7) + votre modificateur de Constitution par niveau de brute au-delà du premier
+#### Maîtrises
+**Armures :** Aucune
+**Armes :** Armes courantes, armes improvisés, coutelas
+**Outils :** Aucun
+**Jet de sauvegarde :** Force, Constitution
+**Compétences :** deux au choix parmi : Acrobaties, Athlétisme, Persuasion, Intimidation, Perception, Dressage et Survie
+#### Équipement
+Vous débutez avec l'équipement suivant, en plus de celui que vous octroie votre historique :
+- *(a)* un coutelas ou *(b)* une arme courante
+- *(a)* un paquetage de pirate ou *(b)* un paquetage d'explorateur
+- *(a)* un set d'outils d'artisans ou *(b)* un set de jeu
+### Bagarreur
+Au 1er niveau, votre vie passée à vous battre avec des bêtes, des humains ou d'autres créatures coriaces vous a permis de maîtriser les styles de combat qui utilisent les frappes à mains nues et les armes d'assaut, qui sont des armes de mêlée simples dépourvues de la propriété bimanuelle, les coutelas et les armes improvisées. Vous ne pouvez pas utiliser la propriété de finesse d'une arme lorsque vous l'utilisez en tant qu'arme d'estoc.
+Vous bénéficiez des avantages suivants lorsque vous êtes désarmé ou que vous ne maniez que des armes de brute et que vous ne portez pas d'armure. Ne maniant que des armes de brute et que vous ne portez pas d'armure et que vous ne maniez pas de bouclier :
+- Vous pouvez lancer un d6 à la place des dégâts normaux de votre coup à mains nues ou de votre arme de choc. Ce dé change au fur et à mesure que que vous gagnez des niveaux d'assaut, comme l'indique la colonne du Bagarreur de la table de combat
+- Lorsque vous utilisez l'action Attaque avec une attaque à mains nues ou une arme de choc à votre tour, vous pouvez effectuer une attaque à mains nues ou un grappin en tant qu'action bonus. Par exemple, si vous utilisez l'action Attaque et que vous attaquez avec un gourdin, vous pouvez également effectuer une attaque à mains nues ou un grappin en tant qu'action bonus, à condition que vous n'ayez pas déjà effectué une action bonus ce tour-ci. 
+### Défense sans armure
+Lorsque vous ne portez pas d'armure et que vous n'utilisez pas de bouclier, votre classe d'armure est égale à 10 + votre modificateur de Dextérité + votre modificateur de Constitution.
+### Fureur
+À partir du 2e niveau, votre entrainement vous permet d'exploiter la Fureur, la puissance et l'énergie brutes qui émanent de votre esprit. Votre accès à cette énergie est représenté par un nombre de points de fureur. Votre niveau de Brute détermine le nombre de points dont vous disposez, comme indiqué dans la colonne Points de Fureur de la table de combat.
+
+Vous pouvez dépenser ces points pour alimenter diverses caractéristiques de Fureur. Au départ, vous connaissez trois de ces caractéristiques : Coups de mitrailleuse, Force brute et Prêt à l'impact pour l'impact. Vous apprendrez d'autres caractéristiques de Fureur au fur et à mesure que vous gagnerez des niveaux dans cette classe.
+
+Lorsque vous dépensez un point de Fureur, il est indisponible jusqu'à ce que vous ayez terminé un repos court ou long, à l'issue duquel vous récupérez toute la Fureur dépensée. Vous devez passer au moins 30 minutes du repos à vous entraîner pour regagner vos points de Fureur.
+
+Certaines de vos caractéristiques de Fureur exigent que votre cible fasse un jet de sauvegarde pour résister aux effets de la caractéristique. Le DD du jet de sauvegarde est calculé comme suit :
+
+**Jet de sauvegarde contre la furie** = 8 + votre bonus de maîtrise + votre modificateur de Constitution
+##### Déluge de coups
+Immédiatement après avoir effectué l'action Attaque à votre tour, vous pouvez dépenser 1 point de furie pour effectuer deux frappes à mains nues ou deux attaques à l'arme de frappe comme action bonus.
+##### Force brute
+Vous pouvez utiliser une action bonus et dépenser 1 point de fureur pour effectuer une attaque de poussée ou prendre l'action Dash.
+##### Prêt à l'impact
+Vous pouvez utiliser votre Fureur pour serrer les dents et résister aux blessures physiques. Vous pouvez utiliser une action bonus et dépenser 1 point de Fureur pour vous préparer à une attaque. Vous gagnez un nombre de points de vie temporaires égal à votre dé de bagarreur + votre niveau de brute.
