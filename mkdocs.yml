@@ -1,0 +1,8 @@
+site_name: One Piece Wiki
+site_url: https://otchi.ovh
+theme:
+    name: material
+    palette:
+        scheme: slate
+        primary: deep purple
+        accent: purple
