@@ -1,4 +1,3 @@
-
 | Niveau | Bonus de Maîtrise | Bagarreur | Fureur | Caractéristiques                                               |
 | ------ | ----------------- | --------- | ------ | -------------------------------------------------------------- |
 | 1er    | +2                | 1d6       | -      | Bagarreur, Défense sans armure                                 |

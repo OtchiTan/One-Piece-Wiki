@@ -1,8 +1,19 @@
 site_name: One Piece Wiki
-site_url: https://otchi.ovh
+site_url: https://otchitan.github.io/One-Piece-Wiki
 theme:
     name: material
     palette:
-        scheme: slate
-        primary: deep purple
-        accent: purple
+        - scheme: default
+          toggle:
+              icon: material/brightness-4
+              name: Thème sombre
+          primary: red
+          accent: red
+        - scheme: slate
+          toggle:
+              icon: material/brightness-7
+              name: Thème clair
+          primary: red
+          accent: red
+    features:
+        - navigation.footer
