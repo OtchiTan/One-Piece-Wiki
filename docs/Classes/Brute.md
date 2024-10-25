@@ -3,7 +3,7 @@
 | Niveau | Bonus de Maîtrise | Bagarreur | Fureur | Caractéristiques                                               |
 | ------ | ----------------- | --------- | ------ | -------------------------------------------------------------- |
 | 1er    | +2                | 1d6       | -      | Bagarreur, Défense sans armure                                 |
-| 2e     | +2                | 1d6       | 2      | Fureur, Charge à travers                                       |
+| 2e     | +2                | 1d6       | 2      | Fureur, Rentre dedans                                          |
 | 3e     | +2                | 1d6       | 2      | Caractéristique de Style de bagarre, Sang pour force           |
 | 4e     | +2                | 1d6       | 3      | Amélioration des scores de caractéristiques, Frisson du combat |
 | 5e     | +3                | 1d8       | 3      | Attaque supplémentaire, Carnage, Mouvement rapide              |
@@ -62,3 +62,6 @@ Immédiatement après avoir effectué l'action Attaque à votre tour, vous pouve
 Vous pouvez utiliser une action bonus et dépenser 1 point de fureur pour effectuer une attaque de poussée ou prendre l'action Dash.
 ##### Prêt à l'impact
 Vous pouvez utiliser votre Fureur pour serrer les dents et résister aux blessures physiques. Vous pouvez utiliser une action bonus et dépenser 1 point de Fureur pour vous préparer à une attaque. Vous gagnez un nombre de points de vie temporaires égal à votre dé de bagarreur + votre niveau de brute.
+### Rentre dedans
+Au niveau 2, votre esprit s'est développé pour être capable de résister aux effets néfastes ou aux dangers.
+Tant qu'il vous reste au moins 1 point de Fureur, vous avez l'avantage sur les jets de sauvegarde de Constitution contre les pièges, les dangers, les sorts, le poison, les maladies ou les attaques respiratoires. Pour bénéficier de cet avantage,vous ne pouvez pas être Incapacité.
