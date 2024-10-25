@@ -1,4 +1,5 @@
 ## Table de combat
+
 Voici le tableau traduit :
 
 | Niveau | Bonus de Compétence | Caractéristiques                                                                                              | Capacités Naturelles (Cantrips) Connues | 1er | 2e  | 3e  | 4e  | 5e  | 6e  | 7e  | 8e  | 9e  |     |

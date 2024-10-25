@@ -1,4 +1,3 @@
-
 | Niveau | Bonus De maîtrise | Points Hybrides | Caractéristiques                                        | Capacités Naturelles (Cantrips) Connues | Pouvoirs Hybrides (Sorts) Connus | 1er | 2e  | 3e  | 4e  | 5e  | 6e  | 7e  | 8e  | 9e  |
 | ------ | ----------------- | --------------- | ------------------------------------------------------- | --------------------------------------- | -------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1er    | +2                | -               | Pouvoirs Hybrides (Lancer de Sorts), Ascendance Hybride | 4                                       | 2                                | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
