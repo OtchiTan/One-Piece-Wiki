@@ -7,7 +7,7 @@
 1. [Races](./Manuel%20des%20Joueurs/Chapitre 2.md)
 
     1. [Humain](./Manuel%20des%20Joueurs/Chapitre%202/Human.md)
-    1. [Homme poisson](./Manuel%20des%20Joueurs/Chapitre%202/Fishman.md)
+    1. [Homme-poisson](./Manuel%20des%20Joueurs/Chapitre%202/Fishman.md)
     1. [Sirène](./Manuel%20des%20Joueurs/Chapitre%202/Merfolk.md)
     1. [Skypiéns](./Manuel%20des%20Joueurs/Chapitre%202/Sky%20Islander.md)
     1. [Mink](./Manuel%20des%20Joueurs/Chapitre%202/Mink.md)

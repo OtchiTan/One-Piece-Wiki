@@ -2,28 +2,28 @@
 
 ## Table de combat
 
-| Niveau | Bonus de Compétence | Caractéristiques                                                     |
-| ------ | ------------------- | -------------------------------------------------------------------- |
-| 1er    | +2                  | Style de Combat, Second Souffle                                      |
-| 2e     | +2                  | Surge d'Action (une utilisation)                                     |
-| 3e     | +2                  | Type de Guerrier                                                     |
-| 4e     | +2                  | Amélioration de Caractéristiques                                     |
-| 5e     | +3                  | Attaque Supplémentaire                                               |
-| 6e     | +3                  | Amélioration de Caractéristiques                                     |
-| 7e     | +3                  | Caractéristique de Type de Guerrier                                  |
-| 8e     | +3                  | Amélioration de Caractéristiques                                     |
-| 9e     | +4                  | Indomptable (une utilisation)                                        |
-| 10e    | +4                  | Caractéristique de Type de Guerrier                                  |
-| 11e    | +4                  | Attaque Supplémentaire (2)                                           |
-| 12e    | +4                  | Amélioration de Caractéristiques                                     |
-| 13e    | +5                  | Indomptable (deux utilisations)                                      |
-| 14e    | +5                  | Amélioration de Caractéristiques                                     |
-| 15e    | +5                  | Caractéristique de Type de Guerrier                                  |
-| 16e    | +5                  | Amélioration de Caractéristiques                                     |
-| 17e    | +6                  | Surge d'Action (deux utilisations), Indomptable (trois utilisations) |
-| 18e    | +6                  | Caractéristique de Type de Guerrier                                  |
-| 19e    | +6                  | Amélioration de Caractéristiques                                     |
-| 20e    | +6                  | Attaque Supplémentaire (3)                                           |
+| Niv | Bonus de Maîtrise | Caractéristiques                                                     |
+| --- | ----------------- | -------------------------------------------------------------------- |
+| 1   | +2                | Style de Combat, Second Souffle                                      |
+| 2   | +2                | Surge d'Action (une utilisation)                                     |
+| 3   | +2                | Type de Guerrier                                                     |
+| 4   | +2                | Amélioration de Caractéristiques                                     |
+| 5   | +3                | Attaque Supplémentaire                                               |
+| 6   | +3                | Amélioration de Caractéristiques                                     |
+| 7   | +3                | Caractéristique de Type de Guerrier                                  |
+| 8   | +3                | Amélioration de Caractéristiques                                     |
+| 9   | +4                | Indomptable (une utilisation)                                        |
+| 10  | +4                | Caractéristique de Type de Guerrier                                  |
+| 11  | +4                | Attaque Supplémentaire (2)                                           |
+| 12  | +4                | Amélioration de Caractéristiques                                     |
+| 13  | +5                | Indomptable (deux utilisations)                                      |
+| 14  | +5                | Amélioration de Caractéristiques                                     |
+| 15  | +5                | Caractéristique de Type de Guerrier                                  |
+| 16  | +5                | Amélioration de Caractéristiques                                     |
+| 17  | +6                | Surge d'Action (deux utilisations), Indomptable (trois utilisations) |
+| 18  | +6                | Caractéristique de Type de Guerrier                                  |
+| 19  | +6                | Amélioration de Caractéristiques                                     |
+| 20  | +6                | Attaque Supplémentaire (3)                                           |
 
 ## Aptitudes de classe
 
@@ -53,10 +53,10 @@ Vous recevez les aptitudes de classe suivante en tant que guerrier
 
 Vous débutez avec l'équipement suivant, en plus de celui que vous octroie votre historique :
 
--   _(a)_ un côte de maille ou _(b)_ une chemise épaisse, une mitrailleuse, et 20 munitions
--   _(a)_ une arme de guerre et un bouclier ou _(b)_ deux armes de guerres
--   _(a)_ un pistolet et 20 munitions ou _(b)_ deux haches
--   _(a)_ un paquetage de donjon ou _(b)_ un pack d'explorateur
+- _(a)_ un côte de maille ou _(b)_ une chemise épaisse, une mitrailleuse, et 20 munitions
+- _(a)_ une arme de guerre et un bouclier ou _(b)_ deux armes de guerres
+- _(a)_ un pistolet et 20 munitions ou _(b)_ deux haches
+- _(a)_ un paquetage de donjon ou _(b)_ un pack d'explorateur
 
 ### Style de combat
 
