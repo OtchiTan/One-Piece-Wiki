@@ -201,15 +201,6 @@ It is important to take some artistic liberties in justifying the use of these s
 -   Tempête vengeresse
 -   True Résurrection
 
-</div>
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>CHAPTER 8 | SPELL LISTS</div>
-
-\page
-
-<div class='spellList'>
-
 ### Devilforged Spells
 
 ##### Natural Abilities/Cantrips (0 Level)

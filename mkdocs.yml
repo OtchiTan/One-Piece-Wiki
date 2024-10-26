@@ -3,18 +3,9 @@ site_url: https://otchitan.github.io/One-Piece-Wiki
 theme:
     name: material
     palette:
-        - scheme: default
-          toggle:
-              icon: material/brightness-4
-              name: Thème sombre
-          primary: custom
-          accent: red
-        - scheme: slate
-          toggle:
-              icon: material/brightness-7
-              name: Thème clair
-          primary: custom
-          accent: red
+        scheme: default
+        primary: custom
+        accent: red
     features:
         - navigation.footer
 extra_css:
