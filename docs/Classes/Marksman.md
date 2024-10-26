@@ -1,3 +1,5 @@
+# Tireur
+
 ## Table de combat
 
 | Niveau | Bonus de Compétence | Caractéristiques                                                 | Tactiques (sorts) | 1er | 2e  | 3e  | 4e  | 5e  |
@@ -30,15 +32,21 @@ Vous recevez les aptitudes de classe suivante en tant que tireur
 #### Points de vie
 
 **Dés de vie** 1d10 par niveau de tireur
+
 **Point de vie au niveau 1 :** 10 + votre modificateur de Constitution
+
 **Points de vie à plus haut niveau :** 1d10 (ou 6) + votre modificateur de Constitution par niveau de tireur au-delà du premier
 
 #### Maîtrises
 
 **Armures :** Armures légères, Armures intermédiaires, boucliers
+
 **Armes :** Armes simple, armes de guerres
+
 **Outils :** Outils de bricolage
+
 **Jet de sauvegarde :** Force, Dextérité
+
 **Compétences :** deux au choix parmi : Acrobatie, Perception, Investigation, Histoire, Perception, Escamotage, Discression et Survie
 
 #### Équipement

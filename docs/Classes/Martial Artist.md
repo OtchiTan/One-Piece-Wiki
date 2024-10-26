@@ -1,3 +1,5 @@
+# Artiste martial
+
 ## Table de combat
 
 | Niveau | Bonus de Compétence | Arts Martiaux | Points Ki | Mouvement Sans Armure | Caractéristiques                                                                                   |
@@ -30,15 +32,21 @@ Vous recevez les aptitudes de classe suivante en tant qu'artiste martial
 #### Points de vie
 
 **Dés de vie** 1d8 par niveau de tireur
+
 **Point de vie au niveau 1 :** 8 + votre modificateur de Constitution
+
 **Points de vie à plus haut niveau :** 1d8 (ou 5) + votre modificateur de Constitution par niveau d'artiste martial au-delà du premier
 
 #### Maîtrises
 
 **Armures :** Aucune
+
 **Armes :** Armes simple, lames courtes
+
 **Outils :** Choisissez un type d'outil d'artisan ou un instrument musical
+
 **Jet de sauvegarde :** Force, Dextérité
+
 **Compétences :** deux au choix parmi : Acrobatie, Athlétisme, Histoire, Perception, Religion et Discression
 
 #### Équipement

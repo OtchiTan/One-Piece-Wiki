@@ -1,3 +1,5 @@
+# Infuseur
+
 ## Table de combat
 
 | Niveau | BonusDeCompétence | Caractéristiques                                                  | Capacités Naturelles (Cantrips) Connues | Pouvoirs de Diable (Sorts) Connus | Pouvoir (Sort) Slots | NiveauSlot | Émanations Connues |
@@ -30,15 +32,21 @@ Vous recevez les aptitudes de classe suivante en tant qu'infuseur
 #### Points de vie
 
 **Dés de vie** 1d8 par niveau de chimiste
+
 **Point de vie au niveau 1 :** 8 + votre modificateur de Constitution
+
 **Points de vie à plus haut niveau :** 1d8 (ou 6) + votre modificateur de Constitution par niveau d'infuseur au-delà du premier
 
 #### Maîtrises
 
 **Armures :** Armures légères
+
 **Armes :** Armes simple
+
 **Outils :** Un type d'outil de votre choix
+
 **Jet de sauvegarde :** Sagesse, Charisme
+
 **Compétences :** deux au choix parmi : Arcane, Tromperie, Histoire, Intimidation, Investigation, Nature, Religion
 
 #### Équipement

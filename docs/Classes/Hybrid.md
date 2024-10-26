@@ -1,3 +1,7 @@
+# Hybride
+
+## Table de combat
+
 | Niveau | Bonus De maîtrise | Points Hybrides | Caractéristiques                                        | Capacités Naturelles (Cantrips) Connues | Pouvoirs Hybrides (Sorts) Connus | 1er | 2e  | 3e  | 4e  | 5e  | 6e  | 7e  | 8e  | 9e  |
 | ------ | ----------------- | --------------- | ------------------------------------------------------- | --------------------------------------- | -------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1er    | +2                | -               | Pouvoirs Hybrides (Lancer de Sorts), Ascendance Hybride | 4                                       | 2                                | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
@@ -28,15 +32,21 @@ Vous recevez les aptitudes de classe suivante en tant qu'hybride
 #### Points de vie
 
 **Dés de vie** 1d6 par niveau d'hybride
+
 **Point de vie au niveau 1 :** 6 + votre modificateur de Constitution
+
 **Points de vie à plus haut niveau :** 1d6 (ou 4) + votre modificateur de Constitution par niveau d'hybride au-delà du premier
 
 #### Maîtrises
 
 **Armures :** Aucune
+
 **Armes :** Dagues, flêchettes, fronde, scèptres, mousquets
+
 **Outils :** Aucun
+
 **Jet de sauvegarde :** Constitution, Charisme
+
 **Compétences :** deux au choix parmi : Arcane, Tromperie, Perception, Intimidation, Persuasion, Religion
 
 #### Équipement

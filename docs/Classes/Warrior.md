@@ -1,3 +1,5 @@
+# Guerrier
+
 ## Table de combat
 
 | Niveau | Bonus de Compétence | Caractéristiques                                                     |
@@ -30,15 +32,21 @@ Vous recevez les aptitudes de classe suivante en tant que guerrier
 #### Points de vie
 
 **Dés de vie** 1d10 par niveau de guerrier
+
 **Point de vie au niveau 1 :** 10 + votre modificateur de Constitution
+
 **Points de vie à plus haut niveau :** 1d10 (ou 6) + votre modificateur de Constitution par niveau de guerrier au-delà du premier
 
 #### Maîtrises
 
 **Armures :** Toutes les armures, Boucliers
+
 **Armes :** Armes simple, Arme de guerre
+
 **Outils :** Aucun
+
 **Jet de sauvegarde :** Force, Constitution
+
 **Compétences :** deux au choix parmi : Acrobatie, Dressage, Athlétisme, Histoire, Perspicacité, Intimidation, Perception, et Survie
 
 #### Équipement

@@ -1,3 +1,5 @@
+# Brute
+
 ## Table de combat
 
 | Niveau | Bonus de Maîtrise | Bagarreur | Fureur | Caractéristiques                                               |
@@ -30,15 +32,21 @@ Vous recevez les aptitudes de classe suivante en tant que brute
 #### Points de vie
 
 **Dés de vie** 1d12 par niveau de brute
+
 **Point de vie au niveau 1 :** 12 + votre modificateur de Constitution
+
 **Points de vie à plus haut niveau :** 1d12 (ou 7) + votre modificateur de Constitution par niveau de brute au-delà du premier
 
 #### Maîtrises
 
 **Armures :** Aucune
+
 **Armes :** Armes courantes, armes improvisés, coutelas
+
 **Outils :** Aucun
+
 **Jet de sauvegarde :** Force, Constitution
+
 **Compétences :** deux au choix parmi : Acrobaties, Athlétisme, Persuasion, Intimidation, Perception, Dressage et Survie
 
 #### Équipement

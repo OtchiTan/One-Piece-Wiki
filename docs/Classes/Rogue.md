@@ -1,3 +1,5 @@
+# Voleur
+
 ## Table de combat
 
 | Niveau | Bonus de Compétence | Attaque Sournoise | Caractéristiques                             |
@@ -30,15 +32,21 @@ Vous recevez les aptitudes de classe suivante en tant que voleur
 #### Points de vie
 
 **Dés de vie** 1d8 par niveau de voleur
+
 **Point de vie au niveau 1 :** 8 + votre modificateur de Constitution
+
 **Points de vie à plus haut niveau :** 1d8 (ou 5) + votre modificateur de Constitution par niveau de voleur au-delà du premier
 
 #### Maîtrises
 
 **Armures :** Armures légères
+
 **Armes :** Armes simple, pistolets, épées longues, rapières, épée courtes
+
 **Outils :** Outils de voleur
+
 **Jet de sauvegarde :** Dextérité, Intelligence
+
 **Compétences :** deux au choix parmi : Acrobatie, Athlétisme, Tromperie, Perspicacité
 
 #### Équipement

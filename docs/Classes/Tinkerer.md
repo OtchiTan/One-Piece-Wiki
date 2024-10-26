@@ -1,3 +1,5 @@
+# Bricoleur
+
 ## Table de combat
 
 | Niveau | Bonus de Compétence | Caractéristiques                         | Capacités Naturelles (Cantrips) Connues | 1er | 2e  | 3e  | 4e  | 5e  | 6e  | 7e  | 8e  | 9e  |
@@ -30,15 +32,21 @@ Vous recevez les aptitudes de classe suivante en tant que bricoleur
 #### Points de vie
 
 **Dés de vie** 1d6 par niveau de bricoleur
+
 **Point de vie au niveau 1 :** 6 + votre modificateur de Constitution
+
 **Points de vie à plus haut niveau :** 1d6 (ou 4) + votre modificateur de Constitution par niveau de bricoleur au-delà du premier
 
 #### Maîtrises
 
 **Armures :** Aucune
+
 **Armes :** Dagues, flêchettes, fronde, sceptre, mousquets
+
 **Outils :** Outils de voleurs, outils de bricolage, ou un type d'outils d'artisan de votre choix
+
 **Jet de sauvegarde :** Intelligence, Sagesse
+
 **Compétences :** deux au choix parmi : Arcane, Histoire, Intuision, Investigation, Médecine et Religion
 
 #### Équipement

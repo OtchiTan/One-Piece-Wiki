@@ -1,3 +1,5 @@
+# Prêtre
+
 ## Table de combat
 
 Voici le tableau traduit :
@@ -32,15 +34,21 @@ Vous recevez les aptitudes de classe suivante en tant que prêtre
 #### Points de vie
 
 **Dés de vie** 1d8 par niveau de prêtre
+
 **Point de vie au niveau 1 :** 8 + votre modificateur de Constitution
+
 **Points de vie à plus haut niveau :** 1d8 (ou 5) + votre modificateur de Constitution par niveau de prêtre au-delà du premier
 
 #### Maîtrises
 
 **Armures :** Armures légères, Armures intermédiaires, boucliers
+
 **Armes :** Armes simple
+
 **Outils :** Aucuns
+
 **Jet de sauvegarde :** Sagesse, Charisme
+
 **Compétences :** deux au choix parmi : Histoire, Perception, Médecine, Persuation, et Religion
 
 #### Équipement
