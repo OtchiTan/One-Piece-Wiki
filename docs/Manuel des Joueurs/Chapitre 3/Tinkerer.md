@@ -2,28 +2,28 @@
 
 ## Table de combat
 
-| Niv | Bonus de Maîtrise | Caractéristiques                         | Capacités Naturelles (Cantrips) Connues | 1er | 2e  | 3e  | 4e  | 5e  | 6e  | 7e  | 8e  | 9e  |
-| --- | ----------------- | ---------------------------------------- | --------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1   | +2                | Lancement de Sorts, Recharge             | 3                                       | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 2   | +2                | Étude de Tinkerer                        | 3                                       | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 3   | +2                | Technologie de Cantrip Adaptative        | 3                                       | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
-| 4   | +2                | Amélioration de Score de Caractéristique | 4                                       | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
-| 5   | +3                | -                                        | 4                                       | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
-| 6   | +3                | Caractéristique d'Étude de Tinkerer      | 4                                       | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
-| 7   | +3                | -                                        | 4                                       | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
-| 8   | +3                | Amélioration de Score de Caractéristique | 4                                       | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
-| 9   | +4                | -                                        | 4                                       | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
-| 10  | +4                | Caractéristique d'Étude de Tinkerer      | 5                                       | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
-| 11  | +4                | -                                        | 5                                       | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 12  | +4                | Amélioration de Score de Caractéristique | 5                                       | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 13  | +5                | -                                        | 5                                       | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 14  | +5                | Caractéristique d'Étude de Tinkerer      | 5                                       | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 15  | +5                | -                                        | 5                                       | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
-| 16  | +5                | Amélioration de Score de Caractéristique | 5                                       | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
-| 17  | +6                | -                                        | 5                                       | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18  | +6                | Maître de l'Innovation                   | 5                                       | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19  | +6                | Amélioration de Score de Caractéristique | 5                                       | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20  | +6                | Technologie Ultime                       | 5                                       | 4   | 3   | 3   | 3   | 3   | 3   | 2   | 1   | 1   |
+| Niv | Bonus de Maîtrise | Caractéristiques                         | Capacités Naturelles Connues | 1er | 2e  | 3e  | 4e  | 5e  | 6e  | 7e  | 8e  | 9e  |
+| --- | ----------------- | ---------------------------------------- | ---------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   | +2                | Lancement de Sorts, Recharge             | 3                            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2   | +2                | Étude de Tinkerer                        | 3                            | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3   | +2                | Technologie de Cantrip Adaptative        | 3                            | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 4   | +2                | Amélioration de Score de Caractéristique | 4                            | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5   | +3                | -                                        | 4                            | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 6   | +3                | Caractéristique d'Étude de Tinkerer      | 4                            | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
+| 7   | +3                | -                                        | 4                            | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
+| 8   | +3                | Amélioration de Score de Caractéristique | 4                            | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9   | +4                | -                                        | 4                            | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10  | +4                | Caractéristique d'Étude de Tinkerer      | 5                            | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11  | +4                | -                                        | 5                            | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12  | +4                | Amélioration de Score de Caractéristique | 5                            | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13  | +5                | -                                        | 5                            | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14  | +5                | Caractéristique d'Étude de Tinkerer      | 5                            | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15  | +5                | -                                        | 5                            | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16  | +5                | Amélioration de Score de Caractéristique | 5                            | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 17  | +6                | -                                        | 5                            | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18  | +6                | Maître de l'Innovation                   | 5                            | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19  | +6                | Amélioration de Score de Caractéristique | 5                            | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20  | +6                | Technologie Ultime                       | 5                            | 4   | 3   | 3   | 3   | 3   | 3   | 2   | 1   | 1   |
 
 ## Aptitudes de classe
 
@@ -59,19 +59,19 @@ Vous débutez avec l'équipement suivant, en plus de celui que vous octroie votr
 
 ### Pouvoir de création (lanceur de sorts)
 
-En tant qu'étudiant en robotique et en technologie avancée, vous avez le gadget de votre choix ainsi que des plans contenant des Créations (sorts) qui montrent les premières lueurs de vos véritables capacités. Cette classe utilise la liste des sorts de bricoleur du chapitre 8.
+En tant qu'étudiant en robotique et en technologie avancée, vous avez le gadget de votre choix ainsi que des plans contenant des Créations (sorts) qui montrent les premières lueurs de vos véritables capacités. Cette classe utilise la liste des sorts de bricoleur du [chapitre 8](../Chapitre%208.md).
 
 #### Gadget et plans (livre de sorts)
 
-Au 1er niveau, vous disposez d'un gadget et de plans (similaires à un livre de sorts dans le 5e standard) contenant six sorts de bricoleur de 1er niveau de votre choix. Vos plans sont des instructions qui vous indiquent comment construire votre gadget, ainsi qu'un répertoire des sorts et des capacités que vous découvrez, à l'exception de vos capacités naturelles (Cantrips), qui peuvent être utilisées avec ou sans vos plans et votre gadget en utilisant des matériaux ou des dispositifs et des méthodes distincts. Votre gadget est une forme de source d'énergie (voir le chapitre 5, « Matériel d'aventurier »), et il est utilisé comme foyer d'incantation.
+Au 1er niveau, vous disposez d'un gadget et de plans (similaires à un livre de sorts dans le 5e standard) contenant six sorts de bricoleur de 1er niveau de votre choix. Vos plans sont des instructions qui vous indiquent comment construire votre gadget, ainsi qu'un répertoire des sorts et des capacités que vous découvrez, à l'exception de vos capacités naturelles , qui peuvent être utilisées avec ou sans vos plans et votre gadget en utilisant des matériaux ou des dispositifs et des méthodes distincts. Votre gadget est une forme de source d'énergie (voir le chapitre 5, « Matériel d'aventurier »), et il est utilisé comme foyer d'incantation.
 
 #### Outils nécessaires
 
 Pour construire, compléter et utiliser votre gadget, qui vous permet de lancer les effets de votre pouvoir de création de bricoleur (sort), vous devez utiliser des outils spéciaux - en particulier des outils de voleur ou une sorte d'outil d'artisan. Vous devez maîtriser l'outil en question pour pouvoir l'utiliser de cette manière.
 
-#### Capacités naturelles (Cantrips)
+#### Capacités naturelles
 
-Au 1er niveau, vous connaissez trois capacités naturelles (Cantrips) de votre choix dans la liste des sorts du bricoleur. Vous apprenez d'autres tours de passe-passe de votre choix à des niveaux plus élevés, comme indiqué dans la colonne Capacités naturelles (tours de passe-passe) connues de la table de passe-passe.
+Au 1er niveau, vous connaissez trois capacités naturelles de votre choix dans la liste des sorts du bricoleur. Vous apprenez d'autres tours de passe-passe de votre choix à des niveaux plus élevés, comme indiqué dans la colonne Capacités naturelles (tours de passe-passe) connues de la table de passe-passe.
 
 #### Préparer et utiliser les créations (lancer des sorts)
 
@@ -85,9 +85,9 @@ Vous pouvez modifier votre liste de pouvoirs de création préparés (sorts) ins
 
 #### Capacité de pouvoir de création (capacité de lanceur de sorts)
 
-L'intelligence est votre capacité de création (lanceur de sorts) pour vos pouvoirs de création de bricoleur (sorts), puisque vous apprenez vos sorts par l'étude et la mémorisation. Vous utilisez votre Intelligence chaque fois qu'un sort fait référence à votre capacité de lanceur de sorts. De plus, vous utilisez votre modificateur d'Intelligence pour déterminer le DC du jet de sauvegarde d'un pouvoir de création de bricoleur (sort) que vous lancez et pour effectuer un jet d'attaque avec un tel pouvoir.
+L'intelligence est votre capacité de création (lanceur de sorts) pour vos pouvoirs de création de bricoleur (sorts), puisque vous apprenez vos sorts par l'étude et la mémorisation. Vous utilisez votre Intelligence chaque fois qu'un sort fait référence à votre capacité de lanceur de sorts. De plus, vous utilisez votre modificateur d'Intelligence pour déterminer le DD du jet de sauvegarde d'un pouvoir de création de bricoleur (sort) que vous lancez et pour effectuer un jet d'attaque avec un tel pouvoir.
 
-**DC de sauvegarde de la création** = 8 + votre bonus de compétence + votre modificateur d'Intelligence
+**DD de sauvegarde de la création** = 8 + votre bonus de compétence + votre modificateur d'Intelligence
 votre modificateur d'Intelligence
 
 **Modificateur d'attaque de création** = votre bonus de compétence + votre modificateur d'intelligence

@@ -85,9 +85,9 @@ Vous pouvez dépenser ces points pour alimenter diverses caractéristiques de ki
 
 Lorsque vous dépensez un point de ki, il est indisponible jusqu'à la fin d'un repos court ou long, à l'issue duquel vous réinjectez tout le ki dépensé en vous. Vous devez passer au moins 30 minutes de ce repos à méditer pour récupérer vos points de ki.
 
-Certaines de vos caractéristiques de ki exigent que votre cible fasse un jet de sauvegarde pour résister aux effets de la caractéristique. Le DC du jet de sauvegarde est calculé comme suit :
+Certaines de vos caractéristiques de ki exigent que votre cible fasse un jet de sauvegarde pour résister aux effets de la caractéristique. Le DD du jet de sauvegarde est calculé comme suit :
 
-**Sauvegarde Ki DC** = 8 + votre bonus de compétence + votre modificateur de sagesse
+**Sauvegarde Ki DD** = 8 + votre bonus de compétence + votre modificateur de sagesse
 votre modificateur de sagesse
 
 #### Barrage rapide

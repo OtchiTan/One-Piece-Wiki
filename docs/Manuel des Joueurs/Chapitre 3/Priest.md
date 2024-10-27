@@ -4,28 +4,28 @@
 
 Voici le tableau traduit :
 
-| Niv | Bonus de Maîtrise | Caractéristiques                                                                                              | Capacités Naturelles (Cantrips) Connues | 1er | 2e  | 3e  | 4e  | 5e  | 6e  | 7e  | 8e  | 9e  |     |
-| --- | ----------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1   | +2                | Pouvoir Sacré (Lancer de Sorts), Domaine Divin                                                                | 3                                       | 2   | —   | —   | —   | —   | —   | —   | —   | —   |     |
-| 2   | +2                | Canaliser la Divinité, Caractéristique de Domaine Divin                                                       | 3                                       | 3   | —   | —   | —   | —   | —   | —   | —   | —   |     |
-| 3   | +2                | -                                                                                                             | 3                                       | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |     |
-| 4   | +2                | Amélioration de Score de Caractéristique                                                                      | 4                                       | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |     |
-| 5   | +3                | Détruire les Morts-vivants (CR 1/2)                                                                           | 4                                       | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |     |
-| 6   | +3                | Canaliser la Divinité (x2), Caractéristique de Domaine Divin                                                  | 4                                       | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |     |
-| 7   | +3                | -                                                                                                             | 4                                       | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |     |
-| 8   | +3                | Amélioration de Score de Caractéristique, Détruire les Morts-vivants (CR 1), Caractéristique de Domaine Divin | 4                                       | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |     |
-| 9   | +4                | -                                                                                                             | 4                                       | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |     |
-| 10  | +4                | Un Appel au-delà                                                                                              | 5                                       | 4   | 3   | 3   | 3   | 3   | 2   | —   | —   | —   |     |
-| 11  | +4                | Détruire les Morts-vivants (CR 2)                                                                             | 5                                       | 4   | 3   | 3   | 3   | 3   | 2   | 1   | —   | —   |     |
-| 12  | +4                | Amélioration de Score de Caractéristique                                                                      | 5                                       | 4   | 3   | 3   | 3   | 3   | 2   | 1   | —   | —   |     |
-| 13  | +5                | -                                                                                                             | 5                                       | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | —   |     |
-| 14  | +5                | Détruire les Morts-vivants (CR 3)                                                                             | 5                                       | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | —   |     |
-| 15  | +5                | -                                                                                                             | 5                                       | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |     |
-| 16  | +5                | Amélioration de Score de Caractéristique                                                                      | 5                                       | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |     |
-| 17  | +6                | Détruire les Morts-vivants (CR 4), Caractéristique de Domaine Divin                                           | 5                                       | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |     |
-| 18  | +6                | Canaliser la Divinité (x3)                                                                                    | 5                                       | 4   | 3   | 3   | 3   | 3   | 3   | 1   | 1   | 1   |     |
-| 19  | +6                | Amélioration de Score de Caractéristique                                                                      | 5                                       | 4   | 3   | 3   | 3   | 3   | 3   | 2   | 1   | 1   |     |
-| 20  | +6                | Amélioration de l'Appel au-delà                                                                               | 5                                       | 4   | 3   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| Niv | Bonus de Maîtrise | Caractéristiques                                                                                              | Capacités Naturelles Connues | 1er | 2e  | 3e  | 4e  | 5e  | 6e  | 7e  | 8e  | 9e  |     |
+| --- | ----------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   | +2                | Pouvoir Sacré (Lancer de Sorts), Domaine Divin                                                                | 3                            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |     |
+| 2   | +2                | Canaliser la Divinité, Caractéristique de Domaine Divin                                                       | 3                            | 3   | —   | —   | —   | —   | —   | —   | —   | —   |     |
+| 3   | +2                | -                                                                                                             | 3                            | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |     |
+| 4   | +2                | Amélioration de Score de Caractéristique                                                                      | 4                            | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |     |
+| 5   | +3                | Détruire les Morts-vivants (CR 1/2)                                                                           | 4                            | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |     |
+| 6   | +3                | Canaliser la Divinité (x2), Caractéristique de Domaine Divin                                                  | 4                            | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |     |
+| 7   | +3                | -                                                                                                             | 4                            | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |     |
+| 8   | +3                | Amélioration de Score de Caractéristique, Détruire les Morts-vivants (CR 1), Caractéristique de Domaine Divin | 4                            | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |     |
+| 9   | +4                | -                                                                                                             | 4                            | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |     |
+| 10  | +4                | Un Appel au-delà                                                                                              | 5                            | 4   | 3   | 3   | 3   | 3   | 2   | —   | —   | —   |     |
+| 11  | +4                | Détruire les Morts-vivants (CR 2)                                                                             | 5                            | 4   | 3   | 3   | 3   | 3   | 2   | 1   | —   | —   |     |
+| 12  | +4                | Amélioration de Score de Caractéristique                                                                      | 5                            | 4   | 3   | 3   | 3   | 3   | 2   | 1   | —   | —   |     |
+| 13  | +5                | -                                                                                                             | 5                            | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | —   |     |
+| 14  | +5                | Détruire les Morts-vivants (CR 3)                                                                             | 5                            | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | —   |     |
+| 15  | +5                | -                                                                                                             | 5                            | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |     |
+| 16  | +5                | Amélioration de Score de Caractéristique                                                                      | 5                            | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |     |
+| 17  | +6                | Détruire les Morts-vivants (CR 4), Caractéristique de Domaine Divin                                           | 5                            | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |     |
+| 18  | +6                | Canaliser la Divinité (x3)                                                                                    | 5                            | 4   | 3   | 3   | 3   | 3   | 3   | 1   | 1   | 1   |     |
+| 19  | +6                | Amélioration de Score de Caractéristique                                                                      | 5                            | 4   | 3   | 3   | 3   | 3   | 3   | 2   | 1   | 1   |     |
+| 20  | +6                | Amélioration de l'Appel au-delà                                                                               | 5                            | 4   | 3   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ## Aptitudes de classe
 
@@ -63,11 +63,11 @@ Vous débutez avec l'équipement suivant, en plus de celui que vous octroie votr
 
 ### Puissance sacrée (Lancer de sorts)
 
-En tant que canal de l'énergie divine, vous pouvez lancer des pouvoirs sacrés de prêtre (sorts). Les pouvoirs sacrés du prêtre comptent comme des sorts de prêtre dans le chapitre 8.
+En tant que canal de l'énergie divine, vous pouvez lancer des pouvoirs sacrés de prêtre (sorts). Les pouvoirs sacrés du prêtre comptent comme des sorts de prêtre dans le [chapitre 8](../Chapitre%208.md).
 
-#### Capacités naturelles (Cantrips)
+#### Capacités naturelles
 
-Au 1er niveau, vous connaissez trois sortilèges de votre choix dans la liste des sorts de prêtre. Vous apprenez d'autres cantrips de prêtre de votre choix aux niveaux supérieurs, comme indiqué dans la colonne Natural Abilities Known (Cantrips Known) de la table des prêtres.
+Au 1er niveau, vous connaissez trois sortilèges de votre choix dans la liste des sorts de prêtre. Vous apprenez d'autres capacités naturelle de prêtre de votre choix aux niveaux supérieurs, comme indiqué dans la colonne Natural Abilities Known (capacités naturelle Known) de la table des prêtres.
 
 #### Préparer et lancer des pouvoirs sacrés (sorts)
 
@@ -81,9 +81,9 @@ Vous pouvez modifier votre liste de pouvoirs sacrés préparés à la fin d'un r
 
 #### Pouvoir spécial (lanceur de sorts)
 
-La sagesse est votre capacité de pouvoir spécial (lanceur de sorts) pour vos pouvoirs sacrés de prêtre (sorts). La force de vos pouvoirs sacrés provient de votre dévotion à votre Dieu. Vous utilisez votre Sagesse chaque fois qu'un pouvoir sacré de prêtre (sort) fait référence à votre capacité de lanceur de sorts. De plus, vous utilisez votre modificateur de Sagesse lorsque vous fixez le DC du jet de sauvegarde pour un pouvoir sacré de prêtre que vous lancez et lorsque vous faites un jet d'attaque avec un tel pouvoir.
+La sagesse est votre capacité de pouvoir spécial (lanceur de sorts) pour vos pouvoirs sacrés de prêtre (sorts). La force de vos pouvoirs sacrés provient de votre dévotion à votre Dieu. Vous utilisez votre Sagesse chaque fois qu'un pouvoir sacré de prêtre (sort) fait référence à votre capacité de lanceur de sorts. De plus, vous utilisez votre modificateur de Sagesse lorsque vous fixez le DD du jet de sauvegarde pour un pouvoir sacré de prêtre que vous lancez et lorsque vous faites un jet d'attaque avec un tel pouvoir.
 
-**DC de sauvegarde de la puissance sacrée** = 8 + votre bonus de compétence + votre modificateur de sagesse
+**DD de sauvegarde de la puissance sacrée** = 8 + votre bonus de compétence + votre modificateur de sagesse
 
 **modificateur d'attaque de la puissance sacrée** = votre bonus de compétence + votre modificateur de sagesse
 votre modificateur de sagesse
@@ -112,4 +112,4 @@ Au 2e niveau, vous gagnez la capacité de canaliser l'énergie divine directemen
 
 Lorsque vous utilisez votre canal de divinité, vous choisissez l'effet à créer. Vous devez ensuite terminer un repos court ou long pour utiliser à nouveau votre divinité de canal.
 
-Certains effets de la Divinité des canaux nécessitent des jets de sauvegarde. Lorsque vous utilisez un effet de cette classe, le DC est égal au DC de sauvegarde de votre pouvoir sacré de prêtre.
+Certains effets de la Divinité des canaux nécessitent des jets de sauvegarde. Lorsque vous utilisez un effet de cette classe, le DD est égal au DD de sauvegarde de votre pouvoir sacré de prêtre.

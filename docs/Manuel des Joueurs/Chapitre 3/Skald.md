@@ -2,28 +2,28 @@
 
 ## Table de combat
 
-| Niv | Bonus de Maîtrise | Caractéristiques                                              | Capacités Naturelles (Cantrips) Connues | Pouvoirs Spirituels (Sorts) Connus | 1er | 2e  | 3e  | 4e  | 5e  | 6e  | 7e  | 8e  | 9e  |
-| --- | ----------------- | ------------------------------------------------------------- | --------------------------------------- | ---------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1   | +2                | Pouvoirs Spirituels (Lancement de Sorts), Vers de Skalid (d6) | 2                                       | 4                                  | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 2   | +2                | Jack of All Trades, Chanson de la Mer (d6), Vers Versatile    | 2                                       | 5                                  | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 3   | +2                | École de Musicien, Expertise                                  | 2                                       | 6                                  | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
-| 4   | +2                | Amélioration de Score de Caractéristique                      | 3                                       | 7                                  | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
-| 5   | +3                | Vers de Skalid (d8), Vers Continué                            | 3                                       | 8                                  | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
-| 6   | +3                | Caractéristique d'École de Musicien, Contrevers               | 3                                       | 9                                  | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
-| 7   | +3                | -                                                             | 3                                       | 10                                 | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
-| 8   | +3                | Amélioration de Score de Caractéristique                      | 3                                       | 11                                 | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
-| 9   | +4                | Chanson de la Mer (d8)                                        | 3                                       | 12                                 | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
-| 10  | +4                | Vers de Skalid (d10), Expertise, Conte des Légendes           | 4                                       | 14                                 | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
-| 11  | +4                | -                                                             | 4                                       | 15                                 | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 12  | +4                | Amélioration de Score de Caractéristique                      | 4                                       | 15                                 | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 13  | +5                | Chanson de la Mer (d10)                                       | 4                                       | 16                                 | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 14  | +5                | Caractéristique d'École de Musicien, Conte des Légendes       | 4                                       | 18                                 | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 15  | +5                | Vers de Skalid (d12)                                          | 4                                       | 19                                 | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
-| 16  | +5                | Amélioration de Score de Caractéristique                      | 4                                       | 19                                 | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
-| 17  | +6                | Chanson de la Mer (d12)                                       | 4                                       | 20                                 | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18  | +6                | Conte des Légendes                                            | 4                                       | 22                                 | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19  | +6                | Amélioration de Score de Caractéristique                      | 4                                       | 22                                 | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20  | +6                | Vers Supérieur                                                | 4                                       | 22                                 | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| Niv | Bonus de Maîtrise | Caractéristiques                                              | Capacités Naturelles Connues | Pouvoirs Spirituels (Sorts) Connus | 1er | 2e  | 3e  | 4e  | 5e  | 6e  | 7e  | 8e  | 9e  |
+| --- | ----------------- | ------------------------------------------------------------- | ---------------------------- | ---------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   | +2                | Pouvoirs Spirituels (Lancement de Sorts), Vers de Skalid (d6) | 2                            | 4                                  | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2   | +2                | Jack of All Trades, Chanson de la Mer (d6), Vers Versatile    | 2                            | 5                                  | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3   | +2                | École de Musicien, Expertise                                  | 2                            | 6                                  | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 4   | +2                | Amélioration de Score de Caractéristique                      | 3                            | 7                                  | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5   | +3                | Vers de Skalid (d8), Vers Continué                            | 3                            | 8                                  | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 6   | +3                | Caractéristique d'École de Musicien, Contrevers               | 3                            | 9                                  | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
+| 7   | +3                | -                                                             | 3                            | 10                                 | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
+| 8   | +3                | Amélioration de Score de Caractéristique                      | 3                            | 11                                 | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9   | +4                | Chanson de la Mer (d8)                                        | 3                            | 12                                 | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10  | +4                | Vers de Skalid (d10), Expertise, Conte des Légendes           | 4                            | 14                                 | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11  | +4                | -                                                             | 4                            | 15                                 | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12  | +4                | Amélioration de Score de Caractéristique                      | 4                            | 15                                 | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13  | +5                | Chanson de la Mer (d10)                                       | 4                            | 16                                 | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14  | +5                | Caractéristique d'École de Musicien, Conte des Légendes       | 4                            | 18                                 | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15  | +5                | Vers de Skalid (d12)                                          | 4                            | 19                                 | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16  | +5                | Amélioration de Score de Caractéristique                      | 4                            | 19                                 | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 17  | +6                | Chanson de la Mer (d12)                                       | 4                            | 20                                 | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18  | +6                | Conte des Légendes                                            | 4                            | 22                                 | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19  | +6                | Amélioration de Score de Caractéristique                      | 4                            | 22                                 | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20  | +6                | Vers Supérieur                                                | 4                            | 22                                 | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ## Aptitudes de classe
 
@@ -60,9 +60,9 @@ Vous débutez avec l'équipement suivant, en plus de celui que vous octroie votr
 
 ### Pouvoir de l'esprit (Lanceur de sorts)
 
-Vous avez appris à vous accorder spirituellement avec les émotions de ceux qui vous entourent et à projeter vos sentiments dans le monde pour créer différents effets magiques. Cette classe utilisera la liste des sorts Musicien du chapitre 8.
+Vous avez appris à vous accorder spirituellement avec les émotions de ceux qui vous entourent et à projeter vos sentiments dans le monde pour créer différents effets magiques. Cette classe utilisera la liste des sorts Musicien du [chapitre 8](../Chapitre%208.md).
 
-#### Capacités naturelles (Cantrips)
+#### Capacités naturelles
 
 Vous connaissez deux sortilèges de votre choix dans la liste des sortilèges musicien. Vous apprenez d'autres sortilèges musicien de votre choix à des niveaux plus élevés, comme indiqué dans la colonne Capacités naturelles (sortilèges) connues de la table de Musicien.
 
@@ -82,9 +82,9 @@ De plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir l'
 
 #### Capacité de l'esprit (lanceur de sorts)
 
-Le charisme est votre capacité d'esprit (lanceur de sorts) pour vos pouvoirs spirituels musicien. Votre pouvoir provient du cœur et de l'âme que vous mettez dans l'interprétation de votre musique ou de votre discours. Vous utilisez votre Charisme chaque fois qu'un pouvoir spirituel (sort) fait référence à votre capacité de lanceur de sorts. De plus, vous utilisez votre modificateur de Charisme pour déterminer le DC du jet de sauvegarde pour les pouvoirs spirituels de Musicien que vous lancez et pour effectuer un jet d'attaque avec l'un d'entre eux.
+Le charisme est votre capacité d'esprit (lanceur de sorts) pour vos pouvoirs spirituels musicien. Votre pouvoir provient du cœur et de l'âme que vous mettez dans l'interprétation de votre musique ou de votre discours. Vous utilisez votre Charisme chaque fois qu'un pouvoir spirituel (sort) fait référence à votre capacité de lanceur de sorts. De plus, vous utilisez votre modificateur de Charisme pour déterminer le DD du jet de sauvegarde pour les pouvoirs spirituels de Musicien que vous lancez et pour effectuer un jet d'attaque avec l'un d'entre eux.
 
-**DC de sauvegarde de l'esprit** = 8 + votre bonus de compétence + votre modificateur de Charisme
+**DD de sauvegarde de l'esprit** = 8 + votre bonus de compétence + votre modificateur de Charisme
 
 **modificateur d'attaque de l'esprit** = votre bonus de compétence + votre modificateur de charisme
 

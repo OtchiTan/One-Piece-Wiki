@@ -1,1378 +1,1376 @@
-# Chapitre 8: Liste des sorts
+# Chapitre 8 : Liste de sorts
 
-This list provides all of the different spells which are used as Natural Abilities, Inventions, Tactics, or Powers listed in the various classes throughout Chapter 3. Some spells have not been omitted from these lists so as to better fit the theme of a One Piece setting. These spells are found in standard Dungeons and Dragons 5th edition and all of its expansions and suppplement books. Be sure to look up any spells that aren't in the standard 5e PHB to see which expansion book they're in.
+Cette liste fournit tous les sorts différents qui sont utilisés comme des capacités naturelles, des inventions, des tactiques ou des pouvoirs énumérés dans les différentes classes du chapitre 3. Certains sorts n'ont pas été omis de ces listes afin de mieux correspondre au thème de One Piece. Ces sorts se trouvent dans la 5e édition de Donjons et Dragons et dans toutes ses extensions et livres complémentaires. N'oubliez pas de rechercher les sorts qui ne figurent pas dans la PHB 5e standard pour savoir dans quel livre d'extension ils se trouvent.
 
-It is important to take some artistic liberties in justifying the use of these spells in each class. For example, if a Tinkerer casts fireball, the DM or player can describe it as the character shooting an explosion of flames out of their gadget using some form of sci-fi power source.
+Il est important de prendre quelques libertés artistiques pour justifier l'utilisation de ces sorts dans chaque classe. Par exemple, si un bricoleur lance Boule de feu, le MD ou le joueur peut décrire le personnage comme tirant une explosion de flammes de son gadget en utilisant une source d'énergie de science-fiction.
 
-**_Legend._** Spells marked with ^ are custom spells unique to this system, and are shown later in this chapter under Custom Spells.
+**_Légende._** Les sorts marqués d'un ^ sont des sorts personnalisés propres à ce système, et sont présentés plus loin dans ce chapitre sous la rubrique Sorts personnalisés.
 
-### Chemist Spells
+### Sorts de chimiste
 
-##### Natural Abilities/Cantrips (0 Level)
+##### Capacités Naturelle
 
--   Contrôle des flammes
--   Embrasement
--   Druidisme
--   Gelure
--   Assistance
--   Saute de vent
--   Infestation
--   Pierre magique
--   Réparation
--   Façonnage de la terre
--   Bouffée de poison
--   Sauvagerie primitive
--   Flammes
--   Résistance
--   Gourdin magique
--   Fouet épineux
--   Coup de tonnerre
+-   [Contrôle des flammes](https://www.aidedd.org/dnd/sorts.php?vf=controle-des-flammes)
+-   [Embrasement](https://www.aidedd.org/dnd/sorts.php?vf=embrasement)
+-   [Druidisme](https://www.aidedd.org/dnd/sorts.php?vf=druidisme)
+-   [Gelure](https://www.aidedd.org/dnd/sorts.php?vf=gelure)
+-   [Assistance](https://www.aidedd.org/dnd/sorts.php?vf=assistance)
+-   [Saute de vent](https://www.aidedd.org/dnd/sorts.php?vf=saute-de-vent)
+-   [Infestation](https://www.aidedd.org/dnd/sorts.php?vf=infestation)
+-   [Pierre magique](https://www.aidedd.org/dnd/sorts.php?vf=pierre-magique)
+-   [Réparation](https://www.aidedd.org/dnd/sorts.php?vf=reparation)
+-   [Façonnage de la terre](https://www.aidedd.org/dnd/sorts.php?vf=faconnage-de-la-terre)
+-   [Bouffée de poison](https://www.aidedd.org/dnd/sorts.php?vf=bouffee-de-poison)
+-   [Sauvagerie primitive](https://www.aidedd.org/dnd/sorts.php?vf=sauvagerie-primitive)
+-   [Flammes](https://www.aidedd.org/dnd/sorts.php?vf=flammes)
+-   [Résistance](https://www.aidedd.org/dnd/sorts.php?vf=resistance)
+-   [Gourdin magique](https://www.aidedd.org/dnd/sorts.php?vf=gourdin-magique)
+-   [Fouet épineux](https://www.aidedd.org/dnd/sorts.php?vf=fouet-epineux)
+-   [Coup de tonnerre](https://www.aidedd.org/dnd/sorts.php?vf=coup-de-tonnerre)
 
-##### 1st Level
+##### Niveau 1
 
--   Absorption des éléments
--   Animal Amiship
--   Lien avec une bête
--   Charme-personne
--   Création ou destruction d'eau
--   Soins
--   Détection de la magie
--   Détection du poison et des maladies
--   Secousse sismique
--   Enchevêtrement
--   Lueurs féeriques
--   Nappe de brouillard
--   Baies nourricières
--   Guérisoning Word
--   Couteau de glace
--   Saut
--   Grande foulée
--   Protection contre le mal et le bien
--   Purification de nourriture et d'eau
--   Collet
--   Communication avec les animaux
--   Vague tonnante
+-   [Absorption des éléments](https://www.aidedd.org/dnd/sorts.php?vf=absorption-des-elements)
+-   Animal [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)hip
+-   [Lien avec une bête](https://www.aidedd.org/dnd/sorts.php?vf=lien-avec-une-bete)
+-   [Charme-personne](https://www.aidedd.org/dnd/sorts.php?vf=charme-personne)
+-   [Création ou destruction d'eau](https://www.aidedd.org/dnd/sorts.php?vf=creation-ou-destruction-d-eau)
+-   [Soins](https://www.aidedd.org/dnd/sorts.php?vf=soins)
+-   [Détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie)
+-   [Détection du poison et des maladies](https://www.aidedd.org/dnd/sorts.php?vf=detection-du-poison-et-des-maladies)
+-   [Secousse sismique](https://www.aidedd.org/dnd/sorts.php?vf=secousse-sismique)
+-   [Enchevêtrement](https://www.aidedd.org/dnd/sorts.php?vf=enchevetrement)
+-   [Lueurs féeriques](https://www.aidedd.org/dnd/sorts.php?vf=lueurs-feeriques)
+-   [Nappe de brouillard](https://www.aidedd.org/dnd/sorts.php?vf=nappe-de-brouillard)
+-   [Baies nourricières](https://www.aidedd.org/dnd/sorts.php?vf=baies-nourricieres)
+-   [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)ing Word
+-   [Couteau de glace](https://www.aidedd.org/dnd/sorts.php?vf=couteau-de-glace)
+-   [Saut](https://www.aidedd.org/dnd/sorts.php?vf=saut)
+-   [Grande foulée](https://www.aidedd.org/dnd/sorts.php?vf=grande-foulee)
+-   [Protection contre le mal et le bien](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-le-mal-et-le-bien)
+-   [Purification de nourriture et d'eau](https://www.aidedd.org/dnd/sorts.php?vf=purification-de-nourriture-et-d-eau)
+-   [Collet](https://www.aidedd.org/dnd/sorts.php?vf=collet)
+-   [Communication avec les animaux](https://www.aidedd.org/dnd/sorts.php?vf=communication-avec-les-animaux)
+-   [Vague tonnante](https://www.aidedd.org/dnd/sorts.php?vf=vague-tonnante)
 
-##### 2nd Level
+##### Niveau 2
 
 -   Air Bubble
--   Messager animal
--   Peau d'écorce
--   Sens animal
--   Flamme éternelle
--   Vision dans le noir
--   Tourbillon de poussière
--   Attraction terrestre
--   Amélioration de caractéristique
--   Agrandissement/Rapetissement
--   Sens des pièges
--   Lame de feu
--   Sphère de feu
--   Bourrasque
--   Esprit guérisseur
--   Métal brûlant
--   Immobilisation de personne
--   Restauration partielle
--   Localisation d'animaux ou de plantes
--   Localisation d'objet
--   Rayon de lune
+-   [Messager animal](https://www.aidedd.org/dnd/sorts.php?vf=messager-animal)
+-   [Peau d'écorce](https://www.aidedd.org/dnd/sorts.php?vf=peau-d-ecorce)
+-   [Sens animal](https://www.aidedd.org/dnd/sorts.php?vf=sens-animal)
+-   [Flamme éternelle](https://www.aidedd.org/dnd/sorts.php?vf=flamme-eternelle)
+-   [Vision dans le noir](https://www.aidedd.org/dnd/sorts.php?vf=vision-dans-le-noir)
+-   [Tourbillon de poussière](https://www.aidedd.org/dnd/sorts.php?vf=tourbillon-de-poussiere)
+-   [Attraction terrestre](https://www.aidedd.org/dnd/sorts.php?vf=attraction-terrestre)
+-   [Amélioration de caractéristique](https://www.aidedd.org/dnd/sorts.php?vf=amelioration-de-caracteristique)
+-   [Agrandissement/Rapetissement](https://www.aidedd.org/dnd/sorts.php?vf=agrandissement-rapetissement)
+-   [Sens des pièges](https://www.aidedd.org/dnd/sorts.php?vf=sens-des-pieges)
+-   [Lame de feu](https://www.aidedd.org/dnd/sorts.php?vf=lame-de-feu)
+-   [Sphère de feu](https://www.aidedd.org/dnd/sorts.php?vf=sphere-de-feu)
+-   [Bourrasque](https://www.aidedd.org/dnd/sorts.php?vf=bourrasque)
+-   [Esprit guérisseur](https://www.aidedd.org/dnd/sorts.php?vf=esprit-guerisseur)
+-   [Métal brûlant](https://www.aidedd.org/dnd/sorts.php?vf=metal-brulant)
+-   [Immobilisation de personne](https://www.aidedd.org/dnd/sorts.php?vf=immobilisation-de-personne)
+-   [Restauration partielle](https://www.aidedd.org/dnd/sorts.php?vf=restauration-partielle)
+-   [Localisation d'animaux ou de plantes](https://www.aidedd.org/dnd/sorts.php?vf=localisation-d-animaux-ou-de-plantes)
+-   [Localisation d'objet](https://www.aidedd.org/dnd/sorts.php?vf=localisation-d-objet)
+-   [Rayon de lune](https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-lune)
 -   Pass Without Trace
--   Protection contre le poison
--   Libellé aérien
--   Croissance d'épines
+-   [Protection contre le poison](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-le-poison)
+-   [Libellé aérien](https://www.aidedd.org/dnd/sorts.php?vf=libelle-aerien)
+-   [Croissance d'épines](https://www.aidedd.org/dnd/sorts.php?vf=croissance-d-epines)
 -   Summon beast
--   Vent protecteur
+-   [Vent protecteur](https://www.aidedd.org/dnd/sorts.php?vf=vent-protecteur)
 -   Wither and Bloom
 
-##### 3rd Level
+##### Niveau 3
 
--   Aura de vitalité
--   Appel de la foudre
--   Invocation d'animaux
--   Lumière du jour
--   Dissipation de la magie
--   Arme élémentaire
--   Éruption de terre
--   Mort simulée
--   Flèches enflammées
--   Fusion dans la pierre
--   Croissance végétale
--   Protection contre une énergie
--   Retour à la vie
--   Tempête de neige
+-   [Aura de vitalité](https://www.aidedd.org/dnd/sorts.php?vf=aura-de-vitalite)
+-   [Appel de la foudre](https://www.aidedd.org/dnd/sorts.php?vf=appel-de-la-foudre)
+-   [Invocation d'animaux](https://www.aidedd.org/dnd/sorts.php?vf=invocation-d-animaux)
+-   [Lumière du jour](https://www.aidedd.org/dnd/sorts.php?vf=lumiere-du-jour)
+-   [Dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)
+-   [Arme élémentaire](https://www.aidedd.org/dnd/sorts.php?vf=arme-elementaire)
+-   [Éruption de terre](https://www.aidedd.org/dnd/sorts.php?vf=eruption-de-terre)
+-   [Mort simulée](https://www.aidedd.org/dnd/sorts.php?vf=mort-simulee)
+-   [Flèches enflammées](https://www.aidedd.org/dnd/sorts.php?vf=fleches-enflammees)
+-   [Fusion dans la pierre](https://www.aidedd.org/dnd/sorts.php?vf=fusion-dans-la-pierre)
+-   [Croissance végétale](https://www.aidedd.org/dnd/sorts.php?vf=croissance-vegetale)
+-   [Protection contre une énergie](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-une-energie)
+-   [Retour à la vie](https://www.aidedd.org/dnd/sorts.php?vf=retour-a-la-vie)
+-   [Tempête de neige](https://www.aidedd.org/dnd/sorts.php?vf=tempete-de-neige)
 -   Soap Bubble^
--   Communication avec les plantes
+-   [Communication avec les plantes](https://www.aidedd.org/dnd/sorts.php?vf=communication-avec-les-plantes)
 -   Summon fey
 -   Slime Wave^
 -   Wall of Goo^
--   Respiration aquatique
--   Marche sur l'eau
--   Mur de vent
+-   [Respiration aquatique](https://www.aidedd.org/dnd/sorts.php?vf=respiration-aquatique)
+-   [Marche sur l'eau](https://www.aidedd.org/dnd/sorts.php?vf=marche-sur-l-eau)
+-   [Mur de vent](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-vent)
 
-##### 4th Level
+##### Niveau 4
 
--   Flétrissement
--   Charme-monstre
--   Confusion
--   Invocation d'élémentaires mineurs
--   Invocation d'êtres sylvestres
--   Contrôle de l'eau
--   Divination
--   Domination de bête
--   Elemental Fléau
--   Fire Bouclier
--   Liberté de mouvement
--   Insecte géant
--   Liane avide
--   Terrain hallucinatoire
--   Tempête de grêle
--   Localisation de créature
--   Métamorphose
--   Façonnage de la pierre
--   Convocation d'élémentaire
+-   [Flétrissement](https://www.aidedd.org/dnd/sorts.php?vf=fletrissement)
+-   [Charme-monstre](https://www.aidedd.org/dnd/sorts.php?vf=charme-monstre)
+-   [Confusion](https://www.aidedd.org/dnd/sorts.php?vf=confusion)
+-   [Invocation d'élémentaires mineurs](https://www.aidedd.org/dnd/sorts.php?vf=invocation-d-elementaires-mineurs)
+-   [Invocation d'êtres sylvestres](https://www.aidedd.org/dnd/sorts.php?vf=invocation-d-etres-sylvestres)
+-   [Contrôle de l'eau](https://www.aidedd.org/dnd/sorts.php?vf=controle-de-l-eau)
+-   [Divination](https://www.aidedd.org/dnd/sorts.php?vf=divination)
+-   [Domination de bête](https://www.aidedd.org/dnd/sorts.php?vf=domination-de-bete)
+-   Elemental [Fléau](https://www.aidedd.org/dnd/sorts.php?vf=fleau)
+-   Fire [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)
+-   [Liberté de mouvement](https://www.aidedd.org/dnd/sorts.php?vf=liberte-de-mouvement)
+-   [Insecte géant](https://www.aidedd.org/dnd/sorts.php?vf=insecte-geant)
+-   [Liane avide](https://www.aidedd.org/dnd/sorts.php?vf=liane-avide)
+-   [Terrain hallucinatoire](https://www.aidedd.org/dnd/sorts.php?vf=terrain-hallucinatoire)
+-   [Tempête de grêle](https://www.aidedd.org/dnd/sorts.php?vf=tempete-de-grele)
+-   [Localisation de créature](https://www.aidedd.org/dnd/sorts.php?vf=localisation-de-creature)
+-   [Métamorphose](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose)
+-   [Façonnage de la pierre](https://www.aidedd.org/dnd/sorts.php?vf=faconnage-de-la-pierre)
+-   [Convocation d'élémentaire](https://www.aidedd.org/dnd/sorts.php?vf=convocation-d-elementaire)
 -   Swamp Sphere^
--   Mur de feu
+-   [Mur de feu](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-feu)
 
-##### 5th Level
+##### Niveau 5
 
--   Coquille antivie
--   Éveil
--   Cône de froid
--   Invocation d'élémentaire
--   Contagion
--   Contrôle des vents
--   Quête
--   Restauration supérieure
--   Fléau d'insectes
--   Mass Soins
--   Contrat
--   Scrutation
--   Summon Draconic Spirit
--   Transmutation de la pierre
--   Mur de pierre
--   Fureur de la nature
+-   [Coquille antivie](https://www.aidedd.org/dnd/sorts.php?vf=coquille-antivie)
+-   [Éveil](https://www.aidedd.org/dnd/sorts.php?vf=eveil)
+-   [Cône de froid](https://www.aidedd.org/dnd/sorts.php?vf=cone-de-froid)
+-   [Invocation d'élémentaire](https://www.aidedd.org/dnd/sorts.php?vf=invocation-d-elementaire)
+-   [Contagion](https://www.aidedd.org/dnd/sorts.php?vf=contagion)
+-   [Contrôle des vents](https://www.aidedd.org/dnd/sorts.php?vf=controle-des-vents)
+-   [Quête](https://www.aidedd.org/dnd/sorts.php?vf=quete)
+-   [Restauration supérieure](https://www.aidedd.org/dnd/sorts.php?vf=restauration-superieure)
+-   [Fléau d'insectes](https://www.aidedd.org/dnd/sorts.php?vf=fleau-d-insectes)
+-   Mass [Soins](https://www.aidedd.org/dnd/sorts.php?vf=soins)
+-   [Contrat](https://www.aidedd.org/dnd/sorts.php?vf=contrat)
+-   [Scrutation](https://www.aidedd.org/dnd/sorts.php?vf=scrutation)
+-   [Convocation d'esprit draconique](https://www.aidedd.org/dnd/sorts.php?vf=convocation-d-esprit-draconique)
+-   [Transmutation de la pierre](https://www.aidedd.org/dnd/sorts.php?vf=transmutation-de-la-pierre)
+-   [Mur de pierre](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-pierre)
+-   [Fureur de la nature](https://www.aidedd.org/dnd/sorts.php?vf=fureur-de-la-nature)
 
-##### 6th Level
+##### Niveau 6
 
--   Ossements de la Terre
--   Invocation de fée
--   Sens de l'orientation
--   Pétrification
--   Guérison
--   Festin des héros
--   Sacre des flammes
--   Sacre de la glace
--   Sacre de la pierre
--   Sacre du vent
--   Terraformage
+-   [Ossements de la Terre](https://www.aidedd.org/dnd/sorts.php?vf=ossements-de-la-terre)
+-   [Invocation de fée](https://www.aidedd.org/dnd/sorts.php?vf=invocation-de-fee)
+-   [Sens de l'orientation](https://www.aidedd.org/dnd/sorts.php?vf=sens-de-l-orientation)
+-   [Pétrification](https://www.aidedd.org/dnd/sorts.php?vf=petrification)
+-   [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)
+-   [Festin des héros](https://www.aidedd.org/dnd/sorts.php?vf=festin-des-heros)
+-   [Sacre des flammes](https://www.aidedd.org/dnd/sorts.php?vf=sacre-des-flammes)
+-   [Sacre de la glace](https://www.aidedd.org/dnd/sorts.php?vf=sacre-de-la-glace)
+-   [Sacre de la pierre](https://www.aidedd.org/dnd/sorts.php?vf=sacre-de-la-pierre)
+-   [Sacre du vent](https://www.aidedd.org/dnd/sorts.php?vf=sacre-du-vent)
+-   [Terraformage](https://www.aidedd.org/dnd/sorts.php?vf=terraformage)
 -   Primordial Wind
--   Rayon de soleil
--   Mur d'épines
--   Marche sur le vent
+-   [Rayon de soleil](https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-soleil)
+-   [Mur d'épines](https://www.aidedd.org/dnd/sorts.php?vf=mur-d-epines)
+-   [Marche sur le vent](https://www.aidedd.org/dnd/sorts.php?vf=marche-sur-le-vent)
 
-##### 7th Level
+##### Niveau 7
 
--   Draconic Transformation
--   Tempête de feu
--   Mirage
--   Régénération
--   Inversion de la gravité
--   Symbole
--   Tourbillon
+-   [Transformation draconique](https://www.aidedd.org/dnd/sorts.php?vf=transformation-draconique)
+-   [Tempête de feu](https://www.aidedd.org/dnd/sorts.php?vf=tempete-de-feu)
+-   [Mirage](https://www.aidedd.org/dnd/sorts.php?vf=mirage)
+-   [Régénération](https://www.aidedd.org/dnd/sorts.php?vf=regeneration)
+-   [Inversion de la gravité](https://www.aidedd.org/dnd/sorts.php?vf=inversion-de-la-gravite)
+-   [Symbole](https://www.aidedd.org/dnd/sorts.php?vf=symbole)
+-   [Tourbillon](https://www.aidedd.org/dnd/sorts.php?vf=tourbillon)
 
-##### 8th Level
+##### Niveau 8
 
--   Formes animales
--   Aversion/Attirance
--   Contrôle du climat
--   Tremblement de terre
--   Esprit faible
--   Nuage incendiaire
+-   [Formes animales](https://www.aidedd.org/dnd/sorts.php?vf=formes-animales)
+-   [Aversion/Attirance](https://www.aidedd.org/dnd/sorts.php?vf=aversion-attirance)
+-   [Contrôle du climat](https://www.aidedd.org/dnd/sorts.php?vf=controle-du-climat)
+-   [Tremblement de terre](https://www.aidedd.org/dnd/sorts.php?vf=tremblement-de-terre)
+-   [Esprit faible](https://www.aidedd.org/dnd/sorts.php?vf=esprit-faible)
+-   [Nuage incendiaire](https://www.aidedd.org/dnd/sorts.php?vf=nuage-incendiaire)
 -   Poison Giant: Hell's Judgement^
--   Slime Tsunami^
--   Éclat du soleil
+-   Slime [Tsunami](https://www.aidedd.org/dnd/sorts.php?vf=tsunami)^
+-   [Éclat du soleil](https://www.aidedd.org/dnd/sorts.php?vf=eclat-du-soleil)
 
-##### 9th Level
+##### Niveau 9
 
--   Prémonition
+-   [Prémonition](https://www.aidedd.org/dnd/sorts.php?vf=premonition)
 -   Ice Age^
 -   Locate Devil Fruit Power^
--   Changement de forme
--   Tempête vengeresse
--   True Résurrection
+-   [Changement de forme](https://www.aidedd.org/dnd/sorts.php?vf=changement-de-forme)
+-   [Tempête vengeresse](https://www.aidedd.org/dnd/sorts.php?vf=tempete-vengeresse)
+-   True [Résurrection](https://www.aidedd.org/dnd/sorts.php?vf=resurrection)
 
-### Devilforged Spells
+### Sorts d'infuseur
 
-##### Natural Abilities/Cantrips (0 Level)
+##### Capacités naturelle
 
--   Protection contre les armes
--   Lame retentissante
--   Contact glacial
--   Embrasement
--   Décharge occulte
--   Amis
--   Gelure
--   Lame aux flammes vertes
--   Infestation
--   Ferrage foudroyant
--   Main de mage
--   Pierre magique
--   Piqûre mentale
--   Illusion mineure
--   Bouffée de poison
--   Prestidigitation
--   Éruption de lames
--   Coup de tonnerre
--   Glas
--   Coup au but
+-   [Protection contre les armes](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-les-armes)
+-   [Lame retentissante](https://www.aidedd.org/dnd/sorts.php?vf=lame-retentissante)
+-   [Contact glacial](https://www.aidedd.org/dnd/sorts.php?vf=contact-glacial)
+-   [Embrasement](https://www.aidedd.org/dnd/sorts.php?vf=embrasement)
+-   [Décharge occulte](https://www.aidedd.org/dnd/sorts.php?vf=decharge-occulte)
+-   [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)
+-   [Gelure](https://www.aidedd.org/dnd/sorts.php?vf=gelure)
+-   [Lame aux flammes vertes](https://www.aidedd.org/dnd/sorts.php?vf=lame-aux-flammes-vertes)
+-   [Infestation](https://www.aidedd.org/dnd/sorts.php?vf=infestation)
+-   [Ferrage foudroyant](https://www.aidedd.org/dnd/sorts.php?vf=ferrage-foudroyant)
+-   [Main de mage](https://www.aidedd.org/dnd/sorts.php?vf=main-de-mage)
+-   [Pierre magique](https://www.aidedd.org/dnd/sorts.php?vf=pierre-magique)
+-   [Piqûre mentale](https://www.aidedd.org/dnd/sorts.php?vf=piqure-mentale)
+-   [Illusion mineure](https://www.aidedd.org/dnd/sorts.php?vf=illusion-mineure)
+-   [Bouffée de poison](https://www.aidedd.org/dnd/sorts.php?vf=bouffee-de-poison)
+-   [Prestidigitation](https://www.aidedd.org/dnd/sorts.php?vf=prestidigitation)
+-   [Éruption de lames](https://www.aidedd.org/dnd/sorts.php?vf=eruption-de-lames)
+-   [Coup de tonnerre](https://www.aidedd.org/dnd/sorts.php?vf=coup-de-tonnerre)
+-   [Glas](https://www.aidedd.org/dnd/sorts.php?vf=glas)
+-   [Coup au but](https://www.aidedd.org/dnd/sorts.php?vf=coup-au-but)
 
-##### 1st Level
+##### Niveau 1
 
--   Armure d'Agathys
--   Tentacules de Hadar
--   Frayeur
--   Charme-personne
+-   [Armure d'Agathys](https://www.aidedd.org/dnd/sorts.php?vf=armure-d-agathys)
+-   [Tentacules de Hadar](https://www.aidedd.org/dnd/sorts.php?vf=tentacules-de-hadar)
+-   [Frayeur](https://www.aidedd.org/dnd/sorts.php?vf=frayeur)
+-   [Charme-personne](https://www.aidedd.org/dnd/sorts.php?vf=charme-personne)
 -   Distort Value
--   Repli expéditif
--   Représailles infernales
--   Maléfice
--   Texte illusoire
--   Protection contre le mal et le bien
--   Trait ensorcelé
+-   [Repli expéditif](https://www.aidedd.org/dnd/sorts.php?vf=repli-expeditif)
+-   [Représailles infernales](https://www.aidedd.org/dnd/sorts.php?vf=represailles-infernales)
+-   [Maléfice](https://www.aidedd.org/dnd/sorts.php?vf=malefice)
+-   [Texte illusoire](https://www.aidedd.org/dnd/sorts.php?vf=texte-illusoire)
+-   [Protection contre le mal et le bien](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-le-mal-et-le-bien)
+-   [Trait ensorcelé](https://www.aidedd.org/dnd/sorts.php?vf=trait-ensorcele)
 
-##### 2nd Level
+##### Niveau 2
 
 -   Borrowed Knowledge
--   Nuée de dagues
--   Couronne du dément
--   Ténèbres
--   Attraction terrestre
--   Discours captivant
+-   [Nuée de dagues](https://www.aidedd.org/dnd/sorts.php?vf=nuee-de-dagues)
+-   [Couronne du dément](https://www.aidedd.org/dnd/sorts.php?vf=couronne-du-dement)
+-   [Ténèbres](https://www.aidedd.org/dnd/sorts.php?vf=tenebres)
+-   [Attraction terrestre](https://www.aidedd.org/dnd/sorts.php?vf=attraction-terrestre)
+-   [Discours captivant](https://www.aidedd.org/dnd/sorts.php?vf=discours-captivant)
 -   Flock of Familiars
--   Immobilisation de personne
--   Invisibilité
--   Épine mentale
--   Image miroir
--   Foulée brumeuse
--   Rayon affaiblissant
--   Lame d'ombres
--   Fracassement
--   Pattes d'araignée
--   Suggestion
+-   [Immobilisation de personne](https://www.aidedd.org/dnd/sorts.php?vf=immobilisation-de-personne)
+-   [Invisibilité](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite)
+-   [Épine mentale](https://www.aidedd.org/dnd/sorts.php?vf=epine-mentale)
+-   [Image miroir](https://www.aidedd.org/dnd/sorts.php?vf=image-miroir)
+-   [Foulée brumeuse](https://www.aidedd.org/dnd/sorts.php?vf=foulee-brumeuse)
+-   [Rayon affaiblissant](https://www.aidedd.org/dnd/sorts.php?vf=rayon-affaiblissant)
+-   [Lame d'ombres](https://www.aidedd.org/dnd/sorts.php?vf=lame-d-ombres)
+-   [Fracassement](https://www.aidedd.org/dnd/sorts.php?vf=fracassement)
+-   [Pattes d'araignée](https://www.aidedd.org/dnd/sorts.php?vf=pattes-d-araignee)
+-   [Suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion)
 
-##### 3rd Level
+##### Niveau 3
 
--   Contresort
+-   [Contresort](https://www.aidedd.org/dnd/sorts.php?vf=contresort)
 -   Dispel
--   Ennemis à foison
--   Peur
--   Vol
--   Forme gazeuse
--   Voracité de Hadar
--   Motif hypnotique
+-   [Ennemis à foison](https://www.aidedd.org/dnd/sorts.php?vf=ennemis-a-foison)
+-   [Peur](https://www.aidedd.org/dnd/sorts.php?vf=peur)
+-   [Vol](https://www.aidedd.org/dnd/sorts.php?vf=vol)
+-   [Forme gazeuse](https://www.aidedd.org/dnd/sorts.php?vf=forme-gazeuse)
+-   [Voracité de Hadar](https://www.aidedd.org/dnd/sorts.php?vf=voracite-de-hadar)
+-   [Motif hypnotique](https://www.aidedd.org/dnd/sorts.php?vf=motif-hypnotique)
 -   Incite Greed
--   Forteresse d'intellect
--   Cercle magique
--   Image majeure
--   Délivrance des malédictions
--   Voile spirituel
--   Convocation de fée
--   Convocation de démons mineurs
--   Convocation de rejeton d'ombre
--   Convocation de mort-vivant
--   Foulée tonitruante
--   Toucher du vampire
+-   [Forteresse d'intellect](https://www.aidedd.org/dnd/sorts.php?vf=forteresse-d-intellect)
+-   [Cercle magique](https://www.aidedd.org/dnd/sorts.php?vf=cercle-magique)
+-   [Image majeure](https://www.aidedd.org/dnd/sorts.php?vf=image-majeure)
+-   [Délivrance des malédictions](https://www.aidedd.org/dnd/sorts.php?vf=delivrance-des-maledictions)
+-   [Voile spirituel](https://www.aidedd.org/dnd/sorts.php?vf=voile-spirituel)
+-   [Convocation de fée](https://www.aidedd.org/dnd/sorts.php?vf=convocation-de-fee)
+-   [Convocation de démons mineurs](https://www.aidedd.org/dnd/sorts.php?vf=convocation-de-demons-mineurs)
+-   [Convocation de rejeton d'ombre](https://www.aidedd.org/dnd/sorts.php?vf=convocation-de-rejeton-d-ombre)
+-   [Convocation de mort-vivant](https://www.aidedd.org/dnd/sorts.php?vf=convocation-de-mort-vivant)
+-   [Foulée tonitruante](https://www.aidedd.org/dnd/sorts.php?vf=foulee-tonitruante)
+-   [Toucher du vampire](https://www.aidedd.org/dnd/sorts.php?vf=toucher-du-vampire)
 
-##### 4th Level
+##### Niveau 4
 
--   Bannissement
--   Flétrissement
--   Charme-monstre
--   Porte dimensionnelle
--   Elemental Fléau
+-   [Bannissement](https://www.aidedd.org/dnd/sorts.php?vf=bannissement)
+-   [Flétrissement](https://www.aidedd.org/dnd/sorts.php?vf=fletrissement)
+-   [Charme-monstre](https://www.aidedd.org/dnd/sorts.php?vf=charme-monstre)
+-   [Porte dimensionnelle](https://www.aidedd.org/dnd/sorts.php?vf=porte-dimensionnelle)
+-   Elemental [Fléau](https://www.aidedd.org/dnd/sorts.php?vf=fleau)
 -   Galder's Speedy Courier
--   Terrain hallucinatoire
--   Raulothim's Psychic Lance
--   Ombre d'égarement
--   Rayonnement écoeurant
--   Convocation d'aberration
--   Convocation de démon majeur
+-   [Terrain hallucinatoire](https://www.aidedd.org/dnd/sorts.php?vf=terrain-hallucinatoire)
+-   [Lance d'arçon psychique de Raulothim](https://www.aidedd.org/dnd/sorts.php?vf=lance-d-arcon-psychique-de-raulothim)
+-   [Ombre d'égarement](https://www.aidedd.org/dnd/sorts.php?vf=ombre-d-egarement)
+-   [Rayonnement écoeurant](https://www.aidedd.org/dnd/sorts.php?vf=rayonnement-ecoeurant)
+-   [Convocation d'aberration](https://www.aidedd.org/dnd/sorts.php?vf=convocation-d-aberration)
+-   [Convocation de démon majeur](https://www.aidedd.org/dnd/sorts.php?vf=convocation-de-demon-majeur)
 
-##### 5th Level
+##### Niveau 5
 
--   Danse macabre
--   Songe
--   Énervation
--   Foulée dimensionnelle
+-   [Danse macabre](https://www.aidedd.org/dnd/sorts.php?vf=danse-macabre)
+-   [Songe](https://www.aidedd.org/dnd/sorts.php?vf=songe)
+-   [Énervation](https://www.aidedd.org/dnd/sorts.php?vf=enervation)
+-   [Foulée dimensionnelle](https://www.aidedd.org/dnd/sorts.php?vf=foulee-dimensionnelle)
 -   Great Heaven Splitter^
--   Immobilisation de monstre
--   Assignation infernale
--   Double illusoire
--   Déluge d'énergie négative
--   Contrat
--   Scrutation
--   Perturbations synaptiques
--   Wall of Lumière
+-   [Immobilisation de monstre](https://www.aidedd.org/dnd/sorts.php?vf=immobilisation-de-monstre)
+-   [Assignation infernale](https://www.aidedd.org/dnd/sorts.php?vf=assignation-infernale)
+-   [Double illusoire](https://www.aidedd.org/dnd/sorts.php?vf=double-illusoire)
+-   [Déluge d'énergie négative](https://www.aidedd.org/dnd/sorts.php?vf=deluge-d-energie-negative)
+-   [Contrat](https://www.aidedd.org/dnd/sorts.php?vf=contrat)
+-   [Scrutation](https://www.aidedd.org/dnd/sorts.php?vf=scrutation)
+-   [Perturbations synaptiques](https://www.aidedd.org/dnd/sorts.php?vf=perturbations-synaptiques)
+-   Wall of [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere)
 
-##### 6th Level
+##### Niveau 6
 
--   Cercle de mort
--   Invocation de fée
--   Création de mort-vivant
--   Mauvais oeil
--   Pétrification
--   Sacre des flammes
--   Sacre de la glace
--   Sacre de la pierre
--   Sacre du vent
--   Suggestion de groupe
--   Prison mentale
--   Dispersion
--   Cage des âmes
--   Convocation de fiélon
--   Costume d'Outremonde de Tasha
--   Vision suprême
+-   [Cercle de mort](https://www.aidedd.org/dnd/sorts.php?vf=cercle-de-mort)
+-   [Invocation de fée](https://www.aidedd.org/dnd/sorts.php?vf=invocation-de-fee)
+-   [Création de mort-vivant](https://www.aidedd.org/dnd/sorts.php?vf=creation-de-mort-vivant)
+-   [Mauvais oeil](https://www.aidedd.org/dnd/sorts.php?vf=mauvais-oeil)
+-   [Pétrification](https://www.aidedd.org/dnd/sorts.php?vf=petrification)
+-   [Sacre des flammes](https://www.aidedd.org/dnd/sorts.php?vf=sacre-des-flammes)
+-   [Sacre de la glace](https://www.aidedd.org/dnd/sorts.php?vf=sacre-de-la-glace)
+-   [Sacre de la pierre](https://www.aidedd.org/dnd/sorts.php?vf=sacre-de-la-pierre)
+-   [Sacre du vent](https://www.aidedd.org/dnd/sorts.php?vf=sacre-du-vent)
+-   Mass [Suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion)
+-   [Prison mentale](https://www.aidedd.org/dnd/sorts.php?vf=prison-mentale)
+-   [Dispersion](https://www.aidedd.org/dnd/sorts.php?vf=dispersion)
+-   [Cage des âmes](https://www.aidedd.org/dnd/sorts.php?vf=cage-des-ames)
+-   [Convocation de fiélon](https://www.aidedd.org/dnd/sorts.php?vf=convocation-de-fielon)
+-   [Costume d'Outremonde de Tasha](https://www.aidedd.org/dnd/sorts.php?vf=costume-d-outremonde-de-tasha)
+-   [Vision suprême](https://www.aidedd.org/dnd/sorts.php?vf=vision-supreme)
 
-##### 7th Level
+##### Niveau 7
 
--   Couronne d'étoiles
--   Doigt de mort
--   Cage de force
+-   [Couronne d'étoiles](https://www.aidedd.org/dnd/sorts.php?vf=couronne-d-etoiles)
+-   [Doigt de mort](https://www.aidedd.org/dnd/sorts.php?vf=doigt-de-mort)
+-   [Cage de force](https://www.aidedd.org/dnd/sorts.php?vf=cage-de-force)
 -   Power Word: Pain
 
-##### 8th Level
+##### Niveau 8
 
--   Domination de monstre
--   Esprit faible
--   Bagou
--   Maddening Ténèbres
+-   [Domination de monstre](https://www.aidedd.org/dnd/sorts.php?vf=domination-de-monstre)
+-   [Esprit faible](https://www.aidedd.org/dnd/sorts.php?vf=esprit-faible)
+-   [Bagou](https://www.aidedd.org/dnd/sorts.php?vf=bagou)
+-   Maddening [Ténèbres](https://www.aidedd.org/dnd/sorts.php?vf=tenebres)
 -   Power Word: Stun
 
-##### 9th Level
+##### Niveau 9
 
--   Lame du désastre
--   Prémonition
--   Emprisonnement
+-   [Lame du désastre](https://www.aidedd.org/dnd/sorts.php?vf=lame-du-desastre)
+-   [Prémonition](https://www.aidedd.org/dnd/sorts.php?vf=premonition)
+-   [Emprisonnement](https://www.aidedd.org/dnd/sorts.php?vf=emprisonnement)
 -   Locate Devil Fruit Power^
 -   Power Word: Kill
--   Hurlement psychique
--   Changement de forme
--   True Métamorphose
--   Ennemi subconscient
+-   [Hurlement psychique](https://www.aidedd.org/dnd/sorts.php?vf=hurlement-psychique)
+-   [Changement de forme](https://www.aidedd.org/dnd/sorts.php?vf=changement-de-forme)
+-   True [Métamorphose](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose)
+-   [Ennemi subconscient](https://www.aidedd.org/dnd/sorts.php?vf=ennemi-subconscient)
 
-### Hybrid Spells
+### Sorts d'hybride
 
-##### Natural Abilities/Cantrips (0 Level)
+##### Capacités naturelle
 
--   Aspersion d'acide
--   Protection contre les armes
--   Lame retentissante
--   Contact glacial
--   Contrôle des flammes
--   Embrasement
--   Dancing Lumières
--   Trait de feu
--   Amis
--   Gelure
--   Lame aux flammes vertes
--   Saute de vent
--   Infestation
--   Lumière
--   Ferrage foudroyant
--   Main de mage
--   Réparation
--   Message
--   Piqûre mentale
--   Illusion mineure
--   Façonnage de la terre
--   Bouffée de poison
--   Prestidigitation
--   Rayon de givre
--   Poigne électrique
--   Éruption de lames
--   Coup de tonnerre
--   Coup au but
+-   [Aspersion d'acide](https://www.aidedd.org/dnd/sorts.php?vf=aspersion-d-acide)
+-   [Protection contre les armes](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-les-armes)
+-   [Lame retentissante](https://www.aidedd.org/dnd/sorts.php?vf=lame-retentissante)
+-   [Contact glacial](https://www.aidedd.org/dnd/sorts.php?vf=contact-glacial)
+-   [Contrôle des flammes](https://www.aidedd.org/dnd/sorts.php?vf=controle-des-flammes)
+-   [Embrasement](https://www.aidedd.org/dnd/sorts.php?vf=embrasement)
+-   Dancing [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere)s
+-   [Trait de feu](https://www.aidedd.org/dnd/sorts.php?vf=trait-de-feu)
+-   [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)
+-   [Gelure](https://www.aidedd.org/dnd/sorts.php?vf=gelure)
+-   [Lame aux flammes vertes](https://www.aidedd.org/dnd/sorts.php?vf=lame-aux-flammes-vertes)
+-   [Saute de vent](https://www.aidedd.org/dnd/sorts.php?vf=saute-de-vent)
+-   [Infestation](https://www.aidedd.org/dnd/sorts.php?vf=infestation)
+-   [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere)
+-   [Ferrage foudroyant](https://www.aidedd.org/dnd/sorts.php?vf=ferrage-foudroyant)
+-   [Main de mage](https://www.aidedd.org/dnd/sorts.php?vf=main-de-mage)
+-   [Réparation](https://www.aidedd.org/dnd/sorts.php?vf=reparation)
+-   [Message](https://www.aidedd.org/dnd/sorts.php?vf=message)
+-   [Piqûre mentale](https://www.aidedd.org/dnd/sorts.php?vf=piqure-mentale)
+-   [Illusion mineure](https://www.aidedd.org/dnd/sorts.php?vf=illusion-mineure)
+-   [Façonnage de la terre](https://www.aidedd.org/dnd/sorts.php?vf=faconnage-de-la-terre)
+-   [Bouffée de poison](https://www.aidedd.org/dnd/sorts.php?vf=bouffee-de-poison)
+-   [Prestidigitation](https://www.aidedd.org/dnd/sorts.php?vf=prestidigitation)
+-   [Rayon de givre](https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre)
+-   [Poigne électrique](https://www.aidedd.org/dnd/sorts.php?vf=poigne-electrique)
+-   [Éruption de lames](https://www.aidedd.org/dnd/sorts.php?vf=eruption-de-lames)
+-   [Coup de tonnerre](https://www.aidedd.org/dnd/sorts.php?vf=coup-de-tonnerre)
+-   [Coup au but](https://www.aidedd.org/dnd/sorts.php?vf=coup-au-but)
 
-##### 1st Level
+##### Niveau 1
 
--   Absorption des éléments
--   Mains brûlantes
--   Catapulte
--   Éclair de chaos
--   Charme-personne
--   Orbe chromatique
--   Couleurs dansantes
--   Détection de la magie
--   Déguisement
--   Secousse sismique
--   Repli expéditif
--   Simulacre de vie
+-   [Absorption des éléments](https://www.aidedd.org/dnd/sorts.php?vf=absorption-des-elements)
+-   [Mains brûlantes](https://www.aidedd.org/dnd/sorts.php?vf=mains-brulantes)
+-   [Catapulte](https://www.aidedd.org/dnd/sorts.php?vf=catapulte)
+-   [Éclair de chaos](https://www.aidedd.org/dnd/sorts.php?vf=eclair-de-chaos)
+-   [Charme-personne](https://www.aidedd.org/dnd/sorts.php?vf=charme-personne)
+-   [Orbe chromatique](https://www.aidedd.org/dnd/sorts.php?vf=orbe-chromatique)
+-   [Couleurs dansantes](https://www.aidedd.org/dnd/sorts.php?vf=couleurs-dansantes)
+-   [Détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie)
+-   [Déguisement](https://www.aidedd.org/dnd/sorts.php?vf=deguisement)
+-   [Secousse sismique](https://www.aidedd.org/dnd/sorts.php?vf=secousse-sismique)
+-   [Repli expéditif](https://www.aidedd.org/dnd/sorts.php?vf=repli-expeditif)
+-   [Simulacre de vie](https://www.aidedd.org/dnd/sorts.php?vf=simulacre-de-vie)
 -   Featherfall
--   Nappe de brouillard
--   Graisse
--   Couteau de glace
--   Saut
--   Armure de mage
--   Projectile magique
--   Rayon empoisonné
--   Bouclier
--   Image silencieuse
--   Silvery Barbs
--   Sommeil
--   Mixture caustique de Tasha
--   Vague tonnante
--   Trait ensorcelé
+-   [Nappe de brouillard](https://www.aidedd.org/dnd/sorts.php?vf=nappe-de-brouillard)
+-   [Graisse](https://www.aidedd.org/dnd/sorts.php?vf=graisse)
+-   [Couteau de glace](https://www.aidedd.org/dnd/sorts.php?vf=couteau-de-glace)
+-   [Saut](https://www.aidedd.org/dnd/sorts.php?vf=saut)
+-   [Armure de mage](https://www.aidedd.org/dnd/sorts.php?vf=armure-de-mage)
+-   [Projectile magique](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique)
+-   [Rayon empoisonné](https://www.aidedd.org/dnd/sorts.php?vf=rayon-empoisonne)
+-   [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)
+-   [Image silencieuse](https://www.aidedd.org/dnd/sorts.php?vf=image-silencieuse)
+-   [Barbes argentées](https://www.aidedd.org/dnd/sorts.php?vf=barbes-argentees)
+-   [Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil)
+-   [Mixture caustique de Tasha](https://www.aidedd.org/dnd/sorts.php?vf=mixture-caustique-de-tasha)
+-   [Vague tonnante](https://www.aidedd.org/dnd/sorts.php?vf=vague-tonnante)
+-   [Trait ensorcelé](https://www.aidedd.org/dnd/sorts.php?vf=trait-ensorcele)
 
-##### 2nd Level
+##### Niveau 2
 
--   Flambée d'Aganazzar
+-   [Flambée d'Aganazzar](https://www.aidedd.org/dnd/sorts.php?vf=flambee-d-aganazzar)
 -   Air Bubble
--   Modification d'apparence
--   Cécité/Surdité
--   Flou
--   Nuée de dagues
--   Couronne du dément
--   Ténèbres
--   Détection des pensées
--   Souffle du dragon
--   Tourbillon de poussière
--   Attraction terrestre
--   Amélioration de caractéristique
--   Agrandissement/Rapetissement
--   Lame de feu
--   Sphère de feu
--   Bourrasque
--   Immobilisation de personne
--   Invisibilité
+-   [Modification d'apparence](https://www.aidedd.org/dnd/sorts.php?vf=modification-d-apparence)
+-   [Cécité/Surdité](https://www.aidedd.org/dnd/sorts.php?vf=cecite-surdite)
+-   [Flou](https://www.aidedd.org/dnd/sorts.php?vf=flou)
+-   [Nuée de dagues](https://www.aidedd.org/dnd/sorts.php?vf=nuee-de-dagues)
+-   [Couronne du dément](https://www.aidedd.org/dnd/sorts.php?vf=couronne-du-dement)
+-   [Ténèbres](https://www.aidedd.org/dnd/sorts.php?vf=tenebres)
+-   [Détection des pensées](https://www.aidedd.org/dnd/sorts.php?vf=detection-des-pensees)
+-   [Souffle du dragon](https://www.aidedd.org/dnd/sorts.php?vf=souffle-du-dragon)
+-   [Tourbillon de poussière](https://www.aidedd.org/dnd/sorts.php?vf=tourbillon-de-poussiere)
+-   [Attraction terrestre](https://www.aidedd.org/dnd/sorts.php?vf=attraction-terrestre)
+-   [Amélioration de caractéristique](https://www.aidedd.org/dnd/sorts.php?vf=amelioration-de-caracteristique)
+-   [Agrandissement/Rapetissement](https://www.aidedd.org/dnd/sorts.php?vf=agrandissement-rapetissement)
+-   [Lame de feu](https://www.aidedd.org/dnd/sorts.php?vf=lame-de-feu)
+-   [Sphère de feu](https://www.aidedd.org/dnd/sorts.php?vf=sphere-de-feu)
+-   [Bourrasque](https://www.aidedd.org/dnd/sorts.php?vf=bourrasque)
+-   [Immobilisation de personne](https://www.aidedd.org/dnd/sorts.php?vf=immobilisation-de-personne)
+-   [Invisibilité](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite)
 -   Kinetic Jaunt
--   Déblocage
--   Lévitation
--   Arme magique
+-   [Déblocage](https://www.aidedd.org/dnd/sorts.php?vf=deblocage)
+-   [Lévitation](https://www.aidedd.org/dnd/sorts.php?vf=levitation)
+-   [Arme magique](https://www.aidedd.org/dnd/sorts.php?vf=arme-magique)
 -   Maximillian's Earthen Grasp
 -   Ice Spike
--   Image miroir
--   Foulée brumeuse
--   Nathair's Mischief
--   Force fantasmagorique
--   Pyrotechnie
--   Rime's Binding Ice
--   Rayon ardent
--   See Invisibilité
--   Lame d'ombres
--   Fracassement
+-   [Image miroir](https://www.aidedd.org/dnd/sorts.php?vf=image-miroir)
+-   [Foulée brumeuse](https://www.aidedd.org/dnd/sorts.php?vf=foulee-brumeuse)
+-   [Espièglerie de Nathair](https://www.aidedd.org/dnd/sorts.php?vf=espieglerie-de-nathair)
+-   [Force fantasmagorique](https://www.aidedd.org/dnd/sorts.php?vf=force-fantasmagorique)
+-   [Pyrotechnie](https://www.aidedd.org/dnd/sorts.php?vf=pyrotechnie)
+-   [Entraves de givre](https://www.aidedd.org/dnd/sorts.php?vf=entraves-de-givre)
+-   [Rayon ardent](https://www.aidedd.org/dnd/sorts.php?vf=rayon-ardent)
+-   See [Invisibilité](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite)
+-   [Lame d'ombres](https://www.aidedd.org/dnd/sorts.php?vf=lame-d-ombres)
+-   [Fracassement](https://www.aidedd.org/dnd/sorts.php?vf=fracassement)
 -   Snilloc's Snowball Storm
--   Suggestion
--   Fouet mental de Tasha
+-   [Suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion)
+-   [Fouet mental de Tasha](https://www.aidedd.org/dnd/sorts.php?vf=fouet-mental-de-tasha)
 -   Vortex Warp
--   Vent protecteur
--   Toile d'araignée
+-   [Vent protecteur](https://www.aidedd.org/dnd/sorts.php?vf=vent-protecteur)
+-   [Toile d'araignée](https://www.aidedd.org/dnd/sorts.php?vf=toile-d-araignee)
 -   Wither and Bloom
 
-##### 3rd Level
+##### Niveau 3
 
--   Ashardalon's Stride
--   Clignotement
--   Sieste
--   Clairvoyance
--   Contresort
--   Lumière du jour
--   Dissipation de la magie
--   Ennemis à foison
--   Éruption de terre
--   Peur
--   Boule de feu
--   Flèches enflammées
--   Vol
--   Forme gazeuse
--   Hâte
--   Motif hypnotique
+-   [Foulée d'Ashardalon](https://www.aidedd.org/dnd/sorts.php?vf=foulee-d-ashardalon)
+-   [Clignotement](https://www.aidedd.org/dnd/sorts.php?vf=clignotement)
+-   [Sieste](https://www.aidedd.org/dnd/sorts.php?vf=sieste)
+-   [Clairvoyance](https://www.aidedd.org/dnd/sorts.php?vf=clairvoyance)
+-   [Contresort](https://www.aidedd.org/dnd/sorts.php?vf=contresort)
+-   [Lumière du jour](https://www.aidedd.org/dnd/sorts.php?vf=lumiere-du-jour)
+-   [Dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)
+-   [Ennemis à foison](https://www.aidedd.org/dnd/sorts.php?vf=ennemis-a-foison)
+-   [Éruption de terre](https://www.aidedd.org/dnd/sorts.php?vf=eruption-de-terre)
+-   [Peur](https://www.aidedd.org/dnd/sorts.php?vf=peur)
+-   [Boule de feu](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu)
+-   [Flèches enflammées](https://www.aidedd.org/dnd/sorts.php?vf=fleches-enflammees)
+-   [Vol](https://www.aidedd.org/dnd/sorts.php?vf=vol)
+-   [Forme gazeuse](https://www.aidedd.org/dnd/sorts.php?vf=forme-gazeuse)
+-   [Hâte](https://www.aidedd.org/dnd/sorts.php?vf=hate)
+-   [Motif hypnotique](https://www.aidedd.org/dnd/sorts.php?vf=motif-hypnotique)
 -   Incite Greed
--   Forteresse d'intellect
--   Éclair
--   Image majeure
--   Minuscules météores de Melf
--   Protection contre une énergie
--   Tempête de neige
--   Lenteur
+-   [Forteresse d'intellect](https://www.aidedd.org/dnd/sorts.php?vf=forteresse-d-intellect)
+-   [Éclair](https://www.aidedd.org/dnd/sorts.php?vf=eclair)
+-   [Image majeure](https://www.aidedd.org/dnd/sorts.php?vf=image-majeure)
+-   [Minuscules météores de Melf](https://www.aidedd.org/dnd/sorts.php?vf=minuscules-meteores-de-melf)
+-   [Protection contre une énergie](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-une-energie)
+-   [Tempête de neige](https://www.aidedd.org/dnd/sorts.php?vf=tempete-de-neige)
+-   [Lenteur](https://www.aidedd.org/dnd/sorts.php?vf=lenteur)
 -   Soap Bubble^
--   Nuage nauséabond
--   Foulée tonitruante
--   Toucher du vampire
+-   [Nuage nauséabond](https://www.aidedd.org/dnd/sorts.php?vf=nuage-nauseabond)
+-   [Foulée tonitruante](https://www.aidedd.org/dnd/sorts.php?vf=foulee-tonitruante)
+-   [Toucher du vampire](https://www.aidedd.org/dnd/sorts.php?vf=toucher-du-vampire)
 -   Slime Wave^
 -   Wall of Goo^
--   Respiration aquatique
--   Marche sur l'eau
+-   [Respiration aquatique](https://www.aidedd.org/dnd/sorts.php?vf=respiration-aquatique)
+-   [Marche sur l'eau](https://www.aidedd.org/dnd/sorts.php?vf=marche-sur-l-eau)
 
-##### 4th Level
+##### Niveau 4
 
--   Flétrissement
--   Charme-monstre
--   Confusion
--   Domination de bête
--   Fire Bouclier
--   Greater Invisibilité
--   Tempête de grêle
--   Métamorphose
--   Raulothim's Psychic Lance
--   Rayonnement écoeurant
--   Peau de pierre
--   Sphère de tempête
--   Sphère de vitriol
--   Mur de feu
+-   [Flétrissement](https://www.aidedd.org/dnd/sorts.php?vf=fletrissement)
+-   [Charme-monstre](https://www.aidedd.org/dnd/sorts.php?vf=charme-monstre)
+-   [Confusion](https://www.aidedd.org/dnd/sorts.php?vf=confusion)
+-   [Domination de bête](https://www.aidedd.org/dnd/sorts.php?vf=domination-de-bete)
+-   Fire [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)
+-   Greater [Invisibilité](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite)
+-   [Tempête de grêle](https://www.aidedd.org/dnd/sorts.php?vf=tempete-de-grele)
+-   [Métamorphose](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose)
+-   [Lance d'arçon psychique de Raulothim](https://www.aidedd.org/dnd/sorts.php?vf=lance-d-arcon-psychique-de-raulothim)
+-   [Rayonnement écoeurant](https://www.aidedd.org/dnd/sorts.php?vf=rayonnement-ecoeurant)
+-   [Peau de pierre](https://www.aidedd.org/dnd/sorts.php?vf=peau-de-pierre)
+-   [Sphère de tempête](https://www.aidedd.org/dnd/sorts.php?vf=sphere-de-tempete)
+-   [Sphère de vitriol](https://www.aidedd.org/dnd/sorts.php?vf=sphere-de-vitriol)
+-   [Mur de feu](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-feu)
 -   Swamp Sphere^
 
-##### 5th Level
+##### Niveau 5
 
--   Animation d'objets
--   Main de Bigby
--   Brume mortelle
--   Cône de froid
--   Contrôle des vents
--   Création
--   Domination de personne
--   Énervation
--   Foulée dimensionnelle
--   Immobilisation de monstre
--   Immolation
--   Fléau d'insectes
--   Apparence trompeuse
--   Amélioration de compétences
--   Summon Draconic Spirit
--   Perturbations synaptiques
--   Télékinésie
--   Wall of Lumière
--   Mur de pierre
+-   [Animation d'objets](https://www.aidedd.org/dnd/sorts.php?vf=animation-d-objets)
+-   [Main de Bigby](https://www.aidedd.org/dnd/sorts.php?vf=main-de-bigby)
+-   [Brume mortelle](https://www.aidedd.org/dnd/sorts.php?vf=brume-mortelle)
+-   [Cône de froid](https://www.aidedd.org/dnd/sorts.php?vf=cone-de-froid)
+-   [Contrôle des vents](https://www.aidedd.org/dnd/sorts.php?vf=controle-des-vents)
+-   [Création](https://www.aidedd.org/dnd/sorts.php?vf=creation)
+-   [Domination de personne](https://www.aidedd.org/dnd/sorts.php?vf=domination-de-personne)
+-   [Énervation](https://www.aidedd.org/dnd/sorts.php?vf=enervation)
+-   [Foulée dimensionnelle](https://www.aidedd.org/dnd/sorts.php?vf=foulee-dimensionnelle)
+-   [Immobilisation de monstre](https://www.aidedd.org/dnd/sorts.php?vf=immobilisation-de-monstre)
+-   [Immolation](https://www.aidedd.org/dnd/sorts.php?vf=immolation)
+-   [Fléau d'insectes](https://www.aidedd.org/dnd/sorts.php?vf=fleau-d-insectes)
+-   [Apparence trompeuse](https://www.aidedd.org/dnd/sorts.php?vf=apparence-trompeuse)
+-   [Amélioration de compétences](https://www.aidedd.org/dnd/sorts.php?vf=amelioration-de-competences)
+-   [Convocation d'esprit draconique](https://www.aidedd.org/dnd/sorts.php?vf=convocation-d-esprit-draconique)
+-   [Perturbations synaptiques](https://www.aidedd.org/dnd/sorts.php?vf=perturbations-synaptiques)
+-   [Télékinésie](https://www.aidedd.org/dnd/sorts.php?vf=telekinesie)
+-   Wall of [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere)
+-   [Mur de pierre](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-pierre)
 
-##### 6th Level
+##### Niveau 6
 
--   Chaîne d'éclairs
--   Cercle de mort
--   Désintégration
--   Mauvais oeil
--   Fizban's Platinum Bouclier
--   Pétrification
--   Globe d'invulnérabilité
--   Sacre des flammes
--   Sacre de la glace
--   Sacre de la pierre
--   Sacre du vent
--   Suggestion de groupe
--   Prison mentale
--   Terraformage
--   Sphère glaciale d'Otiluke
--   Dispersion
--   Rayon de soleil
--   Costume d'Outremonde de Tasha
--   Vision suprême
+-   [Chaîne d'éclairs](https://www.aidedd.org/dnd/sorts.php?vf=chaine-d-eclairs)
+-   [Cercle de mort](https://www.aidedd.org/dnd/sorts.php?vf=cercle-de-mort)
+-   [Désintégration](https://www.aidedd.org/dnd/sorts.php?vf=desintegration)
+-   [Mauvais oeil](https://www.aidedd.org/dnd/sorts.php?vf=mauvais-oeil)
+-   Fizban's Platinum [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)
+-   [Pétrification](https://www.aidedd.org/dnd/sorts.php?vf=petrification)
+-   [Globe d'invulnérabilité](https://www.aidedd.org/dnd/sorts.php?vf=globe-d-invulnerabilite)
+-   [Sacre des flammes](https://www.aidedd.org/dnd/sorts.php?vf=sacre-des-flammes)
+-   [Sacre de la glace](https://www.aidedd.org/dnd/sorts.php?vf=sacre-de-la-glace)
+-   [Sacre de la pierre](https://www.aidedd.org/dnd/sorts.php?vf=sacre-de-la-pierre)
+-   [Sacre du vent](https://www.aidedd.org/dnd/sorts.php?vf=sacre-du-vent)
+-   Mass [Suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion)
+-   [Prison mentale](https://www.aidedd.org/dnd/sorts.php?vf=prison-mentale)
+-   [Terraformage](https://www.aidedd.org/dnd/sorts.php?vf=terraformage)
+-   [Sphère glaciale d'Otiluke](https://www.aidedd.org/dnd/sorts.php?vf=sphere-glaciale-d-otiluke)
+-   [Dispersion](https://www.aidedd.org/dnd/sorts.php?vf=dispersion)
+-   [Rayon de soleil](https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-soleil)
+-   [Costume d'Outremonde de Tasha](https://www.aidedd.org/dnd/sorts.php?vf=costume-d-outremonde-de-tasha)
+-   [Vision suprême](https://www.aidedd.org/dnd/sorts.php?vf=vision-supreme)
 
-##### 7th Level
+##### Niveau 7
 
--   Couronne d'étoiles
--   Delayed Blast Boule de feu
--   Draconic Transformation
--   Songe of the Blue Veil
--   Forme éthérée
--   Doigt de mort
--   Tempête de feu
+-   [Couronne d'étoiles](https://www.aidedd.org/dnd/sorts.php?vf=couronne-d-etoiles)
+-   Delayed Blast [Boule de feu](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu)
+-   [Transformation draconique](https://www.aidedd.org/dnd/sorts.php?vf=transformation-draconique)
+-   [Songe](https://www.aidedd.org/dnd/sorts.php?vf=songe) of the Blue Veil
+-   [Forme éthérée](https://www.aidedd.org/dnd/sorts.php?vf=forme-etheree)
+-   [Doigt de mort](https://www.aidedd.org/dnd/sorts.php?vf=doigt-de-mort)
+-   [Tempête de feu](https://www.aidedd.org/dnd/sorts.php?vf=tempete-de-feu)
 -   Power Word: Pain
--   Rayons prismatiques
--   Inversion de la gravité
+-   [Rayons prismatiques](https://www.aidedd.org/dnd/sorts.php?vf=rayons-prismatiques)
+-   [Inversion de la gravité](https://www.aidedd.org/dnd/sorts.php?vf=inversion-de-la-gravite)
 
-##### 8th Level
+##### Niveau 8
 
--   Flétrissure épouvantable d'Abi-Dalzim
--   Domination de monstre
--   Tremblement de terre
--   Nuage incendiaire
+-   [Flétrissure épouvantable d'Abi-Dalzim](https://www.aidedd.org/dnd/sorts.php?vf=fletrissure-epouvantable-d-abi-dalzim)
+-   [Domination de monstre](https://www.aidedd.org/dnd/sorts.php?vf=domination-de-monstre)
+-   [Tremblement de terre](https://www.aidedd.org/dnd/sorts.php?vf=tremblement-de-terre)
+-   [Nuage incendiaire](https://www.aidedd.org/dnd/sorts.php?vf=nuage-incendiaire)
 -   Power Word: Stun
--   Éclat du soleil
+-   [Éclat du soleil](https://www.aidedd.org/dnd/sorts.php?vf=eclat-du-soleil)
 
-##### 9th Level
+##### Niveau 9
 
--   Lame du désastre
+-   [Lame du désastre](https://www.aidedd.org/dnd/sorts.php?vf=lame-du-desastre)
 -   Flame Emperor^
 -   Island Shaking^
--   Mass Métamorphose
--   Nuée de météores
+-   Mass [Métamorphose](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose)
+-   [Nuée de météores](https://www.aidedd.org/dnd/sorts.php?vf=nuee-de-meteores)
 -   Power Word: Kill
--   Hurlement psychique
--   Arrêt du temps
+-   [Hurlement psychique](https://www.aidedd.org/dnd/sorts.php?vf=hurlement-psychique)
+-   [Arrêt du temps](https://www.aidedd.org/dnd/sorts.php?vf=arret-du-temps)
 
-### Marksman Spells
+### Sorts de tireur
 
-##### 1st Level
+##### Niveau 1
 
--   Absorption des éléments
--   Alarme
--   Animal Amiship
--   Lien avec une bête
--   Soins
--   Détection de la magie
--   Détection du poison et des maladies
--   Frappe piégeuse
--   Enchevêtrement
--   Nappe de brouillard
--   Grêle d'épines
--   Marque du chasseur
--   Saut
--   Grande foulée
--   Châtiment calcinant
--   Collet
--   Communication avec les animaux
--   Frappe du zéphyr
+-   [Absorption des éléments](https://www.aidedd.org/dnd/sorts.php?vf=absorption-des-elements)
+-   [Alarme](https://www.aidedd.org/dnd/sorts.php?vf=alarme)
+-   Animal [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)hip
+-   [Lien avec une bête](https://www.aidedd.org/dnd/sorts.php?vf=lien-avec-une-bete)
+-   [Soins](https://www.aidedd.org/dnd/sorts.php?vf=soins)
+-   [Détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie)
+-   [Détection du poison et des maladies](https://www.aidedd.org/dnd/sorts.php?vf=detection-du-poison-et-des-maladies)
+-   [Frappe piégeuse](https://www.aidedd.org/dnd/sorts.php?vf=frappe-piegeuse)
+-   [Enchevêtrement](https://www.aidedd.org/dnd/sorts.php?vf=enchevetrement)
+-   [Nappe de brouillard](https://www.aidedd.org/dnd/sorts.php?vf=nappe-de-brouillard)
+-   [Grêle d'épines](https://www.aidedd.org/dnd/sorts.php?vf=grele-d-epines)
+-   [Marque du chasseur](https://www.aidedd.org/dnd/sorts.php?vf=marque-du-chasseur)
+-   [Saut](https://www.aidedd.org/dnd/sorts.php?vf=saut)
+-   [Grande foulée](https://www.aidedd.org/dnd/sorts.php?vf=grande-foulee)
+-   [Châtiment calcinant](https://www.aidedd.org/dnd/sorts.php?vf=chatiment-calcinant)
+-   [Collet](https://www.aidedd.org/dnd/sorts.php?vf=collet)
+-   [Communication avec les animaux](https://www.aidedd.org/dnd/sorts.php?vf=communication-avec-les-animaux)
+-   [Frappe du zéphyr](https://www.aidedd.org/dnd/sorts.php?vf=frappe-du-zephyr)
 
-##### 2nd Level
+##### Niveau 2
 
--   Aide
+-   [Aide](https://www.aidedd.org/dnd/sorts.php?vf=aide)
 -   Air Bubble
--   Messager animal
--   Peau d'écorce
--   Sens animal
--   Cordon de flèches
--   Vision dans le noir
--   Amélioration de caractéristique
--   Sens des pièges
--   Bourrasque
--   Restauration partielle
--   Localisation d'animaux ou de plantes
--   Localisation d'objet
--   Arme magique
+-   [Messager animal](https://www.aidedd.org/dnd/sorts.php?vf=messager-animal)
+-   [Peau d'écorce](https://www.aidedd.org/dnd/sorts.php?vf=peau-d-ecorce)
+-   [Sens animal](https://www.aidedd.org/dnd/sorts.php?vf=sens-animal)
+-   [Cordon de flèches](https://www.aidedd.org/dnd/sorts.php?vf=cordon-de-fleches)
+-   [Vision dans le noir](https://www.aidedd.org/dnd/sorts.php?vf=vision-dans-le-noir)
+-   [Amélioration de caractéristique](https://www.aidedd.org/dnd/sorts.php?vf=amelioration-de-caracteristique)
+-   [Sens des pièges](https://www.aidedd.org/dnd/sorts.php?vf=sens-des-pieges)
+-   [Bourrasque](https://www.aidedd.org/dnd/sorts.php?vf=bourrasque)
+-   [Restauration partielle](https://www.aidedd.org/dnd/sorts.php?vf=restauration-partielle)
+-   [Localisation d'animaux ou de plantes](https://www.aidedd.org/dnd/sorts.php?vf=localisation-d-animaux-ou-de-plantes)
+-   [Localisation d'objet](https://www.aidedd.org/dnd/sorts.php?vf=localisation-d-objet)
+-   [Arme magique](https://www.aidedd.org/dnd/sorts.php?vf=arme-magique)
 -   Pass Without Trace
--   Protection contre le poison
--   Silence
--   Croissance d'épines
--   Convocation de bête
+-   [Protection contre le poison](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-le-poison)
+-   [Silence](https://www.aidedd.org/dnd/sorts.php?vf=silence)
+-   [Croissance d'épines](https://www.aidedd.org/dnd/sorts.php?vf=croissance-d-epines)
+-   [Convocation de bête](https://www.aidedd.org/dnd/sorts.php?vf=convocation-de-bete)
 
-##### 3rd Level
+##### Niveau 3
 
--   Ashardalon's Stride
--   Invocation d'animaux
--   Invocation de projectiles
--   Lumière du jour
--   Arme élémentaire
--   Flèches enflammées
--   Flèche de foudre
--   Antidétection
--   Protection contre une énergie
--   Retour à la vie
+-   [Foulée d'Ashardalon](https://www.aidedd.org/dnd/sorts.php?vf=foulee-d-ashardalon)
+-   [Invocation d'animaux](https://www.aidedd.org/dnd/sorts.php?vf=invocation-d-animaux)
+-   [Invocation de projectiles](https://www.aidedd.org/dnd/sorts.php?vf=invocation-de-projectiles)
+-   [Lumière du jour](https://www.aidedd.org/dnd/sorts.php?vf=lumiere-du-jour)
+-   [Arme élémentaire](https://www.aidedd.org/dnd/sorts.php?vf=arme-elementaire)
+-   [Flèches enflammées](https://www.aidedd.org/dnd/sorts.php?vf=fleches-enflammees)
+-   [Flèche de foudre](https://www.aidedd.org/dnd/sorts.php?vf=fleche-de-foudre)
+-   [Antidétection](https://www.aidedd.org/dnd/sorts.php?vf=antidetection)
+-   [Protection contre une énergie](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-une-energie)
+-   [Retour à la vie](https://www.aidedd.org/dnd/sorts.php?vf=retour-a-la-vie)
 -   Soap Bubble^
--   Communication avec les plantes
--   Convocation de fée
--   Respiration aquatique
--   Marche sur l'eau
--   Mur de vent
+-   [Communication avec les plantes](https://www.aidedd.org/dnd/sorts.php?vf=communication-avec-les-plantes)
+-   [Convocation de fée](https://www.aidedd.org/dnd/sorts.php?vf=convocation-de-fee)
+-   [Respiration aquatique](https://www.aidedd.org/dnd/sorts.php?vf=respiration-aquatique)
+-   [Marche sur l'eau](https://www.aidedd.org/dnd/sorts.php?vf=marche-sur-l-eau)
+-   [Mur de vent](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-vent)
 
-##### 4th Level
+##### Niveau 4
 
--   Invocation d'êtres sylvestres
--   Domination de bête
--   Liberté de mouvement
--   Liane avide
--   Localisation de créature
--   Peau de pierre
--   Convocation d'élémentaire
+-   [Invocation d'êtres sylvestres](https://www.aidedd.org/dnd/sorts.php?vf=invocation-d-etres-sylvestres)
+-   [Domination de bête](https://www.aidedd.org/dnd/sorts.php?vf=domination-de-bete)
+-   [Liberté de mouvement](https://www.aidedd.org/dnd/sorts.php?vf=liberte-de-mouvement)
+-   [Liane avide](https://www.aidedd.org/dnd/sorts.php?vf=liane-avide)
+-   [Localisation de créature](https://www.aidedd.org/dnd/sorts.php?vf=localisation-de-creature)
+-   [Peau de pierre](https://www.aidedd.org/dnd/sorts.php?vf=peau-de-pierre)
+-   [Convocation d'élémentaire](https://www.aidedd.org/dnd/sorts.php?vf=convocation-d-elementaire)
 
-##### 5th Level
+##### Niveau 5
 
--   Communion With Nature
--   Invocation de volée
+-   [Communion](https://www.aidedd.org/dnd/sorts.php?vf=communion) With Nature
+-   [Invocation de volée](https://www.aidedd.org/dnd/sorts.php?vf=invocation-de-volee)
 -   Great Heaven Splitter^
--   Restauration supérieure
--   Frappe du vent d'acier
--   Carquois magique
+-   [Restauration supérieure](https://www.aidedd.org/dnd/sorts.php?vf=restauration-superieure)
+-   [Frappe du vent d'acier](https://www.aidedd.org/dnd/sorts.php?vf=frappe-du-vent-d-acier)
+-   [Carquois magique](https://www.aidedd.org/dnd/sorts.php?vf=carquois-magique)
 
-### Priest Spells
+### Sorts de prêtre
 
-##### Natural Abilities/Cantrips (0 Level)
+##### Capacités naturelle
 
--   Assistance
--   Lumière
--   Réparation
--   Résistance
--   Flamme sacrée
--   Stabilisation
--   Thaumaturgie
--   Glas
--   Mot de radiance
+-   [Assistance](https://www.aidedd.org/dnd/sorts.php?vf=assistance)
+-   [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere)
+-   [Réparation](https://www.aidedd.org/dnd/sorts.php?vf=reparation)
+-   [Résistance](https://www.aidedd.org/dnd/sorts.php?vf=resistance)
+-   [Flamme sacrée](https://www.aidedd.org/dnd/sorts.php?vf=flamme-sacree)
+-   [Stabilisation](https://www.aidedd.org/dnd/sorts.php?vf=stabilisation)
+-   [Thaumaturgie](https://www.aidedd.org/dnd/sorts.php?vf=thaumaturgie)
+-   [Glas](https://www.aidedd.org/dnd/sorts.php?vf=glas)
+-   [Mot de radiance](https://www.aidedd.org/dnd/sorts.php?vf=mot-de-radiance)
 
-##### 1st Level
+##### Niveau 1
 
--   Fléau
--   Bénédiction
--   Cérémonie
--   Injonction
--   Création ou destruction d'eau
--   Soins
--   Détection du mal et du bien
--   Détection de la magie
--   Détection du poison et des maladies
--   Éclair traçant
--   Guérisoning Word
--   Blessure
--   Protection contre le mal et le bien
--   Purification de nourriture et d'eau
--   Sanctuaire
--   Bouclier of Faith
+-   [Fléau](https://www.aidedd.org/dnd/sorts.php?vf=fleau)
+-   [Bénédiction](https://www.aidedd.org/dnd/sorts.php?vf=benediction)
+-   [Cérémonie](https://www.aidedd.org/dnd/sorts.php?vf=ceremonie)
+-   [Injonction](https://www.aidedd.org/dnd/sorts.php?vf=injonction)
+-   [Création ou destruction d'eau](https://www.aidedd.org/dnd/sorts.php?vf=creation-ou-destruction-d-eau)
+-   [Soins](https://www.aidedd.org/dnd/sorts.php?vf=soins)
+-   [Détection du mal et du bien](https://www.aidedd.org/dnd/sorts.php?vf=detection-du-mal-et-du-bien)
+-   [Détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie)
+-   [Détection du poison et des maladies](https://www.aidedd.org/dnd/sorts.php?vf=detection-du-poison-et-des-maladies)
+-   [Éclair traçant](https://www.aidedd.org/dnd/sorts.php?vf=eclair-tracant)
+-   [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)ing Word
+-   [Blessure](https://www.aidedd.org/dnd/sorts.php?vf=blessure)
+-   [Protection contre le mal et le bien](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-le-mal-et-le-bien)
+-   [Purification de nourriture et d'eau](https://www.aidedd.org/dnd/sorts.php?vf=purification-de-nourriture-et-d-eau)
+-   [Sanctuaire](https://www.aidedd.org/dnd/sorts.php?vf=sanctuaire)
+-   [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier) of Faith
 
-##### 2nd Level
+##### Niveau 2
 
--   Aide
--   Augure
--   Cécité/Surdité
+-   [Aide](https://www.aidedd.org/dnd/sorts.php?vf=aide)
+-   [Augure](https://www.aidedd.org/dnd/sorts.php?vf=augure)
+-   [Cécité/Surdité](https://www.aidedd.org/dnd/sorts.php?vf=cecite-surdite)
 -   Borrowed Knowledge
--   Apaisement des émotions
--   Flamme éternelle
--   Amélioration de caractéristique
--   Sens des pièges
--   Préservation des morts
--   Immobilisation de personne
--   Restauration partielle
--   Localisation d'objet
--   Prayer of Guérisoning
--   Protection contre le poison
--   Silence
--   Arme spirituelle
--   Lien de protection
--   Zone de vérité"
+-   [Apaisement des émotions](https://www.aidedd.org/dnd/sorts.php?vf=apaisement-des-emotions)
+-   [Flamme éternelle](https://www.aidedd.org/dnd/sorts.php?vf=flamme-eternelle)
+-   [Amélioration de caractéristique](https://www.aidedd.org/dnd/sorts.php?vf=amelioration-de-caracteristique)
+-   [Sens des pièges](https://www.aidedd.org/dnd/sorts.php?vf=sens-des-pieges)
+-   [Préservation des morts](https://www.aidedd.org/dnd/sorts.php?vf=preservation-des-morts)
+-   [Immobilisation de personne](https://www.aidedd.org/dnd/sorts.php?vf=immobilisation-de-personne)
+-   [Restauration partielle](https://www.aidedd.org/dnd/sorts.php?vf=restauration-partielle)
+-   [Localisation d'objet](https://www.aidedd.org/dnd/sorts.php?vf=localisation-d-objet)
+-   Prayer of [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)ing
+-   [Protection contre le poison](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-le-poison)
+-   [Silence](https://www.aidedd.org/dnd/sorts.php?vf=silence)
+-   [Arme spirituelle](https://www.aidedd.org/dnd/sorts.php?vf=arme-spirituelle)
+-   [Lien de protection](https://www.aidedd.org/dnd/sorts.php?vf=lien-de-protection)
+-   [Zone de vérité](https://www.aidedd.org/dnd/sorts.php?vf=zone-de-verite)
 
-##### 3rd Level
+##### Niveau 3
 
--   Animation des morts
--   Aura de vitalité
--   Lueur d'espoir
--   Malédiction
--   Clairvoyance
--   Création de nourriture et d'eau
--   Lumière du jour
--   Dissipation de la magie
--   Fast Amis
--   Mort simulée
--   Glyphe de protection
+-   [Animation des morts](https://www.aidedd.org/dnd/sorts.php?vf=animation-des-morts)
+-   [Aura de vitalité](https://www.aidedd.org/dnd/sorts.php?vf=aura-de-vitalite)
+-   [Lueur d'espoir](https://www.aidedd.org/dnd/sorts.php?vf=lueur-d-espoir)
+-   [Malédiction](https://www.aidedd.org/dnd/sorts.php?vf=malediction)
+-   [Clairvoyance](https://www.aidedd.org/dnd/sorts.php?vf=clairvoyance)
+-   [Création de nourriture et d'eau](https://www.aidedd.org/dnd/sorts.php?vf=creation-de-nourriture-et-d-eau)
+-   [Lumière du jour](https://www.aidedd.org/dnd/sorts.php?vf=lumiere-du-jour)
+-   [Dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)
+-   Fast [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)
+-   [Mort simulée](https://www.aidedd.org/dnd/sorts.php?vf=mort-simulee)
+-   [Glyphe de protection](https://www.aidedd.org/dnd/sorts.php?vf=glyphe-de-protection)
 -   Incite Greed
--   Transfert de vie
--   Cercle magique
--   Mass Guérisoning Word
+-   [Transfert de vie](https://www.aidedd.org/dnd/sorts.php?vf=transfert-de-vie)
+-   [Cercle magique](https://www.aidedd.org/dnd/sorts.php?vf=cercle-magique)
+-   Mass [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)ing Word
 -   Meld Into Stone
 -   Motivational Speech
--   Protection contre une énergie
--   Délivrance des malédictions
--   Retour à la vie
--   Communication à distance
--   Communication avec les morts
--   Esprits gardiens
--   Voile spirituel
--   Marche sur l'eau
+-   [Protection contre une énergie](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-une-energie)
+-   [Délivrance des malédictions](https://www.aidedd.org/dnd/sorts.php?vf=delivrance-des-maledictions)
+-   [Retour à la vie](https://www.aidedd.org/dnd/sorts.php?vf=retour-a-la-vie)
+-   [Communication à distance](https://www.aidedd.org/dnd/sorts.php?vf=communication-a-distance)
+-   [Communication avec les morts](https://www.aidedd.org/dnd/sorts.php?vf=communication-avec-les-morts)
+-   [Esprits gardiens](https://www.aidedd.org/dnd/sorts.php?vf=esprits-gardiens)
+-   [Voile spirituel](https://www.aidedd.org/dnd/sorts.php?vf=voile-spirituel)
+-   [Marche sur l'eau](https://www.aidedd.org/dnd/sorts.php?vf=marche-sur-l-eau)
 
-##### 4th Level
+##### Niveau 4
 
--   Aura de vie
--   Aura de pureté
--   Protection contre la mort
--   Divination
--   Liberté de mouvement
--   Gardien de la foi
--   Localisation de créature
--   Façonnage de la pierre
+-   [Aura de vie](https://www.aidedd.org/dnd/sorts.php?vf=aura-de-vie)
+-   [Aura de pureté](https://www.aidedd.org/dnd/sorts.php?vf=aura-de-purete)
+-   [Protection contre la mort](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-la-mort)
+-   [Divination](https://www.aidedd.org/dnd/sorts.php?vf=divination)
+-   [Liberté de mouvement](https://www.aidedd.org/dnd/sorts.php?vf=liberte-de-mouvement)
+-   [Gardien de la foi](https://www.aidedd.org/dnd/sorts.php?vf=gardien-de-la-foi)
+-   [Localisation de créature](https://www.aidedd.org/dnd/sorts.php?vf=localisation-de-creature)
+-   [Façonnage de la pierre](https://www.aidedd.org/dnd/sorts.php?vf=faconnage-de-la-pierre)
 
-##### 5th Level
+##### Niveau 5
 
--   Communion
--   Contagion
--   Aube
--   Dissipation du mal et du bien
--   Colonne de flamme
--   Quête
--   Restauration supérieure
--   Sanctification
--   Arme sacrée
--   Fléau d'insectes
--   Mythes et légendes
--   Mass Soins
--   Contrat
--   Rappel à la vie
--   Scrutation
--   Convocation de céleste
+-   [Communion](https://www.aidedd.org/dnd/sorts.php?vf=communion)
+-   [Contagion](https://www.aidedd.org/dnd/sorts.php?vf=contagion)
+-   [Aube](https://www.aidedd.org/dnd/sorts.php?vf=aube)
+-   [Dissipation du mal et du bien](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-du-mal-et-du-bien)
+-   [Colonne de flamme](https://www.aidedd.org/dnd/sorts.php?vf=colonne-de-flamme)
+-   [Quête](https://www.aidedd.org/dnd/sorts.php?vf=quete)
+-   [Restauration supérieure](https://www.aidedd.org/dnd/sorts.php?vf=restauration-superieure)
+-   [Sanctification](https://www.aidedd.org/dnd/sorts.php?vf=sanctification)
+-   [Arme sacrée](https://www.aidedd.org/dnd/sorts.php?vf=arme-sacree)
+-   [Fléau d'insectes](https://www.aidedd.org/dnd/sorts.php?vf=fleau-d-insectes)
+-   [Mythes et légendes](https://www.aidedd.org/dnd/sorts.php?vf=mythes-et-legendes)
+-   Mass [Soins](https://www.aidedd.org/dnd/sorts.php?vf=soins)
+-   [Contrat](https://www.aidedd.org/dnd/sorts.php?vf=contrat)
+-   [Rappel à la vie](https://www.aidedd.org/dnd/sorts.php?vf=rappel-a-la-vie)
+-   [Scrutation](https://www.aidedd.org/dnd/sorts.php?vf=scrutation)
+-   [Convocation de céleste](https://www.aidedd.org/dnd/sorts.php?vf=convocation-de-celeste)
 
-##### 6th Level
+##### Niveau 6
 
--   Barrière de lames
--   Création de mort-vivant
--   Sens de l'orientation
--   Interdiction
--   Contamination
--   Guérison
--   Festin des héros
--   Rayon de soleil
--   Vision suprême
+-   [Barrière de lames](https://www.aidedd.org/dnd/sorts.php?vf=barriere-de-lames)
+-   [Création de mort-vivant](https://www.aidedd.org/dnd/sorts.php?vf=creation-de-mort-vivant)
+-   [Sens de l'orientation](https://www.aidedd.org/dnd/sorts.php?vf=sens-de-l-orientation)
+-   [Interdiction](https://www.aidedd.org/dnd/sorts.php?vf=interdiction)
+-   [Contamination](https://www.aidedd.org/dnd/sorts.php?vf=contamination)
+-   [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)
+-   [Festin des héros](https://www.aidedd.org/dnd/sorts.php?vf=festin-des-heros)
+-   [Rayon de soleil](https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-soleil)
+-   [Vision suprême](https://www.aidedd.org/dnd/sorts.php?vf=vision-supreme)
 
-##### 7th Level
+##### Niveau 7
 
--   Invocation de céleste
--   Parole divine
--   Forme éthérée
--   Tempête de feu
--   Régénération
--   Résurrection
--   Symbole
--   Temple des dieux
+-   [Invocation de céleste](https://www.aidedd.org/dnd/sorts.php?vf=invocation-de-celeste)
+-   [Parole divine](https://www.aidedd.org/dnd/sorts.php?vf=parole-divine)
+-   [Forme éthérée](https://www.aidedd.org/dnd/sorts.php?vf=forme-etheree)
+-   [Tempête de feu](https://www.aidedd.org/dnd/sorts.php?vf=tempete-de-feu)
+-   [Régénération](https://www.aidedd.org/dnd/sorts.php?vf=regeneration)
+-   [Résurrection](https://www.aidedd.org/dnd/sorts.php?vf=resurrection)
+-   [Symbole](https://www.aidedd.org/dnd/sorts.php?vf=symbole)
+-   [Temple des dieux](https://www.aidedd.org/dnd/sorts.php?vf=temple-des-dieux)
 
-##### 8th Level
+##### Niveau 8
 
--   Champ antimagie
--   Contrôle du climat
--   Tremblement de terre
--   Aura sacrée
+-   [Champ antimagie](https://www.aidedd.org/dnd/sorts.php?vf=champ-antimagie)
+-   [Contrôle du climat](https://www.aidedd.org/dnd/sorts.php?vf=controle-du-climat)
+-   [Tremblement de terre](https://www.aidedd.org/dnd/sorts.php?vf=tremblement-de-terre)
+-   [Aura sacrée](https://www.aidedd.org/dnd/sorts.php?vf=aura-sacree)
 -   Poison Giant: Hell's Judgement^
--   Éclat du soleil
+-   [Éclat du soleil](https://www.aidedd.org/dnd/sorts.php?vf=eclat-du-soleil)
 
-##### 9th Level
+##### Niveau 9
 
 -   Flame Emperor^
 -   Island Shaking^
 -   Locate Devil Fruit Power^
--   Mass Guérison
--   Power Word: Guérison
--   True Résurrection
+-   Mass [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)
+-   Power Word: [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)
+-   True [Résurrection](https://www.aidedd.org/dnd/sorts.php?vf=resurrection)
 
-### Skald Spells
+### Sorts de musicien
 
-##### Natural Abilities/Cantrips (0 Level)
+##### Capacités naturelle
 
--   Protection contre les armes
--   Dancing Lumières
--   Amis
--   Lumière
--   Réparation
--   Message
--   Illusion mineure
--   Prestidigitation
--   Coup de tonnerre
--   Coup au but
--   Moquerie cruelle
+-   [Protection contre les armes](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-les-armes)
+-   Dancing [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere)s
+-   [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)
+-   [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere)
+-   [Réparation](https://www.aidedd.org/dnd/sorts.php?vf=reparation)
+-   [Message](https://www.aidedd.org/dnd/sorts.php?vf=message)
+-   [Illusion mineure](https://www.aidedd.org/dnd/sorts.php?vf=illusion-mineure)
+-   [Prestidigitation](https://www.aidedd.org/dnd/sorts.php?vf=prestidigitation)
+-   [Coup de tonnerre](https://www.aidedd.org/dnd/sorts.php?vf=coup-de-tonnerre)
+-   [Coup au but](https://www.aidedd.org/dnd/sorts.php?vf=coup-au-but)
+-   [Moquerie cruelle](https://www.aidedd.org/dnd/sorts.php?vf=moquerie-cruelle)
 
-##### 1st Level
+##### Niveau 1
 
--   Animal Amiship
--   Fléau
--   Charme-personne
--   Couleurs dansantes
--   Injonction
--   Soins
--   Détection de la magie
--   Déguisement
--   Murmures dissonants
+-   Animal [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)hip
+-   [Fléau](https://www.aidedd.org/dnd/sorts.php?vf=fleau)
+-   [Charme-personne](https://www.aidedd.org/dnd/sorts.php?vf=charme-personne)
+-   [Couleurs dansantes](https://www.aidedd.org/dnd/sorts.php?vf=couleurs-dansantes)
+-   [Injonction](https://www.aidedd.org/dnd/sorts.php?vf=injonction)
+-   [Soins](https://www.aidedd.org/dnd/sorts.php?vf=soins)
+-   [Détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie)
+-   [Déguisement](https://www.aidedd.org/dnd/sorts.php?vf=deguisement)
+-   [Murmures dissonants](https://www.aidedd.org/dnd/sorts.php?vf=murmures-dissonants)
 -   Distort Value
--   Secousse sismique
--   Lueurs féeriques
--   Feuille morte
--   Guérisoning Word
--   Héroïsme
--   Identification
--   Texte illusoire
--   Grande foulée
--   Image silencieuse
--   Silvery Barbs
--   Sommeil
--   Communication avec les animaux
--   Fou rire de Tasha
--   Vague tonnante
+-   [Secousse sismique](https://www.aidedd.org/dnd/sorts.php?vf=secousse-sismique)
+-   [Lueurs féeriques](https://www.aidedd.org/dnd/sorts.php?vf=lueurs-feeriques)
+-   [Feuille morte](https://www.aidedd.org/dnd/sorts.php?vf=feuille-morte)
+-   [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)ing Word
+-   [Héroïsme](https://www.aidedd.org/dnd/sorts.php?vf=heroisme)
+-   [Identification](https://www.aidedd.org/dnd/sorts.php?vf=identification)
+-   [Texte illusoire](https://www.aidedd.org/dnd/sorts.php?vf=texte-illusoire)
+-   [Grande foulée](https://www.aidedd.org/dnd/sorts.php?vf=grande-foulee)
+-   [Image silencieuse](https://www.aidedd.org/dnd/sorts.php?vf=image-silencieuse)
+-   [Barbes argentées](https://www.aidedd.org/dnd/sorts.php?vf=barbes-argentees)
+-   [Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil)
+-   [Communication avec les animaux](https://www.aidedd.org/dnd/sorts.php?vf=communication-avec-les-animaux)
+-   [Fou rire de Tasha](https://www.aidedd.org/dnd/sorts.php?vf=fou-rire-de-tasha)
+-   [Vague tonnante](https://www.aidedd.org/dnd/sorts.php?vf=vague-tonnante)
 
-##### 2nd Level
+##### Niveau 2
 
--   Aide
--   Messager animal
--   Cécité/Surdité
+-   [Aide](https://www.aidedd.org/dnd/sorts.php?vf=aide)
+-   [Messager animal](https://www.aidedd.org/dnd/sorts.php?vf=messager-animal)
+-   [Cécité/Surdité](https://www.aidedd.org/dnd/sorts.php?vf=cecite-surdite)
 -   Borrowed Knowledge
--   Apaisement des émotions
--   Nuée de dagues
--   Couronne du dément
--   Détection des pensées
--   Amélioration de caractéristique
--   Discours captivant
+-   [Apaisement des émotions](https://www.aidedd.org/dnd/sorts.php?vf=apaisement-des-emotions)
+-   [Nuée de dagues](https://www.aidedd.org/dnd/sorts.php?vf=nuee-de-dagues)
+-   [Couronne du dément](https://www.aidedd.org/dnd/sorts.php?vf=couronne-du-dement)
+-   [Détection des pensées](https://www.aidedd.org/dnd/sorts.php?vf=detection-des-pensees)
+-   [Amélioration de caractéristique](https://www.aidedd.org/dnd/sorts.php?vf=amelioration-de-caracteristique)
+-   [Discours captivant](https://www.aidedd.org/dnd/sorts.php?vf=discours-captivant)
 -   Gift of Gab
--   Métal brûlant
--   Immobilisation de personne
--   Invisibilité
+-   [Métal brûlant](https://www.aidedd.org/dnd/sorts.php?vf=metal-brulant)
+-   [Immobilisation de personne](https://www.aidedd.org/dnd/sorts.php?vf=immobilisation-de-personne)
+-   [Invisibilité](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite)
 -   Kinetic Jaunt
--   Déblocage
--   Restauration partielle
--   Localisation d'animaux ou de plantes
--   Localisation d'objet
--   Image miroir
--   Nathair's Mischief
--   Force fantasmagorique
--   Pyrotechnie
+-   [Déblocage](https://www.aidedd.org/dnd/sorts.php?vf=deblocage)
+-   [Restauration partielle](https://www.aidedd.org/dnd/sorts.php?vf=restauration-partielle)
+-   [Localisation d'animaux ou de plantes](https://www.aidedd.org/dnd/sorts.php?vf=localisation-d-animaux-ou-de-plantes)
+-   [Localisation d'objet](https://www.aidedd.org/dnd/sorts.php?vf=localisation-d-objet)
+-   [Image miroir](https://www.aidedd.org/dnd/sorts.php?vf=image-miroir)
+-   [Espièglerie de Nathair](https://www.aidedd.org/dnd/sorts.php?vf=espieglerie-de-nathair)
+-   [Force fantasmagorique](https://www.aidedd.org/dnd/sorts.php?vf=force-fantasmagorique)
+-   [Pyrotechnie](https://www.aidedd.org/dnd/sorts.php?vf=pyrotechnie)
 -   See Invisbility
--   Fracassement
--   Silence
--   Libellé aérien
--   Suggestion
--   Vent protecteur
+-   [Fracassement](https://www.aidedd.org/dnd/sorts.php?vf=fracassement)
+-   [Silence](https://www.aidedd.org/dnd/sorts.php?vf=silence)
+-   [Libellé aérien](https://www.aidedd.org/dnd/sorts.php?vf=libelle-aerien)
+-   [Suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion)
+-   [Vent protecteur](https://www.aidedd.org/dnd/sorts.php?vf=vent-protecteur)
 
-##### 3rd Level
+##### Niveau 3
 
--   Malédiction
--   Sieste
--   Clairvoyance
--   Dissipation de la magie
--   Ennemis à foison
--   Fast Amis
--   Peur
--   Mort simulée
--   Glyphe de protection
--   Motif hypnotique
--   Forteresse d'intellect
--   Petite hutte de Léomund
--   Image majeure
--   Mass Guérisoning Word
+-   [Malédiction](https://www.aidedd.org/dnd/sorts.php?vf=malediction)
+-   [Sieste](https://www.aidedd.org/dnd/sorts.php?vf=sieste)
+-   [Clairvoyance](https://www.aidedd.org/dnd/sorts.php?vf=clairvoyance)
+-   [Dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)
+-   [Ennemis à foison](https://www.aidedd.org/dnd/sorts.php?vf=ennemis-a-foison)
+-   Fast [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)
+-   [Peur](https://www.aidedd.org/dnd/sorts.php?vf=peur)
+-   [Mort simulée](https://www.aidedd.org/dnd/sorts.php?vf=mort-simulee)
+-   [Glyphe de protection](https://www.aidedd.org/dnd/sorts.php?vf=glyphe-de-protection)
+-   [Motif hypnotique](https://www.aidedd.org/dnd/sorts.php?vf=motif-hypnotique)
+-   [Forteresse d'intellect](https://www.aidedd.org/dnd/sorts.php?vf=forteresse-d-intellect)
+-   [Petite hutte de Léomund](https://www.aidedd.org/dnd/sorts.php?vf=petite-hutte-de-leomund)
+-   [Image majeure](https://www.aidedd.org/dnd/sorts.php?vf=image-majeure)
+-   Mass [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)ing Word
 -   Motivational Speech
--   Antidétection
--   Croissance végétale
--   Communication à distance
--   Lenteur
--   Communication avec les morts
--   Communication avec les plantes
--   Nuage nauséabond
+-   [Antidétection](https://www.aidedd.org/dnd/sorts.php?vf=antidetection)
+-   [Croissance végétale](https://www.aidedd.org/dnd/sorts.php?vf=croissance-vegetale)
+-   [Communication à distance](https://www.aidedd.org/dnd/sorts.php?vf=communication-a-distance)
+-   [Lenteur](https://www.aidedd.org/dnd/sorts.php?vf=lenteur)
+-   [Communication avec les morts](https://www.aidedd.org/dnd/sorts.php?vf=communication-avec-les-morts)
+-   [Communication avec les plantes](https://www.aidedd.org/dnd/sorts.php?vf=communication-avec-les-plantes)
+-   [Nuage nauséabond](https://www.aidedd.org/dnd/sorts.php?vf=nuage-nauseabond)
 
-##### 4th Level
+##### Niveau 4
 
--   Charme-monstre
--   Compulsion
--   Confusion
--   Liberté de mouvement
--   Greater Invisibilité
--   Terrain hallucinatoire
--   Localisation de créature
--   Assassin imaginaire
--   Raulothim's Psychic Lance
+-   [Charme-monstre](https://www.aidedd.org/dnd/sorts.php?vf=charme-monstre)
+-   [Compulsion](https://www.aidedd.org/dnd/sorts.php?vf=compulsion)
+-   [Confusion](https://www.aidedd.org/dnd/sorts.php?vf=confusion)
+-   [Liberté de mouvement](https://www.aidedd.org/dnd/sorts.php?vf=liberte-de-mouvement)
+-   Greater [Invisibilité](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite)
+-   [Terrain hallucinatoire](https://www.aidedd.org/dnd/sorts.php?vf=terrain-hallucinatoire)
+-   [Localisation de créature](https://www.aidedd.org/dnd/sorts.php?vf=localisation-de-creature)
+-   [Assassin imaginaire](https://www.aidedd.org/dnd/sorts.php?vf=assassin-imaginaire)
+-   [Lance d'arçon psychique de Raulothim](https://www.aidedd.org/dnd/sorts.php?vf=lance-d-arcon-psychique-de-raulothim)
 
-##### 5th Level
+##### Niveau 5
 
--   Domination de personne
--   Songe
--   Quête
--   Restauration supérieure
+-   [Domination de personne](https://www.aidedd.org/dnd/sorts.php?vf=domination-de-personne)
+-   [Songe](https://www.aidedd.org/dnd/sorts.php?vf=songe)
+-   [Quête](https://www.aidedd.org/dnd/sorts.php?vf=quete)
+-   [Restauration supérieure](https://www.aidedd.org/dnd/sorts.php?vf=restauration-superieure)
 -   Great Heaven Splitter^
--   Immobilisation de monstre
--   Mythes et légendes
--   Mass Soins
--   Double illusoire
--   Modification de mémoire
--   Contrat
--   Lien télépathique de Rary
--   Scrutation
--   Amélioration de compétences
--   Perturbations synaptiques
+-   [Immobilisation de monstre](https://www.aidedd.org/dnd/sorts.php?vf=immobilisation-de-monstre)
+-   [Mythes et légendes](https://www.aidedd.org/dnd/sorts.php?vf=mythes-et-legendes)
+-   Mass [Soins](https://www.aidedd.org/dnd/sorts.php?vf=soins)
+-   [Double illusoire](https://www.aidedd.org/dnd/sorts.php?vf=double-illusoire)
+-   [Modification de mémoire](https://www.aidedd.org/dnd/sorts.php?vf=modification-de-memoire)
+-   [Contrat](https://www.aidedd.org/dnd/sorts.php?vf=contrat)
+-   [Lien télépathique de Rary](https://www.aidedd.org/dnd/sorts.php?vf=lien-telepathique-de-rary)
+-   [Scrutation](https://www.aidedd.org/dnd/sorts.php?vf=scrutation)
+-   [Amélioration de compétences](https://www.aidedd.org/dnd/sorts.php?vf=amelioration-de-competences)
+-   [Perturbations synaptiques](https://www.aidedd.org/dnd/sorts.php?vf=perturbations-synaptiques)
 
-##### 6th Level
+##### Niveau 6
 
--   Mauvais oeil
--   Sens de l'orientation
--   Festin des héros
--   Suggestion de groupe
+-   [Mauvais oeil](https://www.aidedd.org/dnd/sorts.php?vf=mauvais-oeil)
+-   [Sens de l'orientation](https://www.aidedd.org/dnd/sorts.php?vf=sens-de-l-orientation)
+-   [Festin des héros](https://www.aidedd.org/dnd/sorts.php?vf=festin-des-heros)
+-   Mass [Suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion)
 -   Otto's Irresistable Dance
--   Illusion programmée
--   Vision suprême
+-   [Illusion programmée](https://www.aidedd.org/dnd/sorts.php?vf=illusion-programmee)
+-   [Vision suprême](https://www.aidedd.org/dnd/sorts.php?vf=vision-supreme)
 
-##### 7th Level
+##### Niveau 7
 
--   Cage de force
--   Mirage
--   Épée de Mordenkainen
--   Rayons prismatiques
--   Projection d'image
--   Régénération
--   Résurrection
--   Symbole
+-   [Cage de force](https://www.aidedd.org/dnd/sorts.php?vf=cage-de-force)
+-   [Mirage](https://www.aidedd.org/dnd/sorts.php?vf=mirage)
+-   [Épée de Mordenkainen](https://www.aidedd.org/dnd/sorts.php?vf=epee-de-mordenkainen)
+-   [Rayons prismatiques](https://www.aidedd.org/dnd/sorts.php?vf=rayons-prismatiques)
+-   [Projection d'image](https://www.aidedd.org/dnd/sorts.php?vf=projection-d-image)
+-   [Régénération](https://www.aidedd.org/dnd/sorts.php?vf=regeneration)
+-   [Résurrection](https://www.aidedd.org/dnd/sorts.php?vf=resurrection)
+-   [Symbole](https://www.aidedd.org/dnd/sorts.php?vf=symbole)
 
-##### 8th Level
+##### Niveau 8
 
 -   Antpathy/Sympathy
--   Domination de monstre
--   Esprit faible
+-   [Domination de monstre](https://www.aidedd.org/dnd/sorts.php?vf=domination-de-monstre)
+-   [Esprit faible](https://www.aidedd.org/dnd/sorts.php?vf=esprit-faible)
 -   Gibness
--   Esprit impénétrable
+-   [Esprit impénétrable](https://www.aidedd.org/dnd/sorts.php?vf=esprit-impenetrable)
 -   Power Word: Stun
 
-##### 9th Level
+##### Niveau 9
 
--   Prémonition
--   Power Word: Guérison
+-   [Prémonition](https://www.aidedd.org/dnd/sorts.php?vf=premonition)
+-   Power Word: [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)
 -   Power Word: Kill
--   Hurlement psychique
+-   [Hurlement psychique](https://www.aidedd.org/dnd/sorts.php?vf=hurlement-psychique)
 
-### Tinkerer Spells
+### Sorts de bricoleurs
 
-##### Natural Abilities/Cantrips (0 Level)
+##### Capacités naturelle
 
--   Aspersion d'acide
--   Protection contre les armes
--   Lame retentissante
--   Contact glacial
--   Contrôle des flammes
--   Embrasement
--   Dancing Lumières
+-   [Aspersion d'acide](https://www.aidedd.org/dnd/sorts.php?vf=aspersion-d-acide)
+-   [Protection contre les armes](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-les-armes)
+-   [Lame retentissante](https://www.aidedd.org/dnd/sorts.php?vf=lame-retentissante)
+-   [Contact glacial](https://www.aidedd.org/dnd/sorts.php?vf=contact-glacial)
+-   [Contrôle des flammes](https://www.aidedd.org/dnd/sorts.php?vf=controle-des-flammes)
+-   [Embrasement](https://www.aidedd.org/dnd/sorts.php?vf=embrasement)
+-   Dancing [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere)s
 -   Encode Thoughts
--   Trait de feu
--   Amis
--   Gelure
--   Lame aux flammes vertes
--   Saute de vent
--   Infestation
--   Lumière
--   Ferrage foudroyant
--   Main de mage
--   Réparation
--   Message
--   Piqûre mentale
--   Illusion mineure
--   Façonnage de la terre
--   Bouffée de poison
--   Prestidigitation
--   Rayon de givre
+-   [Trait de feu](https://www.aidedd.org/dnd/sorts.php?vf=trait-de-feu)
+-   [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)
+-   [Gelure](https://www.aidedd.org/dnd/sorts.php?vf=gelure)
+-   [Lame aux flammes vertes](https://www.aidedd.org/dnd/sorts.php?vf=lame-aux-flammes-vertes)
+-   [Saute de vent](https://www.aidedd.org/dnd/sorts.php?vf=saute-de-vent)
+-   [Infestation](https://www.aidedd.org/dnd/sorts.php?vf=infestation)
+-   [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere)
+-   [Ferrage foudroyant](https://www.aidedd.org/dnd/sorts.php?vf=ferrage-foudroyant)
+-   [Main de mage](https://www.aidedd.org/dnd/sorts.php?vf=main-de-mage)
+-   [Réparation](https://www.aidedd.org/dnd/sorts.php?vf=reparation)
+-   [Message](https://www.aidedd.org/dnd/sorts.php?vf=message)
+-   [Piqûre mentale](https://www.aidedd.org/dnd/sorts.php?vf=piqure-mentale)
+-   [Illusion mineure](https://www.aidedd.org/dnd/sorts.php?vf=illusion-mineure)
+-   [Façonnage de la terre](https://www.aidedd.org/dnd/sorts.php?vf=faconnage-de-la-terre)
+-   [Bouffée de poison](https://www.aidedd.org/dnd/sorts.php?vf=bouffee-de-poison)
+-   [Prestidigitation](https://www.aidedd.org/dnd/sorts.php?vf=prestidigitation)
+-   [Rayon de givre](https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre)
 -   Sapping Sting
--   Poigne électrique
--   Éruption de lames
--   Coup de tonnerre
--   Glas
--   Coup au but
+-   [Poigne électrique](https://www.aidedd.org/dnd/sorts.php?vf=poigne-electrique)
+-   [Éruption de lames](https://www.aidedd.org/dnd/sorts.php?vf=eruption-de-lames)
+-   [Coup de tonnerre](https://www.aidedd.org/dnd/sorts.php?vf=coup-de-tonnerre)
+-   [Glas](https://www.aidedd.org/dnd/sorts.php?vf=glas)
+-   [Coup au but](https://www.aidedd.org/dnd/sorts.php?vf=coup-au-but)
 
-##### 1st Level
+##### Niveau 1
 
--   Absorption des éléments
--   Alarme
--   Mains brûlantes
--   Catapulte
--   Frayeur
--   Charme-personne
--   Orbe chromatique
--   Couleurs dansantes
--   Détection de la magie
--   Déguisement
+-   [Absorption des éléments](https://www.aidedd.org/dnd/sorts.php?vf=absorption-des-elements)
+-   [Alarme](https://www.aidedd.org/dnd/sorts.php?vf=alarme)
+-   [Mains brûlantes](https://www.aidedd.org/dnd/sorts.php?vf=mains-brulantes)
+-   [Catapulte](https://www.aidedd.org/dnd/sorts.php?vf=catapulte)
+-   [Frayeur](https://www.aidedd.org/dnd/sorts.php?vf=frayeur)
+-   [Charme-personne](https://www.aidedd.org/dnd/sorts.php?vf=charme-personne)
+-   [Orbe chromatique](https://www.aidedd.org/dnd/sorts.php?vf=orbe-chromatique)
+-   [Couleurs dansantes](https://www.aidedd.org/dnd/sorts.php?vf=couleurs-dansantes)
+-   [Détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie)
+-   [Déguisement](https://www.aidedd.org/dnd/sorts.php?vf=deguisement)
 -   Distort Value
--   Secousse sismique
--   Repli expéditif
--   Simulacre de vie
--   Feuille morte
--   Appel de familier
--   Nappe de brouillard
+-   [Secousse sismique](https://www.aidedd.org/dnd/sorts.php?vf=secousse-sismique)
+-   [Repli expéditif](https://www.aidedd.org/dnd/sorts.php?vf=repli-expeditif)
+-   [Simulacre de vie](https://www.aidedd.org/dnd/sorts.php?vf=simulacre-de-vie)
+-   [Feuille morte](https://www.aidedd.org/dnd/sorts.php?vf=feuille-morte)
+-   [Appel de familier](https://www.aidedd.org/dnd/sorts.php?vf=appel-de-familier)
+-   [Nappe de brouillard](https://www.aidedd.org/dnd/sorts.php?vf=nappe-de-brouillard)
 -   Frost Fingers
 -   Gift of Alacrity
--   Graisse
--   Couteau de glace
--   Identification
--   Texte illusoire
--   Saut
--   Grande foulée
--   Armure de mage
--   Projectile magique
+-   [Graisse](https://www.aidedd.org/dnd/sorts.php?vf=graisse)
+-   [Couteau de glace](https://www.aidedd.org/dnd/sorts.php?vf=couteau-de-glace)
+-   [Identification](https://www.aidedd.org/dnd/sorts.php?vf=identification)
+-   [Texte illusoire](https://www.aidedd.org/dnd/sorts.php?vf=texte-illusoire)
+-   [Saut](https://www.aidedd.org/dnd/sorts.php?vf=saut)
+-   [Grande foulée](https://www.aidedd.org/dnd/sorts.php?vf=grande-foulee)
+-   [Armure de mage](https://www.aidedd.org/dnd/sorts.php?vf=armure-de-mage)
+-   [Projectile magique](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique)
 -   Magnify Gravity
--   Protection contre le mal et le bien
--   Rayon empoisonné
--   Bouclier
--   Image silencieuse
--   Silvery Barbs
--   Sommeil
--   Collet
--   Mixture caustique de Tasha
--   Fou rire de Tasha
--   Disque flottant de Tenser
--   Vague tonnante
--   Serviteur invisible
--   Trait ensorcelé
+-   [Protection contre le mal et le bien](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-le-mal-et-le-bien)
+-   [Rayon empoisonné](https://www.aidedd.org/dnd/sorts.php?vf=rayon-empoisonne)
+-   [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)
+-   [Image silencieuse](https://www.aidedd.org/dnd/sorts.php?vf=image-silencieuse)
+-   [Barbes argentées](https://www.aidedd.org/dnd/sorts.php?vf=barbes-argentees)
+-   [Sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil)
+-   [Collet](https://www.aidedd.org/dnd/sorts.php?vf=collet)
+-   [Mixture caustique de Tasha](https://www.aidedd.org/dnd/sorts.php?vf=mixture-caustique-de-tasha)
+-   [Fou rire de Tasha](https://www.aidedd.org/dnd/sorts.php?vf=fou-rire-de-tasha)
+-   [Disque flottant de Tenser](https://www.aidedd.org/dnd/sorts.php?vf=disque-flottant-de-tenser)
+-   [Vague tonnante](https://www.aidedd.org/dnd/sorts.php?vf=vague-tonnante)
+-   [Serviteur invisible](https://www.aidedd.org/dnd/sorts.php?vf=serviteur-invisible)
+-   [Trait ensorcelé](https://www.aidedd.org/dnd/sorts.php?vf=trait-ensorcele)
 
-##### 2nd Level
+##### Niveau 2
 
--   Flambée d'Aganazzar
+-   [Flambée d'Aganazzar](https://www.aidedd.org/dnd/sorts.php?vf=flambee-d-aganazzar)
 -   Air Bubble
--   Modification d'apparence
--   Verrou magique
--   Augure
--   Cécité/Surdité
--   Flou
+-   [Modification d'apparence](https://www.aidedd.org/dnd/sorts.php?vf=modification-d-apparence)
+-   [Verrou magique](https://www.aidedd.org/dnd/sorts.php?vf=verrou-magique)
+-   [Augure](https://www.aidedd.org/dnd/sorts.php?vf=augure)
+-   [Cécité/Surdité](https://www.aidedd.org/dnd/sorts.php?vf=cecite-surdite)
+-   [Flou](https://www.aidedd.org/dnd/sorts.php?vf=flou)
 -   Borrowed Knowledge
--   Nuée de dagues
--   Flamme éternelle
--   Couronne du dément
--   Ténèbres
--   Vision dans le noir
--   Détection des pensées
--   Souffle du dragon
--   Tourbillon de poussière
--   Attraction terrestre
--   Amélioration de caractéristique
--   Agrandissement/Rapetissement
--   Sphère de feu
+-   [Nuée de dagues](https://www.aidedd.org/dnd/sorts.php?vf=nuee-de-dagues)
+-   [Flamme éternelle](https://www.aidedd.org/dnd/sorts.php?vf=flamme-eternelle)
+-   [Couronne du dément](https://www.aidedd.org/dnd/sorts.php?vf=couronne-du-dement)
+-   [Ténèbres](https://www.aidedd.org/dnd/sorts.php?vf=tenebres)
+-   [Vision dans le noir](https://www.aidedd.org/dnd/sorts.php?vf=vision-dans-le-noir)
+-   [Détection des pensées](https://www.aidedd.org/dnd/sorts.php?vf=detection-des-pensees)
+-   [Souffle du dragon](https://www.aidedd.org/dnd/sorts.php?vf=souffle-du-dragon)
+-   [Tourbillon de poussière](https://www.aidedd.org/dnd/sorts.php?vf=tourbillon-de-poussiere)
+-   [Attraction terrestre](https://www.aidedd.org/dnd/sorts.php?vf=attraction-terrestre)
+-   [Amélioration de caractéristique](https://www.aidedd.org/dnd/sorts.php?vf=amelioration-de-caracteristique)
+-   [Agrandissement/Rapetissement](https://www.aidedd.org/dnd/sorts.php?vf=agrandissement-rapetissement)
+-   [Sphère de feu](https://www.aidedd.org/dnd/sorts.php?vf=sphere-de-feu)
 -   Flock of Familiars
 -   Fortune's Favor
--   Préservation des morts
+-   [Préservation des morts](https://www.aidedd.org/dnd/sorts.php?vf=preservation-des-morts)
 -   Gift of Gab
--   Bourrasque
--   Immobilisation de personne
+-   [Bourrasque](https://www.aidedd.org/dnd/sorts.php?vf=bourrasque)
+-   [Immobilisation de personne](https://www.aidedd.org/dnd/sorts.php?vf=immobilisation-de-personne)
 -   Immovable Object
--   Invisibilité
+-   [Invisibilité](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite)
 -   Kinetic Jaunt
--   Déblocage
--   Lévitation
--   Localisation d'objet
--   Bouche magique
--   Arme magique
+-   [Déblocage](https://www.aidedd.org/dnd/sorts.php?vf=deblocage)
+-   [Lévitation](https://www.aidedd.org/dnd/sorts.php?vf=levitation)
+-   [Localisation d'objet](https://www.aidedd.org/dnd/sorts.php?vf=localisation-d-objet)
+-   [Bouche magique](https://www.aidedd.org/dnd/sorts.php?vf=bouche-magique)
+-   [Arme magique](https://www.aidedd.org/dnd/sorts.php?vf=arme-magique)
 -   Maximillian's Earthern Grasp
--   Flèche acide de Melf
--   Épine mentale
--   Image miroir
--   Foulée brumeuse
--   Nathair's Mischief
--   Force fantasmagorique
--   Pyrotechnie
--   Rayon affaiblissant
--   Rime's Binding Ice
--   Corde enchantée
--   Rayon ardent
--   See Invisibilité
--   Lame d'ombres
--   Fracassement
--   Libellé aérien
+-   [Flèche acide de Melf](https://www.aidedd.org/dnd/sorts.php?vf=fleche-acide-de-melf)
+-   [Épine mentale](https://www.aidedd.org/dnd/sorts.php?vf=epine-mentale)
+-   [Image miroir](https://www.aidedd.org/dnd/sorts.php?vf=image-miroir)
+-   [Foulée brumeuse](https://www.aidedd.org/dnd/sorts.php?vf=foulee-brumeuse)
+-   [Espièglerie de Nathair](https://www.aidedd.org/dnd/sorts.php?vf=espieglerie-de-nathair)
+-   [Force fantasmagorique](https://www.aidedd.org/dnd/sorts.php?vf=force-fantasmagorique)
+-   [Pyrotechnie](https://www.aidedd.org/dnd/sorts.php?vf=pyrotechnie)
+-   [Rayon affaiblissant](https://www.aidedd.org/dnd/sorts.php?vf=rayon-affaiblissant)
+-   [Entraves de givre](https://www.aidedd.org/dnd/sorts.php?vf=entraves-de-givre)
+-   [Corde enchantée](https://www.aidedd.org/dnd/sorts.php?vf=corde-enchantee)
+-   [Rayon ardent](https://www.aidedd.org/dnd/sorts.php?vf=rayon-ardent)
+-   See [Invisibilité](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite)
+-   [Lame d'ombres](https://www.aidedd.org/dnd/sorts.php?vf=lame-d-ombres)
+-   [Fracassement](https://www.aidedd.org/dnd/sorts.php?vf=fracassement)
+-   [Libellé aérien](https://www.aidedd.org/dnd/sorts.php?vf=libelle-aerien)
 -   Snilloc's Snowball Storm
--   Pattes d'araignée
--   Suggestion
--   Fouet mental de Tasha
+-   [Pattes d'araignée](https://www.aidedd.org/dnd/sorts.php?vf=pattes-d-araignee)
+-   [Suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion)
+-   [Fouet mental de Tasha](https://www.aidedd.org/dnd/sorts.php?vf=fouet-mental-de-tasha)
 -   Vortex Warp
--   Vent protecteur
--   Toile d'araignée
+-   [Vent protecteur](https://www.aidedd.org/dnd/sorts.php?vf=vent-protecteur)
+-   [Toile d'araignée](https://www.aidedd.org/dnd/sorts.php?vf=toile-d-araignee)
 -   Wither and Bloom
 -   Wristpocket
 
-##### 3rd Level
+##### Niveau 3
 
--   Animation des morts
--   Ashardalon's Stride
--   Malédiction
--   Clignotement
--   Sieste
--   Clairvoyance
--   Contresort
--   Dissipation de la magie
--   Ennemis à foison
--   Éruption de terre
--   Fast Amis
--   Peur
--   Mort simulée
--   Boule de feu
--   Flèches enflammées
--   Vol
--   Forme gazeuse
--   Glyphe de protection
--   Hâte
--   Motif hypnotique
+-   [Animation des morts](https://www.aidedd.org/dnd/sorts.php?vf=animation-des-morts)
+-   [Foulée d'Ashardalon](https://www.aidedd.org/dnd/sorts.php?vf=foulee-d-ashardalon)
+-   [Malédiction](https://www.aidedd.org/dnd/sorts.php?vf=malediction)
+-   [Clignotement](https://www.aidedd.org/dnd/sorts.php?vf=clignotement)
+-   [Sieste](https://www.aidedd.org/dnd/sorts.php?vf=sieste)
+-   [Clairvoyance](https://www.aidedd.org/dnd/sorts.php?vf=clairvoyance)
+-   [Contresort](https://www.aidedd.org/dnd/sorts.php?vf=contresort)
+-   [Dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)
+-   [Ennemis à foison](https://www.aidedd.org/dnd/sorts.php?vf=ennemis-a-foison)
+-   [Éruption de terre](https://www.aidedd.org/dnd/sorts.php?vf=eruption-de-terre)
+-   Fast [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)
+-   [Peur](https://www.aidedd.org/dnd/sorts.php?vf=peur)
+-   [Mort simulée](https://www.aidedd.org/dnd/sorts.php?vf=mort-simulee)
+-   [Boule de feu](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu)
+-   [Flèches enflammées](https://www.aidedd.org/dnd/sorts.php?vf=fleches-enflammees)
+-   [Vol](https://www.aidedd.org/dnd/sorts.php?vf=vol)
+-   [Forme gazeuse](https://www.aidedd.org/dnd/sorts.php?vf=forme-gazeuse)
+-   [Glyphe de protection](https://www.aidedd.org/dnd/sorts.php?vf=glyphe-de-protection)
+-   [Hâte](https://www.aidedd.org/dnd/sorts.php?vf=hate)
+-   [Motif hypnotique](https://www.aidedd.org/dnd/sorts.php?vf=motif-hypnotique)
 -   Incite Greed
--   Forteresse d'intellect
--   Petite hutte de Léomund
--   Transfert de vie
--   Éclair
--   Cercle magique
--   Image majeure
--   Minuscules météores de Melf
--   Antidétection
--   Monture fantôme
--   Protection contre une énergie
+-   [Forteresse d'intellect](https://www.aidedd.org/dnd/sorts.php?vf=forteresse-d-intellect)
+-   [Petite hutte de Léomund](https://www.aidedd.org/dnd/sorts.php?vf=petite-hutte-de-leomund)
+-   [Transfert de vie](https://www.aidedd.org/dnd/sorts.php?vf=transfert-de-vie)
+-   [Éclair](https://www.aidedd.org/dnd/sorts.php?vf=eclair)
+-   [Cercle magique](https://www.aidedd.org/dnd/sorts.php?vf=cercle-magique)
+-   [Image majeure](https://www.aidedd.org/dnd/sorts.php?vf=image-majeure)
+-   [Minuscules météores de Melf](https://www.aidedd.org/dnd/sorts.php?vf=minuscules-meteores-de-melf)
+-   [Antidétection](https://www.aidedd.org/dnd/sorts.php?vf=antidetection)
+-   [Monture fantôme](https://www.aidedd.org/dnd/sorts.php?vf=monture-fantome)
+-   [Protection contre une énergie](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-une-energie)
 -   Pulse Wave
--   Délivrance des malédictions
--   Communication à distance
--   Tempête de neige
--   Lenteur
+-   [Délivrance des malédictions](https://www.aidedd.org/dnd/sorts.php?vf=delivrance-des-maledictions)
+-   [Communication à distance](https://www.aidedd.org/dnd/sorts.php?vf=communication-a-distance)
+-   [Tempête de neige](https://www.aidedd.org/dnd/sorts.php?vf=tempete-de-neige)
+-   [Lenteur](https://www.aidedd.org/dnd/sorts.php?vf=lenteur)
 -   Soap Bubble^
 -   Speak With Dead
--   Voile spirituel
--   Nuage nauséabond
--   Convocation de fée
--   Convocation de démons mineurs
--   Convocation de rejeton d'ombre
--   Convocation de mort-vivant
--   Foulée tonitruante
+-   [Voile spirituel](https://www.aidedd.org/dnd/sorts.php?vf=voile-spirituel)
+-   [Nuage nauséabond](https://www.aidedd.org/dnd/sorts.php?vf=nuage-nauseabond)
+-   [Convocation de fée](https://www.aidedd.org/dnd/sorts.php?vf=convocation-de-fee)
+-   [Convocation de démons mineurs](https://www.aidedd.org/dnd/sorts.php?vf=convocation-de-demons-mineurs)
+-   [Convocation de rejeton d'ombre](https://www.aidedd.org/dnd/sorts.php?vf=convocation-de-rejeton-d-ombre)
+-   [Convocation de mort-vivant](https://www.aidedd.org/dnd/sorts.php?vf=convocation-de-mort-vivant)
+-   [Foulée tonitruante](https://www.aidedd.org/dnd/sorts.php?vf=foulee-tonitruante)
 -   Slime Wave^
--   Serviteur miniature
--   Toucher du vampire
--   Mur de sable
+-   [Serviteur miniature](https://www.aidedd.org/dnd/sorts.php?vf=serviteur-miniature)
+-   [Toucher du vampire](https://www.aidedd.org/dnd/sorts.php?vf=toucher-du-vampire)
+-   [Mur de sable](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-sable)
 -   Wall of Goo^
--   Respiration aquatique
+-   [Respiration aquatique](https://www.aidedd.org/dnd/sorts.php?vf=respiration-aquatique)
 
-##### 4th Level
+##### Niveau 4
 
--   Oeil magique
--   Flétrissement
--   Charme-monstre
--   Confusion
--   Invocation d'élémentaires mineurs
--   Porte dimensionnelle
--   Divination
--   Elemental Fléau
--   Tentacules noirs d'Evard
--   Fabrication
--   Fire Bouclier
+-   [Oeil magique](https://www.aidedd.org/dnd/sorts.php?vf=oeil-magique)
+-   [Flétrissement](https://www.aidedd.org/dnd/sorts.php?vf=fletrissement)
+-   [Charme-monstre](https://www.aidedd.org/dnd/sorts.php?vf=charme-monstre)
+-   [Confusion](https://www.aidedd.org/dnd/sorts.php?vf=confusion)
+-   [Invocation d'élémentaires mineurs](https://www.aidedd.org/dnd/sorts.php?vf=invocation-d-elementaires-mineurs)
+-   [Porte dimensionnelle](https://www.aidedd.org/dnd/sorts.php?vf=porte-dimensionnelle)
+-   [Divination](https://www.aidedd.org/dnd/sorts.php?vf=divination)
+-   Elemental [Fléau](https://www.aidedd.org/dnd/sorts.php?vf=fleau)
+-   [Tentacules noirs d'Evard](https://www.aidedd.org/dnd/sorts.php?vf=tentacules-noirs-d-evard)
+-   [Fabrication](https://www.aidedd.org/dnd/sorts.php?vf=fabrication)
+-   Fire [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)
 -   Gravity Sinkhole
--   Greater Invisibilité
--   Terrain hallucinatoire
--   Tempête de grêle
--   Coffre secret de Léomund
--   Localisation de créature
--   Chien de garde de Mordenkainen
--   Sphère résiliente d'Otiluke
--   Assassin imaginaire
--   Métamorphose
--   Raulothim's Psychic Lance
--   Rayonnement écoeurant
--   Façonnage de la pierre
--   Peau de pierre
--   Sphère de tempête
+-   Greater [Invisibilité](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite)
+-   [Terrain hallucinatoire](https://www.aidedd.org/dnd/sorts.php?vf=terrain-hallucinatoire)
+-   [Tempête de grêle](https://www.aidedd.org/dnd/sorts.php?vf=tempete-de-grele)
+-   [Coffre secret de Léomund](https://www.aidedd.org/dnd/sorts.php?vf=coffre-secret-de-leomund)
+-   [Localisation de créature](https://www.aidedd.org/dnd/sorts.php?vf=localisation-de-creature)
+-   [Chien de garde de Mordenkainen](https://www.aidedd.org/dnd/sorts.php?vf=chien-de-garde-de-mordenkainen)
+-   [Sphère résiliente d'Otiluke](https://www.aidedd.org/dnd/sorts.php?vf=sphere-resiliente-d-otiluke)
+-   [Assassin imaginaire](https://www.aidedd.org/dnd/sorts.php?vf=assassin-imaginaire)
+-   [Métamorphose](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose)
+-   [Lance d'arçon psychique de Raulothim](https://www.aidedd.org/dnd/sorts.php?vf=lance-d-arcon-psychique-de-raulothim)
+-   [Rayonnement écoeurant](https://www.aidedd.org/dnd/sorts.php?vf=rayonnement-ecoeurant)
+-   [Façonnage de la pierre](https://www.aidedd.org/dnd/sorts.php?vf=faconnage-de-la-pierre)
+-   [Peau de pierre](https://www.aidedd.org/dnd/sorts.php?vf=peau-de-pierre)
+-   [Sphère de tempête](https://www.aidedd.org/dnd/sorts.php?vf=sphere-de-tempete)
 -   Summon Abberration
--   Convocation d'artificiel
--   Convocation d'élémentaire
--   Convocation de démon majeur
+-   [Convocation d'artificiel](https://www.aidedd.org/dnd/sorts.php?vf=convocation-d-artificiel)
+-   [Convocation d'élémentaire](https://www.aidedd.org/dnd/sorts.php?vf=convocation-d-elementaire)
+-   [Convocation de démon majeur](https://www.aidedd.org/dnd/sorts.php?vf=convocation-de-demon-majeur)
 -   Swamp Sphere^
--   Sphère de vitriol
--   Mur de feu
+-   [Sphère de vitriol](https://www.aidedd.org/dnd/sorts.php?vf=sphere-de-vitriol)
+-   [Mur de feu](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-feu)
 
-### Tinkerer Spells (Continued)
+##### Niveau 5
 
-##### 5th Level
-
--   Animation d'objets
--   Main de Bigby
--   Brume mortelle
--   Cône de froid
--   Invocation d'élémentaire
--   Contrôle des vents
--   Création
--   Danse macabre
--   Aube
--   Domination de personne
--   Songe
--   Énervation
--   Foulée dimensionnelle
--   Quête
+-   [Animation d'objets](https://www.aidedd.org/dnd/sorts.php?vf=animation-d-objets)
+-   [Main de Bigby](https://www.aidedd.org/dnd/sorts.php?vf=main-de-bigby)
+-   [Brume mortelle](https://www.aidedd.org/dnd/sorts.php?vf=brume-mortelle)
+-   [Cône de froid](https://www.aidedd.org/dnd/sorts.php?vf=cone-de-froid)
+-   [Invocation d'élémentaire](https://www.aidedd.org/dnd/sorts.php?vf=invocation-d-elementaire)
+-   [Contrôle des vents](https://www.aidedd.org/dnd/sorts.php?vf=controle-des-vents)
+-   [Création](https://www.aidedd.org/dnd/sorts.php?vf=creation)
+-   [Danse macabre](https://www.aidedd.org/dnd/sorts.php?vf=danse-macabre)
+-   [Aube](https://www.aidedd.org/dnd/sorts.php?vf=aube)
+-   [Domination de personne](https://www.aidedd.org/dnd/sorts.php?vf=domination-de-personne)
+-   [Songe](https://www.aidedd.org/dnd/sorts.php?vf=songe)
+-   [Énervation](https://www.aidedd.org/dnd/sorts.php?vf=enervation)
+-   [Foulée dimensionnelle](https://www.aidedd.org/dnd/sorts.php?vf=foulee-dimensionnelle)
+-   [Quête](https://www.aidedd.org/dnd/sorts.php?vf=quete)
 -   Great Heaven Splitter^
--   Immobilisation de monstre
--   Immolation
--   Assignation infernale
--   Mythes et légendes
--   Double illusoire
--   Modification de mémoire
--   Déluge d'énergie négative
--   Passe-muraille
--   Contrat
--   Lien télépathique de Rary
--   Scrutation
--   Apparence trompeuse
--   Amélioration de compétences
--   Frappe du vent d'acier
--   Summon Draconic Spirit
--   Perturbations synaptiques
--   Télékinésie
+-   [Immobilisation de monstre](https://www.aidedd.org/dnd/sorts.php?vf=immobilisation-de-monstre)
+-   [Immolation](https://www.aidedd.org/dnd/sorts.php?vf=immolation)
+-   [Assignation infernale](https://www.aidedd.org/dnd/sorts.php?vf=assignation-infernale)
+-   [Mythes et légendes](https://www.aidedd.org/dnd/sorts.php?vf=mythes-et-legendes)
+-   [Double illusoire](https://www.aidedd.org/dnd/sorts.php?vf=double-illusoire)
+-   [Modification de mémoire](https://www.aidedd.org/dnd/sorts.php?vf=modification-de-memoire)
+-   [Déluge d'énergie négative](https://www.aidedd.org/dnd/sorts.php?vf=deluge-d-energie-negative)
+-   [Passe-muraille](https://www.aidedd.org/dnd/sorts.php?vf=passe-muraille)
+-   [Contrat](https://www.aidedd.org/dnd/sorts.php?vf=contrat)
+-   [Lien télépathique de Rary](https://www.aidedd.org/dnd/sorts.php?vf=lien-telepathique-de-rary)
+-   [Scrutation](https://www.aidedd.org/dnd/sorts.php?vf=scrutation)
+-   [Apparence trompeuse](https://www.aidedd.org/dnd/sorts.php?vf=apparence-trompeuse)
+-   [Amélioration de compétences](https://www.aidedd.org/dnd/sorts.php?vf=amelioration-de-competences)
+-   [Frappe du vent d'acier](https://www.aidedd.org/dnd/sorts.php?vf=frappe-du-vent-d-acier)
+-   [Convocation d'esprit draconique](https://www.aidedd.org/dnd/sorts.php?vf=convocation-d-esprit-draconique)
+-   [Perturbations synaptiques](https://www.aidedd.org/dnd/sorts.php?vf=perturbations-synaptiques)
+-   [Télékinésie](https://www.aidedd.org/dnd/sorts.php?vf=telekinesie)
 -   Temporal Shunt
--   Transmutation de la pierre
--   Mur de force
--   Wall of Lumière
--   Mur de pierre
+-   [Transmutation de la pierre](https://www.aidedd.org/dnd/sorts.php?vf=transmutation-de-la-pierre)
+-   [Mur de force](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-force)
+-   Wall of [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere)
+-   [Mur de pierre](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-pierre)
 
-##### 6th Level
+##### Niveau 6
 
--   Chaîne d'éclairs
--   Cercle de mort
--   Prévoyance
--   Création d'homoncule
--   Création de mort-vivant
--   Désintégration
--   Convocations instantanées de Drawmij
--   Mauvais oeil
--   Fizban's Platinum Bouclier
--   Pétrification
--   Globe d'invulnérabilité
+-   [Chaîne d'éclairs](https://www.aidedd.org/dnd/sorts.php?vf=chaine-d-eclairs)
+-   [Cercle de mort](https://www.aidedd.org/dnd/sorts.php?vf=cercle-de-mort)
+-   [Prévoyance](https://www.aidedd.org/dnd/sorts.php?vf=prevoyance)
+-   [Création d'homoncule](https://www.aidedd.org/dnd/sorts.php?vf=creation-d-homoncule)
+-   [Création de mort-vivant](https://www.aidedd.org/dnd/sorts.php?vf=creation-de-mort-vivant)
+-   [Désintégration](https://www.aidedd.org/dnd/sorts.php?vf=desintegration)
+-   [Convocations instantanées de Drawmij](https://www.aidedd.org/dnd/sorts.php?vf=convocations-instantanees-de-drawmij)
+-   [Mauvais oeil](https://www.aidedd.org/dnd/sorts.php?vf=mauvais-oeil)
+-   Fizban's Platinum [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)
+-   [Pétrification](https://www.aidedd.org/dnd/sorts.php?vf=petrification)
+-   [Globe d'invulnérabilité](https://www.aidedd.org/dnd/sorts.php?vf=globe-d-invulnerabilite)
 -   Gravity Fissure
--   Protections et sceaux
--   Sacre des flammes
--   Sacre de la glace
--   Sacre de la pierre
--   Sacre du vent
--   Urne magique
--   Suggestion de groupe
--   Prison mentale
--   Terraformage
--   Sphère glaciale d'Otiluke
+-   [Protections et sceaux](https://www.aidedd.org/dnd/sorts.php?vf=protections-et-sceaux)
+-   [Sacre des flammes](https://www.aidedd.org/dnd/sorts.php?vf=sacre-des-flammes)
+-   [Sacre de la glace](https://www.aidedd.org/dnd/sorts.php?vf=sacre-de-la-glace)
+-   [Sacre de la pierre](https://www.aidedd.org/dnd/sorts.php?vf=sacre-de-la-pierre)
+-   [Sacre du vent](https://www.aidedd.org/dnd/sorts.php?vf=sacre-du-vent)
+-   [Urne magique](https://www.aidedd.org/dnd/sorts.php?vf=urne-magique)
+-   Mass [Suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion)
+-   [Prison mentale](https://www.aidedd.org/dnd/sorts.php?vf=prison-mentale)
+-   [Terraformage](https://www.aidedd.org/dnd/sorts.php?vf=terraformage)
+-   [Sphère glaciale d'Otiluke](https://www.aidedd.org/dnd/sorts.php?vf=sphere-glaciale-d-otiluke)
 -   Otto's Irresistable Dance
--   Illusion programmée
--   Dispersion
--   Cage des âmes
--   Convocation de fiélon
--   Rayon de soleil
--   Costume d'Outremonde de Tasha
--   Transformation de Tenser
--   Vision suprême
--   Mur de glace
+-   [Illusion programmée](https://www.aidedd.org/dnd/sorts.php?vf=illusion-programmee)
+-   [Dispersion](https://www.aidedd.org/dnd/sorts.php?vf=dispersion)
+-   [Cage des âmes](https://www.aidedd.org/dnd/sorts.php?vf=cage-des-ames)
+-   [Convocation de fiélon](https://www.aidedd.org/dnd/sorts.php?vf=convocation-de-fielon)
+-   [Rayon de soleil](https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-soleil)
+-   [Costume d'Outremonde de Tasha](https://www.aidedd.org/dnd/sorts.php?vf=costume-d-outremonde-de-tasha)
+-   [Transformation de Tenser](https://www.aidedd.org/dnd/sorts.php?vf=transformation-de-tenser)
+-   [Vision suprême](https://www.aidedd.org/dnd/sorts.php?vf=vision-supreme)
+-   [Mur de glace](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-glace)
 
-##### 7th Level
+##### Niveau 7
 
 -   Create Magen
--   Couronne d'étoiles
--   Delayed Blast Boule de feu
--   Draconic Transformation
--   Doigt de mort
--   Cage de force
--   Mirage
+-   [Couronne d'étoiles](https://www.aidedd.org/dnd/sorts.php?vf=couronne-d-etoiles)
+-   Delayed Blast [Boule de feu](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu)
+-   [Transformation draconique](https://www.aidedd.org/dnd/sorts.php?vf=transformation-draconique)
+-   [Doigt de mort](https://www.aidedd.org/dnd/sorts.php?vf=doigt-de-mort)
+-   [Cage de force](https://www.aidedd.org/dnd/sorts.php?vf=cage-de-force)
+-   [Mirage](https://www.aidedd.org/dnd/sorts.php?vf=mirage)
 -   Power Word: Pain
--   Rayons prismatiques
--   Projection d'image
--   Inversion de la gravité
--   Dissimulation
--   Simulacre
--   Symbole
+-   [Rayons prismatiques](https://www.aidedd.org/dnd/sorts.php?vf=rayons-prismatiques)
+-   [Projection d'image](https://www.aidedd.org/dnd/sorts.php?vf=projection-d-image)
+-   [Inversion de la gravité](https://www.aidedd.org/dnd/sorts.php?vf=inversion-de-la-gravite)
+-   [Dissimulation](https://www.aidedd.org/dnd/sorts.php?vf=dissimulation)
+-   [Simulacre](https://www.aidedd.org/dnd/sorts.php?vf=simulacre)
+-   [Symbole](https://www.aidedd.org/dnd/sorts.php?vf=symbole)
 -   Tether Essence
--   Tourbillon
+-   [Tourbillon](https://www.aidedd.org/dnd/sorts.php?vf=tourbillon)
 
-##### 8th Level
+##### Niveau 8
 
--   Flétrissure épouvantable d'Abi-Dalzim
--   Champ antimagie
--   Aversion/Attirance
--   Clone
--   Contrôle du climat
+-   [Flétrissure épouvantable d'Abi-Dalzim](https://www.aidedd.org/dnd/sorts.php?vf=fletrissure-epouvantable-d-abi-dalzim)
+-   [Champ antimagie](https://www.aidedd.org/dnd/sorts.php?vf=champ-antimagie)
+-   [Aversion/Attirance](https://www.aidedd.org/dnd/sorts.php?vf=aversion-attirance)
+-   [Clone](https://www.aidedd.org/dnd/sorts.php?vf=clone)
+-   [Contrôle du climat](https://www.aidedd.org/dnd/sorts.php?vf=controle-du-climat)
 -   Dark Star
 -   Domiante Monster
--   Esprit faible
--   Dragon illusoire
--   Nuage incendiaire
--   Maddening Ténèbres
--   Dédale
--   Forteresse majestueuse
--   Esprit impénétrable
+-   [Esprit faible](https://www.aidedd.org/dnd/sorts.php?vf=esprit-faible)
+-   [Dragon illusoire](https://www.aidedd.org/dnd/sorts.php?vf=dragon-illusoire)
+-   [Nuage incendiaire](https://www.aidedd.org/dnd/sorts.php?vf=nuage-incendiaire)
+-   Maddening [Ténèbres](https://www.aidedd.org/dnd/sorts.php?vf=tenebres)
+-   [Dédale](https://www.aidedd.org/dnd/sorts.php?vf=dedale)
+-   [Forteresse majestueuse](https://www.aidedd.org/dnd/sorts.php?vf=forteresse-majestueuse)
+-   [Esprit impénétrable](https://www.aidedd.org/dnd/sorts.php?vf=esprit-impenetrable)
 -   Poison Giant: Hell's Judgement^
 -   Power Word: Stun
 -   Reality Break
--   Éclat du soleil
--   Télépathie
+-   [Éclat du soleil](https://www.aidedd.org/dnd/sorts.php?vf=eclat-du-soleil)
+-   [Télépathie](https://www.aidedd.org/dnd/sorts.php?vf=telepathie)
 
-##### 9th Level
+##### Niveau 9
 
--   Lame du désastre
+-   [Lame du désastre](https://www.aidedd.org/dnd/sorts.php?vf=lame-du-desastre)
 -   Flame Emperor^
--   Prémonition
+-   [Prémonition](https://www.aidedd.org/dnd/sorts.php?vf=premonition)
 -   Ice Age^
--   Emprisonnement
--   Invulnérabilité
+-   [Emprisonnement](https://www.aidedd.org/dnd/sorts.php?vf=emprisonnement)
+-   [Invulnérabilité](https://www.aidedd.org/dnd/sorts.php?vf=invulnerabilite)
 -   Locate Devil Fruit Power^
--   Mass Métamorphose
--   Nuée de météores
+-   Mass [Métamorphose](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose)
+-   [Nuée de météores](https://www.aidedd.org/dnd/sorts.php?vf=nuee-de-meteores)
 -   Power Word: Kill
--   Mur prismatique
--   Hurlement psychique
+-   [Mur prismatique](https://www.aidedd.org/dnd/sorts.php?vf=mur-prismatique)
+-   [Hurlement psychique](https://www.aidedd.org/dnd/sorts.php?vf=hurlement-psychique)
 -   Ravenous Void
--   Changement de forme
+-   [Changement de forme](https://www.aidedd.org/dnd/sorts.php?vf=changement-de-forme)
 -   Time Ravage
--   Arrêt du temps
--   True Métamorphose
--   Ennemi subconscient
+-   [Arrêt du temps](https://www.aidedd.org/dnd/sorts.php?vf=arret-du-temps)
+-   True [Métamorphose](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose)
+-   [Ennemi subconscient](https://www.aidedd.org/dnd/sorts.php?vf=ennemi-subconscient)
 
-## Custom Spells
+## Sorts personalisé
 
 This list of spells is meant to exist within the world of One Piece, although you are free to borrow from it if you wish to bring some of these spells to other systems. Many of these spells relate to mechanics within the campaign setting and rules. Since this spell list is purely Homebrew, a Dungeon Master may decide to not allow these spells in their game. These spells may be used by classes with spell lists including these spells, or can be included in Devil Fruit sheets as usable powers.
 
@@ -1380,7 +1378,7 @@ This list of spells is meant to exist within the world of One Piece, although yo
 
 #### Slime Wave
 
-_3rd level conjuration_
+_Niveau 3 conjuration_
 
 **Casting Time:** 1 action
 
@@ -1396,7 +1394,7 @@ You conjure up a wave of slime that crashes down on an area within range. The ar
 
 #### Soap Bubble
 
-_3rd level conjuration_
+_Niveau 3 conjuration_
 
 **Casting Time:** 1 minute
 
@@ -1416,7 +1414,7 @@ You envelop up to five chosen creatures within range in bubbles formed from a sp
 
 #### Wall of Goo
 
-_3rd level evocation_
+_Niveau 3 evocation_
 
 **Casting Time:** 1 action
 
@@ -1436,7 +1434,7 @@ Any ranged weapon attack that enters the wall’s space has disadvantage on the 
 
 #### Swamp Sphere
 
-_4th level conjuration_
+_Niveau 4 conjuration_
 
 **Casting Time:** 1 action
 
@@ -1462,7 +1460,7 @@ When the spell ends, the sphere falls to the ground and extinguishes all normal 
 
 #### Great Heaven Splitter
 
-_5th level conjuration_
+_Niveau 5 conjuration_
 
 **Casting Time:** 1 action
 
@@ -1480,7 +1478,7 @@ You flourish the weapon used in the casting and then unleash a devastating slash
 
 #### Poison Giant: Hell's Judgement
 
-_8th level conjuration_
+_Niveau 8 conjuration_
 
 **Casting Time:** 1 action
 
@@ -1498,9 +1496,9 @@ During each of your turns while the spell is active, you may spend an action to 
 
 Any creature that takes poison or acid damage from this spell is poisoned until the end of its next turn.
 
-#### Slime Tsunami
+#### Slime [Tsunami](https://www.aidedd.org/dnd/sorts.php?vf=tsunami)
 
-_8th level conjuration_
+_Niveau 8 conjuration_
 
 **Casting Time:** 1 action
 
@@ -1524,7 +1522,7 @@ A creature caught in the wall can move by moving through the slime. The wall cou
 
 #### Locate Devil Fruit Power
 
-_9th level divination_
+_Niveau 9 divination_
 
 **Casting Time:** 1 hour
 
@@ -1540,11 +1538,11 @@ _9th level divination_
 
 Give a basic description of any Devil Fruit you have seen before, or a Devil Fruit name, category, or power that might reasonably exist. For example, describing a Logia Devil Fruit power which allows you to transform into flames might closest resemble a description of the Mera Mera no Mi. Using a Devil Fruit Book to list the exact name of a Devil Fruit will make this process more precise, since it should list the names and powers of every known Devil Fruit power. Once the Devil Fruit power is described or named, you sense the Devil Fruit's location. If there is no existing Devil Fruit which quite matches your description or if your requirements are too vague, the DM may randomly choose a Devil Fruit closest to your description instead.
 
-You know the exact location of the chosen Devil Fruit for the duration of the spell. You can precisely point to it on any map and know the exact routes to take to find it, unless it is located in uncharted territory, in which case you will only have a sense of the general direction it is in. If the Devil Fruit has been consumed by a creature or object, you know the exact location of that creature or object for the duration of the spell instead (as if using Localisation de créature or Localisation d'objet, without any of the distance limitations).
+You know the exact location of the chosen Devil Fruit for the duration of the spell. You can precisely point to it on any map and know the exact routes to take to find it, unless it is located in uncharted territory, in which case you will only have a sense of the general direction it is in. If the Devil Fruit has been consumed by a creature or object, you know the exact location of that creature or object for the duration of the spell instead (as if using [Localisation de créature](https://www.aidedd.org/dnd/sorts.php?vf=localisation-de-creature) or [Localisation d'objet](https://www.aidedd.org/dnd/sorts.php?vf=localisation-d-objet), without any of the distance limitations).
 
 #### Ice Age
 
-_9th level evocation_
+_Niveau 9 evocation_
 
 **Casting Time:** 1 action
 
@@ -1562,7 +1560,7 @@ Any water or liquid frozen by this spell becomes solid ice, and each 5-foot squa
 
 #### Flame Emperor
 
-_9th level evocation_
+_Niveau 9 evocation_
 
 **Casting Time:** 1 action
 
@@ -1588,7 +1586,7 @@ You can detonate this sphere as a bonus action on your turn, hitting every creat
 
 #### Island Shaking
 
-_9th level evocation_
+_Niveau 9 evocation_
 
 **Casting Time:** 1 action
 

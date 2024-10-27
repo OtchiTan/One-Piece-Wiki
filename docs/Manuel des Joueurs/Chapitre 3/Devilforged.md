@@ -2,28 +2,28 @@
 
 ## Table de combat
 
-| Niv | Bonus de Maîtrise | Caractéristiques                                                  | Capacités Naturelles (Cantrips) Connues | Pouvoirs de Diable (Sorts) Connus | Pouvoir (Sort) Slots | NiveauSlot | Émanations Connues |
-| --- | ----------------- | ----------------------------------------------------------------- | --------------------------------------- | --------------------------------- | -------------------- | ---------- | ------------------ |
-| 1   | +2                | Infusion de Fruit de Diable (Lancer de Sorts), Forgeron de Diable | 2                                       | 2                                 | 1                    | 1er        | ─                  |
-| 2   | +2                | Émanations du Diable de Mer                                       | 2                                       | 3                                 | 2                    | 1er        | 2                  |
-| 3   | +2                | Catégorie de Fruit de Diable Infusé                               | 2                                       | 4                                 | 2                    | 2e         | 2                  |
-| 4   | +2                | Amélioration de Score de Caractéristique                          | 3                                       | 5                                 | 2                    | 2e         | 2                  |
-| 5   | +3                | ─                                                                 | 3                                       | 6                                 | 2                    | 3e         | 3                  |
-| 6   | +3                | Caractéristique de Forgeron de Diable                             | 3                                       | 7                                 | 2                    | 3e         | 3                  |
-| 7   | +3                | ─                                                                 | 3                                       | 8                                 | 2                    | 4e         | 4                  |
-| 8   | +3                | Amélioration de Score de Caractéristique                          | 3                                       | 9                                 | 2                    | 4e         | 4                  |
-| 9   | +4                | ─                                                                 | 3                                       | 10                                | 2                    | 5e         | 5                  |
-| 10  | +4                | Caractéristique de Forgeron de Diable                             | 4                                       | 10                                | 2                    | 5e         | 5                  |
-| 11  | +4                | Assimilation Diabolique (6e niveau)                               | 4                                       | 11                                | 3                    | 5e         | 5                  |
-| 12  | +4                | Amélioration de Score de Caractéristique                          | 4                                       | 11                                | 3                    | 5e         | 6                  |
-| 13  | +5                | Assimilation Diabolique (7e niveau)                               | 4                                       | 12                                | 3                    | 5e         | 6                  |
-| 14  | +5                | Caractéristique de Forgeron de Diable                             | 4                                       | 12                                | 3                    | 5e         | 6                  |
-| 15  | +5                | Assimilation Diabolique (8e niveau)                               | 4                                       | 13                                | 3                    | 5e         | 7                  |
-| 16  | +5                | Amélioration de Score de Caractéristique                          | 4                                       | 13                                | 3                    | 5e         | 7                  |
-| 17  | +6                | Assimilation Diabolique (9e niveau)                               | 4                                       | 14                                | 4                    | 5e         | 7                  |
-| 18  | +6                | ─                                                                 | 4                                       | 14                                | 4                    | 5e         | 8                  |
-| 19  | +6                | Amélioration de Score de Caractéristique                          | 4                                       | 15                                | 4                    | 5e         | 8                  |
-| 20  | +6                | Récompense du Diable                                              | 4                                       | 15                                | 4                    | 5e         | 8                  |
+| Niv | Bonus de Maîtrise | Caractéristiques                                                  | Capacités Naturelles Connues | Pouvoirs de Diable (Sorts) Connus | Pouvoir (Sort) Slots | NiveauSlot | Émanations Connues |
+| --- | ----------------- | ----------------------------------------------------------------- | ---------------------------- | --------------------------------- | -------------------- | ---------- | ------------------ |
+| 1   | +2                | Infusion de Fruit de Diable (Lancer de Sorts), Forgeron de Diable | 2                            | 2                                 | 1                    | 1er        | ─                  |
+| 2   | +2                | Émanations du Diable de Mer                                       | 2                            | 3                                 | 2                    | 1er        | 2                  |
+| 3   | +2                | Catégorie de Fruit de Diable Infusé                               | 2                            | 4                                 | 2                    | 2e         | 2                  |
+| 4   | +2                | Amélioration de Score de Caractéristique                          | 3                            | 5                                 | 2                    | 2e         | 2                  |
+| 5   | +3                | ─                                                                 | 3                            | 6                                 | 2                    | 3e         | 3                  |
+| 6   | +3                | Caractéristique de Forgeron de Diable                             | 3                            | 7                                 | 2                    | 3e         | 3                  |
+| 7   | +3                | ─                                                                 | 3                            | 8                                 | 2                    | 4e         | 4                  |
+| 8   | +3                | Amélioration de Score de Caractéristique                          | 3                            | 9                                 | 2                    | 4e         | 4                  |
+| 9   | +4                | ─                                                                 | 3                            | 10                                | 2                    | 5e         | 5                  |
+| 10  | +4                | Caractéristique de Forgeron de Diable                             | 4                            | 10                                | 2                    | 5e         | 5                  |
+| 11  | +4                | Assimilation Diabolique (6e niveau)                               | 4                            | 11                                | 3                    | 5e         | 5                  |
+| 12  | +4                | Amélioration de Score de Caractéristique                          | 4                            | 11                                | 3                    | 5e         | 6                  |
+| 13  | +5                | Assimilation Diabolique (7e niveau)                               | 4                            | 12                                | 3                    | 5e         | 6                  |
+| 14  | +5                | Caractéristique de Forgeron de Diable                             | 4                            | 12                                | 3                    | 5e         | 6                  |
+| 15  | +5                | Assimilation Diabolique (8e niveau)                               | 4                            | 13                                | 3                    | 5e         | 7                  |
+| 16  | +5                | Amélioration de Score de Caractéristique                          | 4                            | 13                                | 3                    | 5e         | 7                  |
+| 17  | +6                | Assimilation Diabolique (9e niveau)                               | 4                            | 14                                | 4                    | 5e         | 7                  |
+| 18  | +6                | ─                                                                 | 4                            | 14                                | 4                    | 5e         | 8                  |
+| 19  | +6                | Amélioration de Score de Caractéristique                          | 4                            | 15                                | 4                    | 5e         | 8                  |
+| 20  | +6                | Récompense du Diable                                              | 4                            | 15                                | 4                    | 5e         | 8                  |
 
 ## Aptitudes de classe
 
@@ -60,11 +60,11 @@ Vous débutez avec l'équipement suivant, en plus de celui que vous octroie votr
 
 ### Infusion de fruits du diable (Lanceur de sorts)
 
-Vous êtes passé maître dans l'art d'infuser des objets avec les pouvoirs des Fruits du Diable grâce au « Sang vert », que vous avez acquis d'une manière ou d'une autre. Le sang vert est composé de facteurs de lignée synthétisés de fruits du démon, ce qui vous permet de reproduire les pouvoirs magiques des fruits du démon dans votre équipement. Grâce à ces objets artificiellement infusés, qui vous servent de centre de lanceur de sorts, vous pouvez utiliser une variété de pouvoirs (sorts) pour vous aider au combat ou à l'aventure. Les pouvoirs du diable sont l'équivalent des « sorts » dans la 5e édition, et les emplacements de pouvoirs du diable sont les mêmes que les « emplacements de sorts ». N'oubliez pas de consulter la section « Lancer un sort » du Manuel du joueur pour comprendre le lancer de sorts dans la 5e édition de D&D. Les pouvoirs forgés par le diable comptent comme des sorts forgés par le diable dans le chapitre 8.
+Vous êtes passé maître dans l'art d'infuser des objets avec les pouvoirs des Fruits du Diable grâce au « Sang vert », que vous avez acquis d'une manière ou d'une autre. Le sang vert est composé de facteurs de lignée synthétisés de fruits du démon, ce qui vous permet de reproduire les pouvoirs magiques des fruits du démon dans votre équipement. Grâce à ces objets artificiellement infusés, qui vous servent de centre de lanceur de sorts, vous pouvez utiliser une variété de pouvoirs (sorts) pour vous aider au combat ou à l'aventure. Les pouvoirs du diable sont l'équivalent des « sorts » dans la 5e édition, et les emplacements de pouvoirs du diable sont les mêmes que les « emplacements de sorts ». N'oubliez pas de consulter la section « Lancer un sort » du Manuel du joueur pour comprendre le lancer de sorts dans la 5e édition de D&D. Les pouvoirs forgés par le diable comptent comme des sorts forgés par le diable dans le [chapitre 8](../Chapitre%208.md).
 
 #### Capacité Naturelle
 
-Au 1er niveau, vous connaissez deux sortilèges de votre choix dans la liste des sorts forgés par le diable du chapitre 8, et vous pouvez les utiliser comme des aptitudes naturelles. Vous apprenez d'autres sortilèges de votre choix à des niveaux plus élevés, comme indiqué dans la colonne Capacités naturelles (sortilèges) connues de la table des Forgés du diable.
+Au 1er niveau, vous connaissez deux sortilèges de votre choix dans la liste des sorts forgés par le diable du [chapitre 8](../Chapitre%208.md), et vous pouvez les utiliser comme des aptitudes naturelles. Vous apprenez d'autres sortilèges de votre choix à des niveaux plus élevés, comme indiqué dans la colonne Capacités naturelles (sortilèges) connues de la table des Forgés du diable.
 
 #### Emplacements de pouvoirs du diable (sorts)
 
@@ -82,9 +82,9 @@ De plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir l'
 
 #### Pouvoir du diable (lanceur de sorts) Capacité
 
-Le Charisme est votre capacité de lanceur de sorts pour vos sorts forgés par le diable, vous utilisez donc votre Charisme chaque fois qu'un sort fait référence à votre capacité de lanceur de sorts. De plus, vous utilisez votre modificateur de Charisme pour déterminer le DC du jet de sauvegarde d'un sort forgé par le diable que vous lancez et pour effectuer un jet d'attaque avec un tel sort.
+Le Charisme est votre capacité de lanceur de sorts pour vos sorts forgés par le diable, vous utilisez donc votre Charisme chaque fois qu'un sort fait référence à votre capacité de lanceur de sorts. De plus, vous utilisez votre modificateur de Charisme pour déterminer le DD du jet de sauvegarde d'un sort forgé par le diable que vous lancez et pour effectuer un jet d'attaque avec un tel sort.
 
-**DC de sauvegarde contre les sorts** = 8 + votre bonus de compétence + votre modificateur de Charisme
+**DD de sauvegarde contre les sorts** = 8 + votre bonus de compétence + votre modificateur de Charisme
 
 **Modificateur d'attaque du sort** = votre bonus de compétence + votre modificateur de Charisme
 

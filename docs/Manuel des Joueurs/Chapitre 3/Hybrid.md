@@ -2,28 +2,28 @@
 
 ## Table de combat
 
-| Niv | Bonus de Maîtrise | Points Hybrides | Caractéristiques                                        | Capacités Naturelles (Cantrips) Connues | Pouvoirs Hybrides (Sorts) Connus | 1er | 2e  | 3e  | 4e  | 5e  | 6e  | 7e  | 8e  | 9e  |
-| --- | ----------------- | --------------- | ------------------------------------------------------- | --------------------------------------- | -------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1   | +2                | -               | Pouvoirs Hybrides (Lancer de Sorts), Ascendance Hybride | 4                                       | 2                                | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 2   | +2                | 2               | Améliorations Hybrides                                  | 4                                       | 3                                | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 3   | +2                | 3               | Amélioration de Pouvoir                                 | 4                                       | 4                                | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
-| 4   | +2                | 4               | Amélioration de Score de Caractéristique                | 5                                       | 5                                | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
-| 5   | +3                | 5               | Résilience Hybride                                      | 5                                       | 6                                | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
-| 6   | +3                | 6               | Caractéristique de l'Ascendance Hybride                 | 5                                       | 7                                | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
-| 7   | +3                | 7               | -                                                       | 5                                       | 8                                | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
-| 8   | +3                | 8               | Amélioration de Score de Caractéristique                | 9                                       | 11                               | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
-| 9   | +4                | 9               | -                                                       | 5                                       | 10                               | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
-| 10  | +4                | 10              | Amélioration de Pouvoir                                 | 6                                       | 11                               | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
-| 11  | +4                | 11              | -                                                       | 6                                       | 12                               | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 12  | +4                | 12              | Amélioration de Score de Caractéristique                | 6                                       | 12                               | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 13  | +5                | 13              | 6                                                       | 13                                      | 4                                | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |     |
-| 14  | +5                | 14              | Caractéristique de l'Ascendance Hybride                 | 6                                       | 13                               | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 15  | +5                | 15              | -                                                       | 6                                       | 14                               | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
-| 16  | +5                | 16              | Amélioration de Score de Caractéristique                | 6                                       | 14                               | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
-| 17  | +6                | 17              | Amélioration de Pouvoir                                 | 6                                       | 15                               | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18  | +6                | 18              | Caractéristique de l'Ascendance Hybride                 | 6                                       | 15                               | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19  | +6                | 19              | Amélioration de Score de Caractéristique                | 6                                       | 15                               | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20  | +6                | 20              | Restauration Hybride                                    | 6                                       | 15                               | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| Niv | Bonus de Maîtrise | Points Hybrides | Caractéristiques                                        | Capacités Naturelles Connues | Pouvoirs Hybrides (Sorts) Connus | 1er | 2e  | 3e  | 4e  | 5e  | 6e  | 7e  | 8e  | 9e  |
+| --- | ----------------- | --------------- | ------------------------------------------------------- | ---------------------------- | -------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   | +2                | -               | Pouvoirs Hybrides (Lancer de Sorts), Ascendance Hybride | 4                            | 2                                | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2   | +2                | 2               | Améliorations Hybrides                                  | 4                            | 3                                | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3   | +2                | 3               | Amélioration de Pouvoir                                 | 4                            | 4                                | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 4   | +2                | 4               | Amélioration de Score de Caractéristique                | 5                            | 5                                | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5   | +3                | 5               | Résilience Hybride                                      | 5                            | 6                                | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 6   | +3                | 6               | Caractéristique de l'Ascendance Hybride                 | 5                            | 7                                | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
+| 7   | +3                | 7               | -                                                       | 5                            | 8                                | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
+| 8   | +3                | 8               | Amélioration de Score de Caractéristique                | 9                            | 11                               | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9   | +4                | 9               | -                                                       | 5                            | 10                               | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10  | +4                | 10              | Amélioration de Pouvoir                                 | 6                            | 11                               | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11  | +4                | 11              | -                                                       | 6                            | 12                               | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12  | +4                | 12              | Amélioration de Score de Caractéristique                | 6                            | 12                               | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13  | +5                | 13              | 6                                                       | 13                           | 4                                | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |     |
+| 14  | +5                | 14              | Caractéristique de l'Ascendance Hybride                 | 6                            | 13                               | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15  | +5                | 15              | -                                                       | 6                            | 14                               | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16  | +5                | 16              | Amélioration de Score de Caractéristique                | 6                            | 14                               | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 17  | +6                | 17              | Amélioration de Pouvoir                                 | 6                            | 15                               | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18  | +6                | 18              | Caractéristique de l'Ascendance Hybride                 | 6                            | 15                               | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19  | +6                | 19              | Amélioration de Score de Caractéristique                | 6                            | 15                               | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20  | +6                | 20              | Restauration Hybride                                    | 6                            | 15                               | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ## Aptitudes de classe
 
@@ -60,11 +60,11 @@ Vous débutez avec l'équipement suivant, en plus de celui que vous octroie votr
 
 ### Pouvoirs hybrides (lanceurs de sorts)
 
-À un moment donné de votre arbre généalogique, des croisements ont eu lieu entre d'anciennes races et la vôtre, ou bien une équipe de scientifiques chevronnés vous a modifié en laboratoire dès votre naissance, en intégrant divers facteurs de lignée dans votre sang. Ces qualités génétiques rares vous confèrent une source d'énergie inconnue, vous permettant d'utiliser divers pouvoirs hybrides (sorts) pour façonner cette énergie à votre guise. Les pouvoirs hybrides sont l'équivalent des « sorts » dans la 5e édition, et les emplacements de pouvoirs hybrides sont les mêmes que les « emplacements de sorts ». N'oubliez pas de consulter la section « Lancer un sort » du Manuel du joueur pour comprendre le lancer de sorts dans la 5e édition de D&D. Les pouvoirs hybrides comptent comme des sorts hybrides dans le chapitre 8.
+À un moment donné de votre arbre généalogique, des croisements ont eu lieu entre d'anciennes races et la vôtre, ou bien une équipe de scientifiques chevronnés vous a modifié en laboratoire dès votre naissance, en intégrant divers facteurs de lignée dans votre sang. Ces qualités génétiques rares vous confèrent une source d'énergie inconnue, vous permettant d'utiliser divers pouvoirs hybrides (sorts) pour façonner cette énergie à votre guise. Les pouvoirs hybrides sont l'équivalent des « sorts » dans la 5e édition, et les emplacements de pouvoirs hybrides sont les mêmes que les « emplacements de sorts ». N'oubliez pas de consulter la section « Lancer un sort » du Manuel du joueur pour comprendre le lancer de sorts dans la 5e édition de D&D. Les pouvoirs hybrides comptent comme des sorts hybrides dans le [chapitre 8](../Chapitre%208.md).
 
-#### Capacités naturelles (Cantrips)
+#### Capacités naturelles
 
-Au 1er niveau, vous connaissez quatre cantrips de votre choix dans la liste des sorts hybrides du chapitre 8, et vous pouvez les utiliser comme capacités naturelles. Vous apprenez des cantrips hybrides supplémentaires de votre choix à des niveaux plus élevés, comme indiqué dans la colonne Capacités naturelles (Cantrips) connues de la table des hybrides.
+Au 1er niveau, vous connaissez quatre capacités naturelle de votre choix dans la liste des sorts hybrides du [chapitre 8](../Chapitre%208.md), et vous pouvez les utiliser comme capacités naturelles. Vous apprenez des capacités naturelle hybrides supplémentaires de votre choix à des niveaux plus élevés, comme indiqué dans la colonne Capacités naturelles connues de la table des hybrides.
 
 #### Emplacements de pouvoirs hybrides (sorts)
 
@@ -82,9 +82,9 @@ De plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir l'
 
 #### Capacité de pouvoir hybride (lanceur de sorts)
 
-Le Charisme est votre capacité hybride (lanceur de sorts) pour vos pouvoirs hybrides, puisque la puissance de votre pouvoir repose sur votre capacité à projeter votre force intérieure dans le monde. Vous utilisez votre Charisme chaque fois qu'un sort fait référence à votre capacité de lanceur de sorts. De plus, vous utilisez votre modificateur de Charisme pour déterminer le DC d'un jet de sauvegarde pour un pouvoir hybride (sort) que vous lancez et pour effectuer un jet d'attaque avec un pouvoir hybride.
+Le Charisme est votre capacité hybride (lanceur de sorts) pour vos pouvoirs hybrides, puisque la puissance de votre pouvoir repose sur votre capacité à projeter votre force intérieure dans le monde. Vous utilisez votre Charisme chaque fois qu'un sort fait référence à votre capacité de lanceur de sorts. De plus, vous utilisez votre modificateur de Charisme pour déterminer le DD d'un jet de sauvegarde pour un pouvoir hybride (sort) que vous lancez et pour effectuer un jet d'attaque avec un pouvoir hybride.
 
-**DC de sauvegarde hybride** = 8 + votre bonus de compétence + votre modificateur de Charisme
+**DD de sauvegarde hybride** = 8 + votre bonus de compétence + votre modificateur de Charisme
 
 **modificateur d'attaque hybride** = votre bonus de compétence + votre modificateur de charisme
 

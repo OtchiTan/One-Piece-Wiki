@@ -95,7 +95,7 @@ Lorsque vous vous engagez dans un combat à deux armes avec au moins un pistolet
 
 ### Tactiques spéciales (lanceurs de sorts)
 
-Lorsque vous atteignez le 2e niveau, vous avez appris à utiliser des tactiques et des capacités spéciales pour mieux traiter vos cibles. Les tactiques spéciales sont l'équivalent des « sorts » dans la 5e édition, et les emplacements de tactiques sont les mêmes que les « emplacements de sorts ». Assurez-vous de consulter la section « Lancer un sort » dans le Manuel du Joueur pour comprendre le lancer de sorts dans la 5e édition de D&D. Les tactiques de Marksman comptent comme des sorts de Marksman dans le chapitre 8.
+Lorsque vous atteignez le 2e niveau, vous avez appris à utiliser des tactiques et des capacités spéciales pour mieux traiter vos cibles. Les tactiques spéciales sont l'équivalent des « sorts » dans la 5e édition, et les emplacements de tactiques sont les mêmes que les « emplacements de sorts ». Assurez-vous de consulter la section « Lancer un sort » dans le Manuel du Joueur pour comprendre le lancer de sorts dans la 5e édition de D&D. Les tactiques de Marksman comptent comme des sorts de Marksman dans le [chapitre 8](../Chapitre%208.md).
 
 ### Nombre d'emplacements tactiques (emplacements de sorts)
 
@@ -113,9 +113,9 @@ De plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir l'
 
 #### Capacité tactique spéciale (capacité de lanceur de sorts)
 
-La sagesse est votre capacité tactique spéciale pour vos tactiques de tireur d'élite, puisque vos compétences proviennent de votre accord avec votre environnement. Vous utilisez votre Sagesse chaque fois qu'une tactique (sort) fait référence à votre capacité spéciale de tactique (lanceur de sorts). De plus, vous utilisez votre modificateur de Sagesse pour déterminer le DC d'un jet de sauvegarde pour une tactique de tireur d'élite que vous utilisez et pour effectuer un jet d'attaque avec une tactique de tireur d'élite.
+La sagesse est votre capacité tactique spéciale pour vos tactiques de tireur d'élite, puisque vos compétences proviennent de votre accord avec votre environnement. Vous utilisez votre Sagesse chaque fois qu'une tactique (sort) fait référence à votre capacité spéciale de tactique (lanceur de sorts). De plus, vous utilisez votre modificateur de Sagesse pour déterminer le DD d'un jet de sauvegarde pour une tactique de tireur d'élite que vous utilisez et pour effectuer un jet d'attaque avec une tactique de tireur d'élite.
 
-**DC de sauvegarde tactique** = 8 + votre bonus de compétence + votre modificateur de sagesse
+**DD de sauvegarde tactique** = 8 + votre bonus de compétence + votre modificateur de sagesse
 
 **Modificateur d'attaque tactique** = votre bonus de compétence + votre modificateur de sagesse.
 
