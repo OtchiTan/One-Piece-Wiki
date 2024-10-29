@@ -2,28 +2,28 @@
 
 ## Table de combat
 
-| Niv | Bonus de Maîtrise | Caractéristiques                                                     |
-| --- | ----------------- | -------------------------------------------------------------------- |
-| 1   | +2                | Style de Combat, Second Souffle                                      |
-| 2   | +2                | Surge d'Action (une utilisation)                                     |
-| 3   | +2                | Type de Guerrier                                                     |
-| 4   | +2                | Amélioration de Caractéristiques                                     |
-| 5   | +3                | Attaque Supplémentaire                                               |
-| 6   | +3                | Amélioration de Caractéristiques                                     |
-| 7   | +3                | Caractéristique de Type de Guerrier                                  |
-| 8   | +3                | Amélioration de Caractéristiques                                     |
-| 9   | +4                | Indomptable (une utilisation)                                        |
-| 10  | +4                | Caractéristique de Type de Guerrier                                  |
-| 11  | +4                | Attaque Supplémentaire (2)                                           |
-| 12  | +4                | Amélioration de Caractéristiques                                     |
-| 13  | +5                | Indomptable (deux utilisations)                                      |
-| 14  | +5                | Amélioration de Caractéristiques                                     |
-| 15  | +5                | Caractéristique de Type de Guerrier                                  |
-| 16  | +5                | Amélioration de Caractéristiques                                     |
-| 17  | +6                | Surge d'Action (deux utilisations), Indomptable (trois utilisations) |
-| 18  | +6                | Caractéristique de Type de Guerrier                                  |
-| 19  | +6                | Amélioration de Caractéristiques                                     |
-| 20  | +6                | Attaque Supplémentaire (3)                                           |
+| Niv | Bonus de Maîtrise | Caractéristiques                             |
+| --- | ----------------- | -------------------------------------------- |
+| 1   | +2                | Style de Combat, Second Souffle              |
+| 2   | +2                | Fougue (1)                                   |
+| 3   | +2                | Type de Guerrier                             |
+| 4   | +2                | Amélioration de Caractéristiques             |
+| 5   | +3                | Attaque Supplémentaire                       |
+| 6   | +3                | Amélioration de Caractéristiques             |
+| 7   | +3                | Caractéristique de Type de Guerrier          |
+| 8   | +3                | Amélioration de Caractéristiques             |
+| 9   | +4                | Indomptable (une utilisation)                |
+| 10  | +4                | Caractéristique de Type de Guerrier          |
+| 11  | +4                | Attaque Supplémentaire (2)                   |
+| 12  | +4                | Amélioration de Caractéristiques             |
+| 13  | +5                | Indomptable (deux utilisations)              |
+| 14  | +5                | Amélioration de Caractéristiques             |
+| 15  | +5                | Caractéristique de Type de Guerrier          |
+| 16  | +5                | Amélioration de Caractéristiques             |
+| 17  | +6                | Fougue (2), Indomptable (trois utilisations) |
+| 18  | +6                | Caractéristique de Type de Guerrier          |
+| 19  | +6                | Amélioration de Caractéristiques             |
+| 20  | +6                | Attaque Supplémentaire (3)                   |
 
 ## Aptitudes de classe
 
@@ -60,11 +60,11 @@ Vous débutez avec l'équipement suivant, en plus de celui que vous octroie votr
 
 ### Style de combat
 
-A partir du 1er niveau, vous adoptez un style de combat particulier comme spécialité. Choisissez l'une des options suivantes. Vous ne pouvez pas choisir un style de combat plus d'une fois, même si vous avez la possibilité de le choisir à nouveau par la suite.
+Vous adoptez un style particulier de combat qui sera votre spécialité. Choisissez l'une des options suivantes. Vous ne pouvez pas prendre une option de style de combat plus d'une fois, même si vous obtenez plus tard la possibilité de choisir un nouveau style.
 
 #### Viser
 
-Vous gagnez un bonus de +2 aux jets d'attaque que vous faites avec des armes à distance.
+Vous obtenez un bonus de +2 aux jets d'attaque avec une arme à distance.
 
 #### Tireur au corps à corps
 
@@ -72,12 +72,11 @@ Lorsque vous effectuez une attaque à distance alors que vous êtes à moins de 
 
 #### Défense
 
-Lorsque vous portez une armure, vous bénéficiez d'un bonus de +1 à la CA.
+Si vous portez une armure, vous obtenez un bonus de +1 à la CA.
 
 #### Duel
 
-Lorsque vous maniez une arme de mêlée à une main et aucune autre arme, vous gagnez un bonus de +2 aux jets de dégâts avec cette arme.
-
+Lorsque vous attaquez avec une arme de corps à corps dans une main et aucune autre arme, vous obtenez un bonus de +2 aux dégâts avec cette arme.
 #### Combat à l'arme blanche
 
 Lorsque vous obtenez un 1 ou un 2 sur un dé de dégâts pour une attaque que vous effectuez avec une arme de mêlée que vous maniez à deux mains, vous pouvez relancer le dé et devez utiliser le nouveau résultat, même si le nouveau résultat est un 1 ou un 2.
@@ -92,7 +91,7 @@ Tant que vous ne portez pas d'armure lourde ou que vous n'utilisez pas de boucli
 
 #### Protection
 
-Lorsqu'une créature que vous pouvez voir attaque une cible autre que vous qui se trouve à moins de 5 pieds de vous, vous pouvez utiliser votre Réaction pour imposer un désavantage au jet d'attaque. Vous devez brandir un bouclier.
+Quand une créature que vous pouvez voir attaque une cible autre que vous-même et qui se trouve à 1,50 mètre ou moins de vous, vous pouvez utiliser votre réaction pour imposer un désavantage à son jet d'attaque. Vous devez pour cela porter un bouclier.
 
 #### Combat à l'arme de jet
 
@@ -102,14 +101,12 @@ De plus, lorsque vous touchez avec une attaque à distance utilisant une arme la
 
 #### Combat à deux armes
 
-Lorsque vous vous engagez dans un combat à deux armes, vous pouvez ajouter votre modificateur de capacité aux dégâts de la seconde attaque.
+Lorsque vous vous engagez dans un combat avec deux armes en mains, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la seconde attaque.
 
 ### Second souffle
 
-Toujours au 1er niveau, vous disposez d'une réserve limitée d'endurance dans laquelle vous pouvez puiser pour vous protéger. À votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points de vie égal à 1d10 + votre niveau de combattant. Une fois que vous avez utilisé cette caractéristique, vous devez terminer un repos court ou long avant de pouvoir l'utiliser à nouveau.
+Vous possédez une réserve d'endurance limitée dans laquelle vous pouvez puiser pour vous protéger contre les dégâts. À votre tour vous pouvez utiliser une action bonus pour regagner un nombre de pv égal à 1d10 + votre niveau de guerrier. Une fois cette capacité utilisée, vous devez terminer un repos court ou long pour pouvoir l'utiliser de nouveau.
 
-### Sursaut d'action
+### Fougue
 
-À partir du 2e niveau, vous pouvez dépasser vos limites normales pendant un moment. À votre tour, vous pouvez entreprendre une action supplémentaire.
-
-Une fois que vous avez utilisé cette caractéristique, vous devez prendre un repos court ou long avant de pouvoir l'utiliser à nouveau. À partir du 17e niveau, vous pouvez l'utiliser deux fois avant un repos, mais seulement une fois au cours du même tour.
+À partir du niveau 2, à votre tour, vous pouvez réaliser une action supplémentaire en plus de votre action normale et de votre éventuelle action bonus. Une fois cette capacité utilisée, vous devez terminer un repos court ou long pour pouvoir l'utiliser de nouveau. À partir du niveau 17, vous pouvez utiliser cette capacité deux fois entre deux repos, mais une seule fois par tour.

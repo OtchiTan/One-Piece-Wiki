@@ -5,7 +5,7 @@
 | Niv | Bonus de Maîtrise | Attaque Sournoise | Caractéristiques                             |
 | --- | ----------------- | ----------------- | -------------------------------------------- |
 | 1   | +2                | 1d6               | Expertise, Attaque Sournoise, Cant de Voleur |
-| 2   | +2                | 1d6               | Action Rusée                                 |
+| 2   | +2                | 1d6               | Ruse                                         |
 | 3   | +2                | 2d6               | Archétype de Voleur, Visée Précise           |
 | 4   | +2                | 2d6               | Amélioration de Score de Caractéristique     |
 | 5   | +3                | 3d6               | Esquive Inattendue                           |
@@ -60,24 +60,24 @@ Vous débutez avec l'équipement suivant, en plus de celui que vous octroie votr
 
 ### Expertise
 
-Au 1er niveau, choisissez deux de vos compétences, ou l'une de vos compétences et votre maîtrise des outils de voleur. Votre bonus de compétence est doublé pour tout test d'aptitude que vous effectuez et qui utilise l'une ou l'autre des compétences choisies.
+Au niveau 1, choisissez deux des compétences que vous maîtrisez, ou l'une d'elles et votre maîtrise des outils de voleur. Votre bonus de maîtrise est doublé pour tout jet de caractéristique que vous réalisez et qui utilise l'une des compétences choisies.
 
-Au 6ème niveau, vous pouvez choisir deux autres de vos compétences (dans les compétences ou avec les outils de voleur) pour bénéficier de cet avantage.
+Au niveau 6, vous pouvez choisir deux maîtrises supplémentaires (compétences ou outils de voleur) et obtenir le même avantage.
 
 ### Attaque sournoise
 
-À partir du 1er niveau, vous savez comment frapper subtilement et exploiter la distraction d'un ennemi. Une fois par tour, vous pouvez infliger 1d6 points de dégâts supplémentaires à une créature que vous touchez avec une attaque si vous avez l'avantage sur le jet d'attaque. L'attaque doit utiliser une arme de finesse ou une arme à distance.
+À partir du niveau 1, vous savez comment trouver et exploiter subtilement la distraction d'un ennemi. Une fois par tour, vous pouvez infliger 1d6 points de dégâts supplémentaires à une créature que vous réussissez à toucher si vous avez un avantage au jet d'attaque. L'attaque doit utiliser une arme de finesse ou une arme à distance. 
 
-Vous n'avez pas besoin d'avantage sur le jet d'attaque si un autre ennemi de la cible se trouve à moins de 5 pieds de celle-ci, que cet ennemi n'est pas incapacité et que vous n'avez pas de désavantage sur le jet d'attaque.
+Vous n'avez pas besoin d'avoir un avantage au jet d'attaque si un autre ennemi de la cible est à 1,50 mètre ou moins de celle-ci, que cet ennemi n'est pas incapable d'agir, et que vous n'avez pas un désavantage au jet d'attaque. 
 
-Le montant des dégâts supplémentaires augmente au fur et à mesure que vous gagnez des niveaux dans cette classe, comme indiqué dans la colonne Sneak Attack de la table Rogue.
+Le nombre de dégâts supplémentaires augmente à mesure que vous gagnez des niveaux dans cette classe, comme indiqué dans la colonne Attaque sournoise de la [table de combat](#table-de-combat).
 
-### Le langage des voleurs
+### Jargon des voleurs
 
-Pendant votre formation de voyou, vous avez appris le chant des voleurs, un mélange secret de dialecte, de jargon et de code qui vous permet de dissimuler des messages dans une conversation apparemment normale. Seule une créature connaissant le jargon des voleurs comprend ces messages. Il faut quatre fois plus de temps pour transmettre un tel message que pour exprimer clairement la même idée.
+Au cours de votre formation de voleur, vous avez appris le jargon des voleurs, un mélange secret de dialecte, de jargon et de codes, qui vous permet de cacher des messages dans une conversation apparemment normale. Seule une autre créature qui connaît le jargon des voleurs comprend ces messages. Il faut quatre fois plus de temps pour transmettre un tel message qu'il ne le faudrait pour transmettre la même idée clairement.
 
-De plus, vous comprenez un ensemble de signes et de symboles secrets utilisés pour transmettre des messages courts et simples, comme par exemple si une zone est dangereuse ou si elle est le territoire d'une guilde de voleurs, si un butin se trouve à proximité, ou si les habitants d'une zone sont des cibles faciles ou s'ils constituent un refuge pour les voleurs en cavale.
+En outre, vous comprenez un ensemble de signes et de symboles secrets utilisés pour transmettre des messages courts et simples, comme pour indiquer qu'une zone est dangereuse ou qu'elle fait partie du territoire d'une guilde des voleurs, qu'un butin est à proximité, ou que les gens d'une région sont des proies faciles ou qu'ils fourniront une maison sûre pour des voleurs en fuite.
 
-### Action rusée
+### Ruse
 
-À partir du 2e niveau, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez effectuer une action bonus à chacun de vos tours de combat. Cette action ne peut être utilisée que pour effectuer les actions Dash, Disengage ou Hide.
+À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez effectuer une action bonus à chacun de vos tours en combat. Cette action ne peut être utilisée que pour Se désengager, Se cacher ou Foncer.

@@ -10,3 +10,9 @@ theme:
         - navigation.footer
 extra_css:
     - stylesheets/extra.css
+plugins:
+    - search
+    - autorefs:
+          resolve_closest: true
+markdown_extensions:
+    - attr_list

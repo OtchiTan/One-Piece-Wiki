@@ -53,9 +53,9 @@ Vous recevez les aptitudes de classe suivante en tant que chimiste
 
 Vous débutez avec l'équipement suivant, en plus de celui que vous octroie votre historique :
 
--   _(a)_ un bouclier ou _(b)_ une arme simple
--   _(a)_ un cimeterre ou _(b)_ une simple arme de mêlée
--   Une chemise épaisse, un pack d'explorateur et des fournitures d'alchimiste.
+- _(a)_ un bouclier ou _(b)_ une arme simple
+- _(a)_ un cimeterre ou _(b)_ une simple arme de mêlée
+- Une chemise épaisse, un pack d'explorateur et des fournitures d'alchimiste.
 
 ### Symboles Alchimiques
 
@@ -63,15 +63,15 @@ Vous comprenez comment lire les symboles alchimiques écrits dans des plans anci
 
 ### Pouvoir d'Invention
 
-En puisant dans l'essence divine de la composition chimique et de l'alchimie, vous pouvez utiliser divers pouvoirs d'invention pour façonner cette essence à votre guise. Les pouvoirs d'invention sont l'équivalent des « sorts » dans la 5e édition, et les emplacements de pouvoirs d'invention sont les mêmes que les « emplacements de sorts ». Assurez vous de consulter la section « Lancer un sort » dans le Manuel du Joueur pour comprendre le lancer de sorts dans la 5e édition de D&D. Les pouvoirs de création des chimistes comptent comme des sorts de chimiste dans le [chapitre 8](../Chapitre%208.md).
+En puisant dans l'essence divine de la composition chimique et de l'alchimie, vous pouvez utiliser divers pouvoirs d'invention pour façonner cette essence à votre guise. Les pouvoirs d'invention sont l'équivalent des « sorts » dans la 5e édition, et les emplacements de pouvoirs d'invention sont les mêmes que les « emplacements de sorts ». Assurez vous de consulter la section « Lancer un sort » dans le Manuel du Joueur pour comprendre le lancer de sorts dans la 5e édition de D&D. Les pouvoirs de création des chimistes comptent comme des sorts de chimiste dans le [chapitre 8](../Chapitre%208.md#sorts-de-chimiste).
 
 #### Capacité Naturelle
 
-Au 1er niveau, vous connaissez deux capacités naturelles de votre choix dans la liste des sorts de chimiste du [chapitre 8](../Chapitre%208.md). Vous apprenez d'autres capacités naturelle de chimiste de votre choix à des niveaux plus élevés, comme indiqué dans la colonne des capacités naturelles connues de la table de chimiste.
+Au 1er niveau, vous connaissez deux capacités naturelles de votre choix dans la liste des sorts de chimiste du [chapitre 8](../Chapitre%208.md#sorts-de-chimiste). Vous apprenez d'autres capacités naturelle de chimiste de votre choix à des niveaux plus élevés, comme indiqué dans la colonne des capacités naturelles connues de la table de chimiste.
 
 #### Préparer et lancer des pouvoirs d'invention (sorts)
 
-La table des chimistes indique le nombre d'emplacements de sorts dont vous disposez pour lancer vos pouvoirs d'invention (sorts) de chimiste du 1er niveau et plus. Pour lancer un de ces sorts de chimiste, vous devez dépenser un emplacement du niveau du sort ou d'un niveau supérieur. Vous regagnez tous les emplacements de sorts dépensés lorsque vous terminez un long repos.
+La [table de combat](#table-de-combat) indique le nombre d'emplacements de sorts dont vous disposez pour lancer vos pouvoirs d'invention (sorts) de chimiste du 1er niveau et plus. Pour lancer un de ces sorts de chimiste, vous devez dépenser un emplacement du niveau du sort ou d'un niveau supérieur. Vous regagnez tous les emplacements de sorts dépensés lorsque vous terminez un long repos.
 
 Vous préparez la liste des pouvoirs d'invention de chimiste (sorts) que vous pouvez lancer, en choisissant dans la liste des sorts de chimiste. Ce faisant, vous choisissez un nombre de sorts de chimiste égal à votre modificateur de sagesse + votre niveau de chimiste (minimum d'un sort) à ajouter à vos pouvoirs d'invention de chimiste. Les sorts doivent être d'un niveau pour lequel vous avez des emplacements de pouvoir d'invention.
 
@@ -88,7 +88,7 @@ La sagesse est votre capacité de lanceur de sorts pour vos pouvoirs d'invention
 
 #### Lancer un rituel
 
-Vous pouvez lancer un pouvoir d'invention (sort) chimest comme un rituel si ce pouvoir d'invention (sort) a la balise rituel et que vous avez préparé le pouvoir d'invention.
+Vous pouvez lancer un pouvoir d'invention (sort) chimiste comme un rituel si ce pouvoir d'invention (sort) a la balise rituel et que vous avez préparé le pouvoir d'invention.
 
 #### Invention (Spellcasting) Focus
 
@@ -96,26 +96,26 @@ Vous pouvez utiliser les fournitures d'un alchimiste comme focus d'incantation p
 
 ### Mutation de monstre
 
-À partir du 2e niveau, en utilisant une concoction chimique pour modifier votre facteur de lignée, vous pouvez utiliser votre action pour vous transformer en une forme d'abomination. Vous pouvez utiliser cette caractéristique deux fois. Vous regagnez les utilisations dépensées à la fin d'un repos court ou long.
+À partir du 2e niveau, en utilisant une concoction chimique pour modifier votre facteur de lignée, vous pouvez utiliser votre action pour vous transformer en une forme d'abomination. Vous pouvez utiliser cette mutation deux fois. Vous regagnez les utilisations dépensées à la fin d'un repos court ou long.
 
 Votre niveau de chimiste détermine l'abomination en laquelle vous pouvez vous transformer, comme indiqué dans la table des abominations. Les blocs de stat pour les abominations de chimiste sont disponibles à la fin des caractéristiques de classe.
 
 | Niveau de Chimiste | Type d'Abomination                             |
 | ------------------ | ---------------------------------------------- |
-| 2e                 | Abomination de Dent                            |
-| 4e                 | Abomination de Griffe, Abomination de Nageoire |
-| 8e                 | Abomination d'Aile, Abomination de Bête        |
+| 2                  | Abomination de Croc                            |
+| 4                  | Abomination de Griffe, Abomination de Nageoire |
+| 8                  | Abomination d'Aile, Abomination de Bête        |
 
 Vous pouvez rester sous votre forme d'abomination pendant un nombre d'heures égal à la moitié de votre niveau de chimiste (arrondi à l'inférieur). Vous reprenez ensuite votre forme normale à moins de dépenser une autre utilisation de cette caractéristique. Vous pouvez reprendre votre forme normale plus tôt en utilisant une action bonus à votre tour. Vous reprenez automatiquement votre forme normale si vous tombez inconscient, si vous tombez à 0 point de vie ou si vous mourez.
 
 Pendant que vous êtes transformé, les règles suivantes s'appliquent :
 
--   Vos statistiques de jeu sont remplacées par les statistiques de l'abomination, mais vous conservez votre alignement, votre personnalité et vos scores d'Intelligence, de Sagesse et de Charisme. Vous conservez également toutes vos compétences et vos jets de sauvegarde, en plus de ceux de la créature. Si la créature a la même compétence que vous et que le bonus de son bloc de stat est supérieur au vôtre, utilisez le bonus de la créature au lieu du vôtre. Si la créature possède des actions légendaires ou de repaire, vous ne pouvez pas les utiliser.
--   Lorsque vous vous transformez, vous prenez les points de vie et les dés de touche de l'abomination. Lorsque vous reprenez votre forme normale, vous retrouvez le nombre de points de vie que vous aviez avant votre transformation. Par exemple, si vous subissez 10 points de dégâts sous forme animale et qu'il ne vous reste qu'un point de vie, vous reprenez votre forme normale et subissez 9 points de dégâts. Tant que les dégâts excédentaires ne réduisent pas votre forme normale à 0 point de vie, vous ne perdez pas connaissance.
--   Vous ne pouvez pas lancer de pouvoirs spéciaux (sorts), et votre capacité à parler ou à entreprendre toute action nécessitant des mains est limitée aux capacités de votre forme d'abomination. La transformation n'interrompt pas votre concentration sur un pouvoir spécial (sort) que vous avez déjà lancé, cependant, ou vous empêche de prendre des mesures qui font partie d'un pouvoir spécial (sort), tel que Call Lightning, que vous avez déjà lancé.
--   Si vous avez des pouvoirs de Fruit du Diable, vous ne pouvez pas les utiliser sous cette forme, car votre facteur de lignée est temporairement perturbé.
--   Vous conservez le bénéfice de toutes les caractéristiques de votre classe, race ou autre source et pouvez les utiliser si la nouvelle forme est physiquement capable de le faire. Cependant, vous ne pouvez utiliser aucun de vos sens spéciaux, comme la vision dans le noir, à moins que votre nouvelle forme ne dispose également de ce sens.
--   Vous choisissez si votre équipement tombe au sol dans votre espace, s'il se fond dans votre nouvelle forme ou s'il est porté par elle. L'équipement porté fonctionne normalement, mais le MD décide s'il est pratique pour la nouvelle forme de porter une pièce d'équipement, en fonction de la forme et de la taille de la créature. Votre équipement ne change pas de taille ou de forme pour s'adapter à la nouvelle forme, et tout équipement que la nouvelle forme ne peut pas porter doit soit tomber au sol, soit fusionner avec elle. L'équipement qui fusionne avec la forme n'a aucun effet jusqu'à ce que vous quittiez la forme.
+- Vos statistiques de jeu sont remplacées par les statistiques de l'abomination, mais vous conservez votre alignement, votre personnalité et vos scores d'Intelligence, de Sagesse et de Charisme. Vous conservez également toutes vos compétences et vos jets de sauvegarde, en plus de ceux de la créature. Si la créature a la même compétence que vous et que le bonus de son bloc de stat est supérieur au vôtre, utilisez le bonus de la créature au lieu du vôtre. Si la créature possède des actions légendaires ou de repaire, vous ne pouvez pas les utiliser.
+- Lorsque vous vous transformez, vous prenez les points de vie et les dés de touche de l'abomination. Lorsque vous reprenez votre forme normale, vous retrouvez le nombre de points de vie que vous aviez avant votre transformation. Par exemple, si vous subissez 10 points de dégâts sous forme animale et qu'il ne vous reste qu'un point de vie, vous reprenez votre forme normale et subissez 9 points de dégâts. Tant que les dégâts excédentaires ne réduisent pas votre forme normale à 0 point de vie, vous ne perdez pas connaissance.
+- Vous ne pouvez pas lancer de pouvoirs spéciaux (sorts), et votre capacité à parler ou à entreprendre toute action nécessitant des mains est limitée aux capacités de votre forme d'abomination. La transformation n'interrompt pas votre concentration sur un pouvoir spécial (sort) que vous avez déjà lancé, cependant, ou vous empêche de prendre des mesures qui font partie d'un pouvoir spécial (sort), tel que Call Lightning, que vous avez déjà lancé.
+- Si vous avez des pouvoirs de Fruit du Diable, vous ne pouvez pas les utiliser sous cette forme, car votre facteur de lignée est temporairement perturbé.
+- Vous conservez le bénéfice de toutes les caractéristiques de votre classe, race ou autre source et pouvez les utiliser si la nouvelle forme est physiquement capable de le faire. Cependant, vous ne pouvez utiliser aucun de vos sens spéciaux, comme la vision dans le noir, à moins que votre nouvelle forme ne dispose également de ce sens.
+- Vous choisissez si votre équipement tombe au sol dans votre espace, s'il se fond dans votre nouvelle forme ou s'il est porté par elle. L'équipement porté fonctionne normalement, mais le MD décide s'il est pratique pour la nouvelle forme de porter une pièce d'équipement, en fonction de la forme et de la taille de la créature. Votre équipement ne change pas de taille ou de forme pour s'adapter à la nouvelle forme, et tout équipement que la nouvelle forme ne peut pas porter doit soit tomber au sol, soit fusionner avec elle. L'équipement qui fusionne avec la forme n'a aucun effet jusqu'à ce que vous quittiez la forme.
 
 ### Étude de chimiste
 
