@@ -8,7 +8,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 
 ### Sorts de chimiste
 
-##### Capacités Naturelle
+##### Capacités naturelle
 
 -   [Contrôle des flammes](https://www.aidedd.org/dnd/sorts.php?vf=controle-des-flammes)
 -   [Embrasement](https://www.aidedd.org/dnd/sorts.php?vf=embrasement)
@@ -31,7 +31,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 ##### Niveau 1
 
 -   [Absorption des éléments](https://www.aidedd.org/dnd/sorts.php?vf=absorption-des-elements)
--   Animal [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)hip
+-   [Amitié avec les animaux](https://www.aidedd.org/dnd/sorts.php?vf=amitie-avec-les-animaux)
 -   [Lien avec une bête](https://www.aidedd.org/dnd/sorts.php?vf=lien-avec-une-bete)
 -   [Charme-personne](https://www.aidedd.org/dnd/sorts.php?vf=charme-personne)
 -   [Création ou destruction d'eau](https://www.aidedd.org/dnd/sorts.php?vf=creation-ou-destruction-d-eau)
@@ -43,7 +43,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Lueurs féeriques](https://www.aidedd.org/dnd/sorts.php?vf=lueurs-feeriques)
 -   [Nappe de brouillard](https://www.aidedd.org/dnd/sorts.php?vf=nappe-de-brouillard)
 -   [Baies nourricières](https://www.aidedd.org/dnd/sorts.php?vf=baies-nourricieres)
--   [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)ing Word
+-   [Mot de guérison](https://www.aidedd.org/dnd/sorts.php?vf=mot-de-guerison)
 -   [Couteau de glace](https://www.aidedd.org/dnd/sorts.php?vf=couteau-de-glace)
 -   [Saut](https://www.aidedd.org/dnd/sorts.php?vf=saut)
 -   [Grande foulée](https://www.aidedd.org/dnd/sorts.php?vf=grande-foulee)
@@ -119,8 +119,8 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Contrôle de l'eau](https://www.aidedd.org/dnd/sorts.php?vf=controle-de-l-eau)
 -   [Divination](https://www.aidedd.org/dnd/sorts.php?vf=divination)
 -   [Domination de bête](https://www.aidedd.org/dnd/sorts.php?vf=domination-de-bete)
--   Elemental [Fléau](https://www.aidedd.org/dnd/sorts.php?vf=fleau)
--   Fire [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)
+-   [Fléau élémentaire](https://www.aidedd.org/dnd/sorts.php?vf=fleau-elementaire)
+-   [Bouclier de feu](https://www.aidedd.org/dnd/sorts.php?vf=bouclier-de-feu)
 -   [Liberté de mouvement](https://www.aidedd.org/dnd/sorts.php?vf=liberte-de-mouvement)
 -   [Insecte géant](https://www.aidedd.org/dnd/sorts.php?vf=insecte-geant)
 -   [Liane avide](https://www.aidedd.org/dnd/sorts.php?vf=liane-avide)
@@ -144,7 +144,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Quête](https://www.aidedd.org/dnd/sorts.php?vf=quete)
 -   [Restauration supérieure](https://www.aidedd.org/dnd/sorts.php?vf=restauration-superieure)
 -   [Fléau d'insectes](https://www.aidedd.org/dnd/sorts.php?vf=fleau-d-insectes)
--   Mass [Soins](https://www.aidedd.org/dnd/sorts.php?vf=soins)
+-   [Soins de groupe](https://www.aidedd.org/dnd/sorts.php?vf=soins-de-groupe)
 -   [Contrat](https://www.aidedd.org/dnd/sorts.php?vf=contrat)
 -   [Scrutation](https://www.aidedd.org/dnd/sorts.php?vf=scrutation)
 -   [Convocation d'esprit draconique](https://www.aidedd.org/dnd/sorts.php?vf=convocation-d-esprit-draconique)
@@ -189,7 +189,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Esprit faible](https://www.aidedd.org/dnd/sorts.php?vf=esprit-faible)
 -   [Nuage incendiaire](https://www.aidedd.org/dnd/sorts.php?vf=nuage-incendiaire)
 -   Poison Giant: Hell's Judgement^
--   Slime [Tsunami](https://www.aidedd.org/dnd/sorts.php?vf=tsunami)^
+-   Slime Tsunami^
 -   [Éclat du soleil](https://www.aidedd.org/dnd/sorts.php?vf=eclat-du-soleil)
 
 ##### Niveau 9
@@ -199,7 +199,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   Locate Devil Fruit Power^
 -   [Changement de forme](https://www.aidedd.org/dnd/sorts.php?vf=changement-de-forme)
 -   [Tempête vengeresse](https://www.aidedd.org/dnd/sorts.php?vf=tempete-vengeresse)
--   True [Résurrection](https://www.aidedd.org/dnd/sorts.php?vf=resurrection)
+-   [Résurrection suprême](https://www.aidedd.org/dnd/sorts.php?vf=resurrection-supreme)
 
 ### Sorts d'infuseur
 
@@ -289,7 +289,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Flétrissement](https://www.aidedd.org/dnd/sorts.php?vf=fletrissement)
 -   [Charme-monstre](https://www.aidedd.org/dnd/sorts.php?vf=charme-monstre)
 -   [Porte dimensionnelle](https://www.aidedd.org/dnd/sorts.php?vf=porte-dimensionnelle)
--   Elemental [Fléau](https://www.aidedd.org/dnd/sorts.php?vf=fleau)
+-   [Fléau élémentaire](https://www.aidedd.org/dnd/sorts.php?vf=fleau-elementaire)
 -   Galder's Speedy Courier
 -   [Terrain hallucinatoire](https://www.aidedd.org/dnd/sorts.php?vf=terrain-hallucinatoire)
 -   [Lance d'arçon psychique de Raulothim](https://www.aidedd.org/dnd/sorts.php?vf=lance-d-arcon-psychique-de-raulothim)
@@ -312,7 +312,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Contrat](https://www.aidedd.org/dnd/sorts.php?vf=contrat)
 -   [Scrutation](https://www.aidedd.org/dnd/sorts.php?vf=scrutation)
 -   [Perturbations synaptiques](https://www.aidedd.org/dnd/sorts.php?vf=perturbations-synaptiques)
--   Wall of [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere)
+-   [Mur de lumière](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-lumiere)
 
 ##### Niveau 6
 
@@ -325,7 +325,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Sacre de la glace](https://www.aidedd.org/dnd/sorts.php?vf=sacre-de-la-glace)
 -   [Sacre de la pierre](https://www.aidedd.org/dnd/sorts.php?vf=sacre-de-la-pierre)
 -   [Sacre du vent](https://www.aidedd.org/dnd/sorts.php?vf=sacre-du-vent)
--   Mass [Suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion)
+-   [Suggestion de groupe](https://www.aidedd.org/dnd/sorts.php?vf=suggestion-de-groupe)
 -   [Prison mentale](https://www.aidedd.org/dnd/sorts.php?vf=prison-mentale)
 -   [Dispersion](https://www.aidedd.org/dnd/sorts.php?vf=dispersion)
 -   [Cage des âmes](https://www.aidedd.org/dnd/sorts.php?vf=cage-des-ames)
@@ -345,7 +345,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Domination de monstre](https://www.aidedd.org/dnd/sorts.php?vf=domination-de-monstre)
 -   [Esprit faible](https://www.aidedd.org/dnd/sorts.php?vf=esprit-faible)
 -   [Bagou](https://www.aidedd.org/dnd/sorts.php?vf=bagou)
--   Maddening [Ténèbres](https://www.aidedd.org/dnd/sorts.php?vf=tenebres)
+-   [Ténèbres oppressantes](https://www.aidedd.org/dnd/sorts.php?vf=tenebres-oppressantes)
 -   Power Word: Stun
 
 ##### Niveau 9
@@ -357,7 +357,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   Power Word: Kill
 -   [Hurlement psychique](https://www.aidedd.org/dnd/sorts.php?vf=hurlement-psychique)
 -   [Changement de forme](https://www.aidedd.org/dnd/sorts.php?vf=changement-de-forme)
--   True [Métamorphose](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose)
+-   [Métamorphose suprême](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose-supreme)
 -   [Ennemi subconscient](https://www.aidedd.org/dnd/sorts.php?vf=ennemi-subconscient)
 
 ### Sorts d'hybride
@@ -370,7 +370,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Contact glacial](https://www.aidedd.org/dnd/sorts.php?vf=contact-glacial)
 -   [Contrôle des flammes](https://www.aidedd.org/dnd/sorts.php?vf=controle-des-flammes)
 -   [Embrasement](https://www.aidedd.org/dnd/sorts.php?vf=embrasement)
--   Dancing [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere)s
+-   [Lumières dansantes](https://www.aidedd.org/dnd/sorts.php?vf=lumieres-dansantes)
 -   [Trait de feu](https://www.aidedd.org/dnd/sorts.php?vf=trait-de-feu)
 -   [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)
 -   [Gelure](https://www.aidedd.org/dnd/sorts.php?vf=gelure)
@@ -457,7 +457,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Pyrotechnie](https://www.aidedd.org/dnd/sorts.php?vf=pyrotechnie)
 -   [Entraves de givre](https://www.aidedd.org/dnd/sorts.php?vf=entraves-de-givre)
 -   [Rayon ardent](https://www.aidedd.org/dnd/sorts.php?vf=rayon-ardent)
--   See [Invisibilité](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite)
+-   [Voir l'invisible](https://www.aidedd.org/dnd/sorts.php?vf=voir-l-invisible)
 -   [Lame d'ombres](https://www.aidedd.org/dnd/sorts.php?vf=lame-d-ombres)
 -   [Fracassement](https://www.aidedd.org/dnd/sorts.php?vf=fracassement)
 -   Snilloc's Snowball Storm
@@ -509,8 +509,8 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Charme-monstre](https://www.aidedd.org/dnd/sorts.php?vf=charme-monstre)
 -   [Confusion](https://www.aidedd.org/dnd/sorts.php?vf=confusion)
 -   [Domination de bête](https://www.aidedd.org/dnd/sorts.php?vf=domination-de-bete)
--   Fire [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)
--   Greater [Invisibilité](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite)
+-   [Bouclier de feu](https://www.aidedd.org/dnd/sorts.php?vf=bouclier-de-feu)
+-   [Invisibilité supérieure](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite-superieure)
 -   [Tempête de grêle](https://www.aidedd.org/dnd/sorts.php?vf=tempete-de-grele)
 -   [Métamorphose](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose)
 -   [Lance d'arçon psychique de Raulothim](https://www.aidedd.org/dnd/sorts.php?vf=lance-d-arcon-psychique-de-raulothim)
@@ -540,7 +540,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Convocation d'esprit draconique](https://www.aidedd.org/dnd/sorts.php?vf=convocation-d-esprit-draconique)
 -   [Perturbations synaptiques](https://www.aidedd.org/dnd/sorts.php?vf=perturbations-synaptiques)
 -   [Télékinésie](https://www.aidedd.org/dnd/sorts.php?vf=telekinesie)
--   Wall of [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere)
+-   [Mur de lumière](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-lumiere)
 -   [Mur de pierre](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-pierre)
 
 ##### Niveau 6
@@ -549,14 +549,14 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Cercle de mort](https://www.aidedd.org/dnd/sorts.php?vf=cercle-de-mort)
 -   [Désintégration](https://www.aidedd.org/dnd/sorts.php?vf=desintegration)
 -   [Mauvais oeil](https://www.aidedd.org/dnd/sorts.php?vf=mauvais-oeil)
--   Fizban's Platinum [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)
+-   [Bouclier de platine de Fizban](https://www.aidedd.org/dnd/sorts.php?vf=bouclier-de-platine-de-fizban)
 -   [Pétrification](https://www.aidedd.org/dnd/sorts.php?vf=petrification)
 -   [Globe d'invulnérabilité](https://www.aidedd.org/dnd/sorts.php?vf=globe-d-invulnerabilite)
 -   [Sacre des flammes](https://www.aidedd.org/dnd/sorts.php?vf=sacre-des-flammes)
 -   [Sacre de la glace](https://www.aidedd.org/dnd/sorts.php?vf=sacre-de-la-glace)
 -   [Sacre de la pierre](https://www.aidedd.org/dnd/sorts.php?vf=sacre-de-la-pierre)
 -   [Sacre du vent](https://www.aidedd.org/dnd/sorts.php?vf=sacre-du-vent)
--   Mass [Suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion)
+-   [Suggestion de groupe](https://www.aidedd.org/dnd/sorts.php?vf=suggestion-de-groupe)
 -   [Prison mentale](https://www.aidedd.org/dnd/sorts.php?vf=prison-mentale)
 -   [Terraformage](https://www.aidedd.org/dnd/sorts.php?vf=terraformage)
 -   [Sphère glaciale d'Otiluke](https://www.aidedd.org/dnd/sorts.php?vf=sphere-glaciale-d-otiluke)
@@ -568,9 +568,9 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 ##### Niveau 7
 
 -   [Couronne d'étoiles](https://www.aidedd.org/dnd/sorts.php?vf=couronne-d-etoiles)
--   Delayed Blast [Boule de feu](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu)
+-   [Boule de feu à retardement](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu-a-retardement)
 -   [Transformation draconique](https://www.aidedd.org/dnd/sorts.php?vf=transformation-draconique)
--   [Songe](https://www.aidedd.org/dnd/sorts.php?vf=songe) of the Blue Veil
+-   [Songe du voile bleu](https://www.aidedd.org/dnd/sorts.php?vf=songe-du-voile-bleu)
 -   [Forme éthérée](https://www.aidedd.org/dnd/sorts.php?vf=forme-etheree)
 -   [Doigt de mort](https://www.aidedd.org/dnd/sorts.php?vf=doigt-de-mort)
 -   [Tempête de feu](https://www.aidedd.org/dnd/sorts.php?vf=tempete-de-feu)
@@ -592,7 +592,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Lame du désastre](https://www.aidedd.org/dnd/sorts.php?vf=lame-du-desastre)
 -   Flame Emperor^
 -   Island Shaking^
--   Mass [Métamorphose](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose)
+-   [Métamorphose de groupe](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose-de-groupe)
 -   [Nuée de météores](https://www.aidedd.org/dnd/sorts.php?vf=nuee-de-meteores)
 -   Power Word: Kill
 -   [Hurlement psychique](https://www.aidedd.org/dnd/sorts.php?vf=hurlement-psychique)
@@ -604,7 +604,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 
 -   [Absorption des éléments](https://www.aidedd.org/dnd/sorts.php?vf=absorption-des-elements)
 -   [Alarme](https://www.aidedd.org/dnd/sorts.php?vf=alarme)
--   Animal [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)hip
+-   [Amitié avec les animaux](https://www.aidedd.org/dnd/sorts.php?vf=amitie-avec-les-animaux)
 -   [Lien avec une bête](https://www.aidedd.org/dnd/sorts.php?vf=lien-avec-une-bete)
 -   [Soins](https://www.aidedd.org/dnd/sorts.php?vf=soins)
 -   [Détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie)
@@ -674,7 +674,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 
 ##### Niveau 5
 
--   [Communion](https://www.aidedd.org/dnd/sorts.php?vf=communion) With Nature
+-   Commune With Nature
 -   [Invocation de volée](https://www.aidedd.org/dnd/sorts.php?vf=invocation-de-volee)
 -   Great Heaven Splitter^
 -   [Restauration supérieure](https://www.aidedd.org/dnd/sorts.php?vf=restauration-superieure)
@@ -707,12 +707,12 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie)
 -   [Détection du poison et des maladies](https://www.aidedd.org/dnd/sorts.php?vf=detection-du-poison-et-des-maladies)
 -   [Éclair traçant](https://www.aidedd.org/dnd/sorts.php?vf=eclair-tracant)
--   [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)ing Word
+-   [Mot de guérison](https://www.aidedd.org/dnd/sorts.php?vf=mot-de-guerison)
 -   [Blessure](https://www.aidedd.org/dnd/sorts.php?vf=blessure)
 -   [Protection contre le mal et le bien](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-le-mal-et-le-bien)
 -   [Purification de nourriture et d'eau](https://www.aidedd.org/dnd/sorts.php?vf=purification-de-nourriture-et-d-eau)
 -   [Sanctuaire](https://www.aidedd.org/dnd/sorts.php?vf=sanctuaire)
--   [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier) of Faith
+-   [Bouclier de la foi](https://www.aidedd.org/dnd/sorts.php?vf=bouclier-de-la-foi)
 
 ##### Niveau 2
 
@@ -728,7 +728,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Immobilisation de personne](https://www.aidedd.org/dnd/sorts.php?vf=immobilisation-de-personne)
 -   [Restauration partielle](https://www.aidedd.org/dnd/sorts.php?vf=restauration-partielle)
 -   [Localisation d'objet](https://www.aidedd.org/dnd/sorts.php?vf=localisation-d-objet)
--   Prayer of [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)ing
+-   [Prière de guérison](https://www.aidedd.org/dnd/sorts.php?vf=priere-de-guerison)
 -   [Protection contre le poison](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-le-poison)
 -   [Silence](https://www.aidedd.org/dnd/sorts.php?vf=silence)
 -   [Arme spirituelle](https://www.aidedd.org/dnd/sorts.php?vf=arme-spirituelle)
@@ -745,13 +745,13 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Création de nourriture et d'eau](https://www.aidedd.org/dnd/sorts.php?vf=creation-de-nourriture-et-d-eau)
 -   [Lumière du jour](https://www.aidedd.org/dnd/sorts.php?vf=lumiere-du-jour)
 -   [Dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)
--   Fast [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)
+-   Fast Friends
 -   [Mort simulée](https://www.aidedd.org/dnd/sorts.php?vf=mort-simulee)
 -   [Glyphe de protection](https://www.aidedd.org/dnd/sorts.php?vf=glyphe-de-protection)
 -   Incite Greed
 -   [Transfert de vie](https://www.aidedd.org/dnd/sorts.php?vf=transfert-de-vie)
 -   [Cercle magique](https://www.aidedd.org/dnd/sorts.php?vf=cercle-magique)
--   Mass [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)ing Word
+-   [Mot de guérison de groupe](https://www.aidedd.org/dnd/sorts.php?vf=mot-de-guerison-de-groupe)
 -   Meld Into Stone
 -   Motivational Speech
 -   [Protection contre une énergie](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-une-energie)
@@ -787,7 +787,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Arme sacrée](https://www.aidedd.org/dnd/sorts.php?vf=arme-sacree)
 -   [Fléau d'insectes](https://www.aidedd.org/dnd/sorts.php?vf=fleau-d-insectes)
 -   [Mythes et légendes](https://www.aidedd.org/dnd/sorts.php?vf=mythes-et-legendes)
--   Mass [Soins](https://www.aidedd.org/dnd/sorts.php?vf=soins)
+-   [Soins de groupe](https://www.aidedd.org/dnd/sorts.php?vf=soins-de-groupe)
 -   [Contrat](https://www.aidedd.org/dnd/sorts.php?vf=contrat)
 -   [Rappel à la vie](https://www.aidedd.org/dnd/sorts.php?vf=rappel-a-la-vie)
 -   [Scrutation](https://www.aidedd.org/dnd/sorts.php?vf=scrutation)
@@ -830,16 +830,16 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   Flame Emperor^
 -   Island Shaking^
 -   Locate Devil Fruit Power^
--   Mass [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)
--   Power Word: [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)
--   True [Résurrection](https://www.aidedd.org/dnd/sorts.php?vf=resurrection)
+-   [Guérison de groupe](https://www.aidedd.org/dnd/sorts.php?vf=guerison-de-groupe)
+-   Power Word: Heal
+-   [Résurrection suprême](https://www.aidedd.org/dnd/sorts.php?vf=resurrection-supreme)
 
-### Sorts de musicien
+### Sorts de musiciens
 
 ##### Capacités naturelle
 
 -   [Protection contre les armes](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-les-armes)
--   Dancing [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere)s
+-   [Lumières dansantes](https://www.aidedd.org/dnd/sorts.php?vf=lumieres-dansantes)
 -   [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)
 -   [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere)
 -   [Réparation](https://www.aidedd.org/dnd/sorts.php?vf=reparation)
@@ -852,7 +852,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 
 ##### Niveau 1
 
--   Animal [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)hip
+-   [Amitié avec les animaux](https://www.aidedd.org/dnd/sorts.php?vf=amitie-avec-les-animaux)
 -   [Fléau](https://www.aidedd.org/dnd/sorts.php?vf=fleau)
 -   [Charme-personne](https://www.aidedd.org/dnd/sorts.php?vf=charme-personne)
 -   [Couleurs dansantes](https://www.aidedd.org/dnd/sorts.php?vf=couleurs-dansantes)
@@ -865,7 +865,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Secousse sismique](https://www.aidedd.org/dnd/sorts.php?vf=secousse-sismique)
 -   [Lueurs féeriques](https://www.aidedd.org/dnd/sorts.php?vf=lueurs-feeriques)
 -   [Feuille morte](https://www.aidedd.org/dnd/sorts.php?vf=feuille-morte)
--   [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)ing Word
+-   [Mot de guérison](https://www.aidedd.org/dnd/sorts.php?vf=mot-de-guerison)
 -   [Héroïsme](https://www.aidedd.org/dnd/sorts.php?vf=heroisme)
 -   [Identification](https://www.aidedd.org/dnd/sorts.php?vf=identification)
 -   [Texte illusoire](https://www.aidedd.org/dnd/sorts.php?vf=texte-illusoire)
@@ -916,7 +916,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Clairvoyance](https://www.aidedd.org/dnd/sorts.php?vf=clairvoyance)
 -   [Dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)
 -   [Ennemis à foison](https://www.aidedd.org/dnd/sorts.php?vf=ennemis-a-foison)
--   Fast [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)
+-   Fast Friends
 -   [Peur](https://www.aidedd.org/dnd/sorts.php?vf=peur)
 -   [Mort simulée](https://www.aidedd.org/dnd/sorts.php?vf=mort-simulee)
 -   [Glyphe de protection](https://www.aidedd.org/dnd/sorts.php?vf=glyphe-de-protection)
@@ -924,7 +924,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Forteresse d'intellect](https://www.aidedd.org/dnd/sorts.php?vf=forteresse-d-intellect)
 -   [Petite hutte de Léomund](https://www.aidedd.org/dnd/sorts.php?vf=petite-hutte-de-leomund)
 -   [Image majeure](https://www.aidedd.org/dnd/sorts.php?vf=image-majeure)
--   Mass [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)ing Word
+-   [Mot de guérison de groupe](https://www.aidedd.org/dnd/sorts.php?vf=mot-de-guerison-de-groupe)
 -   Motivational Speech
 -   [Antidétection](https://www.aidedd.org/dnd/sorts.php?vf=antidetection)
 -   [Croissance végétale](https://www.aidedd.org/dnd/sorts.php?vf=croissance-vegetale)
@@ -940,7 +940,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Compulsion](https://www.aidedd.org/dnd/sorts.php?vf=compulsion)
 -   [Confusion](https://www.aidedd.org/dnd/sorts.php?vf=confusion)
 -   [Liberté de mouvement](https://www.aidedd.org/dnd/sorts.php?vf=liberte-de-mouvement)
--   Greater [Invisibilité](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite)
+-   [Invisibilité supérieure](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite-superieure)
 -   [Terrain hallucinatoire](https://www.aidedd.org/dnd/sorts.php?vf=terrain-hallucinatoire)
 -   [Localisation de créature](https://www.aidedd.org/dnd/sorts.php?vf=localisation-de-creature)
 -   [Assassin imaginaire](https://www.aidedd.org/dnd/sorts.php?vf=assassin-imaginaire)
@@ -955,7 +955,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   Great Heaven Splitter^
 -   [Immobilisation de monstre](https://www.aidedd.org/dnd/sorts.php?vf=immobilisation-de-monstre)
 -   [Mythes et légendes](https://www.aidedd.org/dnd/sorts.php?vf=mythes-et-legendes)
--   Mass [Soins](https://www.aidedd.org/dnd/sorts.php?vf=soins)
+-   [Soins de groupe](https://www.aidedd.org/dnd/sorts.php?vf=soins-de-groupe)
 -   [Double illusoire](https://www.aidedd.org/dnd/sorts.php?vf=double-illusoire)
 -   [Modification de mémoire](https://www.aidedd.org/dnd/sorts.php?vf=modification-de-memoire)
 -   [Contrat](https://www.aidedd.org/dnd/sorts.php?vf=contrat)
@@ -969,7 +969,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Mauvais oeil](https://www.aidedd.org/dnd/sorts.php?vf=mauvais-oeil)
 -   [Sens de l'orientation](https://www.aidedd.org/dnd/sorts.php?vf=sens-de-l-orientation)
 -   [Festin des héros](https://www.aidedd.org/dnd/sorts.php?vf=festin-des-heros)
--   Mass [Suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion)
+-   [Suggestion de groupe](https://www.aidedd.org/dnd/sorts.php?vf=suggestion-de-groupe)
 -   Otto's Irresistable Dance
 -   [Illusion programmée](https://www.aidedd.org/dnd/sorts.php?vf=illusion-programmee)
 -   [Vision suprême](https://www.aidedd.org/dnd/sorts.php?vf=vision-supreme)
@@ -997,11 +997,11 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 ##### Niveau 9
 
 -   [Prémonition](https://www.aidedd.org/dnd/sorts.php?vf=premonition)
--   Power Word: [Guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)
+-   Power Word: Heal
 -   Power Word: Kill
 -   [Hurlement psychique](https://www.aidedd.org/dnd/sorts.php?vf=hurlement-psychique)
 
-### Sorts de bricoleurs
+### Créations de bricoleurs
 
 ##### Capacités naturelle
 
@@ -1011,7 +1011,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Contact glacial](https://www.aidedd.org/dnd/sorts.php?vf=contact-glacial)
 -   [Contrôle des flammes](https://www.aidedd.org/dnd/sorts.php?vf=controle-des-flammes)
 -   [Embrasement](https://www.aidedd.org/dnd/sorts.php?vf=embrasement)
--   Dancing [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere)s
+-   [Lumières dansantes](https://www.aidedd.org/dnd/sorts.php?vf=lumieres-dansantes)
 -   Encode Thoughts
 -   [Trait de feu](https://www.aidedd.org/dnd/sorts.php?vf=trait-de-feu)
 -   [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)
@@ -1129,7 +1129,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Entraves de givre](https://www.aidedd.org/dnd/sorts.php?vf=entraves-de-givre)
 -   [Corde enchantée](https://www.aidedd.org/dnd/sorts.php?vf=corde-enchantee)
 -   [Rayon ardent](https://www.aidedd.org/dnd/sorts.php?vf=rayon-ardent)
--   See [Invisibilité](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite)
+-   [Voir l'invisible](https://www.aidedd.org/dnd/sorts.php?vf=voir-l-invisible)
 -   [Lame d'ombres](https://www.aidedd.org/dnd/sorts.php?vf=lame-d-ombres)
 -   [Fracassement](https://www.aidedd.org/dnd/sorts.php?vf=fracassement)
 -   [Libellé aérien](https://www.aidedd.org/dnd/sorts.php?vf=libelle-aerien)
@@ -1155,7 +1155,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)
 -   [Ennemis à foison](https://www.aidedd.org/dnd/sorts.php?vf=ennemis-a-foison)
 -   [Éruption de terre](https://www.aidedd.org/dnd/sorts.php?vf=eruption-de-terre)
--   Fast [Amis](https://www.aidedd.org/dnd/sorts.php?vf=amis)
+-   Fast Friends
 -   [Peur](https://www.aidedd.org/dnd/sorts.php?vf=peur)
 -   [Mort simulée](https://www.aidedd.org/dnd/sorts.php?vf=mort-simulee)
 -   [Boule de feu](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu)
@@ -1206,12 +1206,12 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Invocation d'élémentaires mineurs](https://www.aidedd.org/dnd/sorts.php?vf=invocation-d-elementaires-mineurs)
 -   [Porte dimensionnelle](https://www.aidedd.org/dnd/sorts.php?vf=porte-dimensionnelle)
 -   [Divination](https://www.aidedd.org/dnd/sorts.php?vf=divination)
--   Elemental [Fléau](https://www.aidedd.org/dnd/sorts.php?vf=fleau)
+-   [Fléau élémentaire](https://www.aidedd.org/dnd/sorts.php?vf=fleau-elementaire)
 -   [Tentacules noirs d'Evard](https://www.aidedd.org/dnd/sorts.php?vf=tentacules-noirs-d-evard)
 -   [Fabrication](https://www.aidedd.org/dnd/sorts.php?vf=fabrication)
--   Fire [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)
+-   [Bouclier de feu](https://www.aidedd.org/dnd/sorts.php?vf=bouclier-de-feu)
 -   Gravity Sinkhole
--   Greater [Invisibilité](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite)
+-   [Invisibilité supérieure](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite-superieure)
 -   [Terrain hallucinatoire](https://www.aidedd.org/dnd/sorts.php?vf=terrain-hallucinatoire)
 -   [Tempête de grêle](https://www.aidedd.org/dnd/sorts.php?vf=tempete-de-grele)
 -   [Coffre secret de Léomund](https://www.aidedd.org/dnd/sorts.php?vf=coffre-secret-de-leomund)
@@ -1270,7 +1270,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   Temporal Shunt
 -   [Transmutation de la pierre](https://www.aidedd.org/dnd/sorts.php?vf=transmutation-de-la-pierre)
 -   [Mur de force](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-force)
--   Wall of [Lumière](https://www.aidedd.org/dnd/sorts.php?vf=lumiere)
+-   [Mur de lumière](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-lumiere)
 -   [Mur de pierre](https://www.aidedd.org/dnd/sorts.php?vf=mur-de-pierre)
 
 ##### Niveau 6
@@ -1283,7 +1283,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Désintégration](https://www.aidedd.org/dnd/sorts.php?vf=desintegration)
 -   [Convocations instantanées de Drawmij](https://www.aidedd.org/dnd/sorts.php?vf=convocations-instantanees-de-drawmij)
 -   [Mauvais oeil](https://www.aidedd.org/dnd/sorts.php?vf=mauvais-oeil)
--   Fizban's Platinum [Bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier)
+-   [Bouclier de platine de Fizban](https://www.aidedd.org/dnd/sorts.php?vf=bouclier-de-platine-de-fizban)
 -   [Pétrification](https://www.aidedd.org/dnd/sorts.php?vf=petrification)
 -   [Globe d'invulnérabilité](https://www.aidedd.org/dnd/sorts.php?vf=globe-d-invulnerabilite)
 -   Gravity Fissure
@@ -1293,7 +1293,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Sacre de la pierre](https://www.aidedd.org/dnd/sorts.php?vf=sacre-de-la-pierre)
 -   [Sacre du vent](https://www.aidedd.org/dnd/sorts.php?vf=sacre-du-vent)
 -   [Urne magique](https://www.aidedd.org/dnd/sorts.php?vf=urne-magique)
--   Mass [Suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion)
+-   [Suggestion de groupe](https://www.aidedd.org/dnd/sorts.php?vf=suggestion-de-groupe)
 -   [Prison mentale](https://www.aidedd.org/dnd/sorts.php?vf=prison-mentale)
 -   [Terraformage](https://www.aidedd.org/dnd/sorts.php?vf=terraformage)
 -   [Sphère glaciale d'Otiluke](https://www.aidedd.org/dnd/sorts.php?vf=sphere-glaciale-d-otiluke)
@@ -1312,7 +1312,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 
 -   Create Magen
 -   [Couronne d'étoiles](https://www.aidedd.org/dnd/sorts.php?vf=couronne-d-etoiles)
--   Delayed Blast [Boule de feu](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu)
+-   [Boule de feu à retardement](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu-a-retardement)
 -   [Transformation draconique](https://www.aidedd.org/dnd/sorts.php?vf=transformation-draconique)
 -   [Doigt de mort](https://www.aidedd.org/dnd/sorts.php?vf=doigt-de-mort)
 -   [Cage de force](https://www.aidedd.org/dnd/sorts.php?vf=cage-de-force)
@@ -1339,7 +1339,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Esprit faible](https://www.aidedd.org/dnd/sorts.php?vf=esprit-faible)
 -   [Dragon illusoire](https://www.aidedd.org/dnd/sorts.php?vf=dragon-illusoire)
 -   [Nuage incendiaire](https://www.aidedd.org/dnd/sorts.php?vf=nuage-incendiaire)
--   Maddening [Ténèbres](https://www.aidedd.org/dnd/sorts.php?vf=tenebres)
+-   [Ténèbres oppressantes](https://www.aidedd.org/dnd/sorts.php?vf=tenebres-oppressantes)
 -   [Dédale](https://www.aidedd.org/dnd/sorts.php?vf=dedale)
 -   [Forteresse majestueuse](https://www.aidedd.org/dnd/sorts.php?vf=forteresse-majestueuse)
 -   [Esprit impénétrable](https://www.aidedd.org/dnd/sorts.php?vf=esprit-impenetrable)
@@ -1358,7 +1358,7 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Emprisonnement](https://www.aidedd.org/dnd/sorts.php?vf=emprisonnement)
 -   [Invulnérabilité](https://www.aidedd.org/dnd/sorts.php?vf=invulnerabilite)
 -   Locate Devil Fruit Power^
--   Mass [Métamorphose](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose)
+-   [Métamorphose de groupe](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose-de-groupe)
 -   [Nuée de météores](https://www.aidedd.org/dnd/sorts.php?vf=nuee-de-meteores)
 -   Power Word: Kill
 -   [Mur prismatique](https://www.aidedd.org/dnd/sorts.php?vf=mur-prismatique)
@@ -1367,10 +1367,10 @@ Il est important de prendre quelques libertés artistiques pour justifier l'util
 -   [Changement de forme](https://www.aidedd.org/dnd/sorts.php?vf=changement-de-forme)
 -   Time Ravage
 -   [Arrêt du temps](https://www.aidedd.org/dnd/sorts.php?vf=arret-du-temps)
--   True [Métamorphose](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose)
+-   [Métamorphose suprême](https://www.aidedd.org/dnd/sorts.php?vf=metamorphose-supreme)
 -   [Ennemi subconscient](https://www.aidedd.org/dnd/sorts.php?vf=ennemi-subconscient)
 
-## Sorts personalisé
+## Custom Spells
 
 This list of spells is meant to exist within the world of One Piece, although you are free to borrow from it if you wish to bring some of these spells to other systems. Many of these spells relate to mechanics within the campaign setting and rules. Since this spell list is purely Homebrew, a Dungeon Master may decide to not allow these spells in their game. These spells may be used by classes with spell lists including these spells, or can be included in Devil Fruit sheets as usable powers.
 
@@ -1378,7 +1378,7 @@ This list of spells is meant to exist within the world of One Piece, although yo
 
 #### Slime Wave
 
-_Niveau 3 conjuration_
+Nniveau 3 conjuration\_
 
 **Casting Time:** 1 action
 
@@ -1394,7 +1394,7 @@ You conjure up a wave of slime that crashes down on an area within range. The ar
 
 #### Soap Bubble
 
-_Niveau 3 conjuration_
+Nniveau 3 conjuration\_
 
 **Casting Time:** 1 minute
 
@@ -1414,7 +1414,7 @@ You envelop up to five chosen creatures within range in bubbles formed from a sp
 
 #### Wall of Goo
 
-_Niveau 3 evocation_
+Nniveau 3 evocation\_
 
 **Casting Time:** 1 action
 
@@ -1496,7 +1496,7 @@ During each of your turns while the spell is active, you may spend an action to 
 
 Any creature that takes poison or acid damage from this spell is poisoned until the end of its next turn.
 
-#### Slime [Tsunami](https://www.aidedd.org/dnd/sorts.php?vf=tsunami)
+#### Slime Tsunami
 
 _Niveau 8 conjuration_
 
@@ -1538,7 +1538,7 @@ _Niveau 9 divination_
 
 Give a basic description of any Devil Fruit you have seen before, or a Devil Fruit name, category, or power that might reasonably exist. For example, describing a Logia Devil Fruit power which allows you to transform into flames might closest resemble a description of the Mera Mera no Mi. Using a Devil Fruit Book to list the exact name of a Devil Fruit will make this process more precise, since it should list the names and powers of every known Devil Fruit power. Once the Devil Fruit power is described or named, you sense the Devil Fruit's location. If there is no existing Devil Fruit which quite matches your description or if your requirements are too vague, the DM may randomly choose a Devil Fruit closest to your description instead.
 
-You know the exact location of the chosen Devil Fruit for the duration of the spell. You can precisely point to it on any map and know the exact routes to take to find it, unless it is located in uncharted territory, in which case you will only have a sense of the general direction it is in. If the Devil Fruit has been consumed by a creature or object, you know the exact location of that creature or object for the duration of the spell instead (as if using [Localisation de créature](https://www.aidedd.org/dnd/sorts.php?vf=localisation-de-creature) or [Localisation d'objet](https://www.aidedd.org/dnd/sorts.php?vf=localisation-d-objet), without any of the distance limitations).
+You know the exact location of the chosen Devil Fruit for the duration of the spell. You can precisely point to it on any map and know the exact routes to take to find it, unless it is located in uncharted territory, in which case you will only have a sense of the general direction it is in. If the Devil Fruit has been consumed by a creature or object, you know the exact location of that creature or object for the duration of the spell instead (as if using Locate Creature or Locate Object, without any of the distance limitations).
 
 #### Ice Age
 

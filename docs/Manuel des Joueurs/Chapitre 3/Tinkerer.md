@@ -4,7 +4,7 @@
 
 | Niv | Bonus de Maîtrise | Caractéristiques                         | Capacités Naturelles Connues | 1er | 2e  | 3e  | 4e  | 5e  | 6e  | 7e  | 8e  | 9e  |
 | --- | ----------------- | ---------------------------------------- | ---------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1   | +2                | Lancement de Sorts, Recharge             | 3                            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 1   | +2                | Pouvoir de création, Recharge            | 3                            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 2   | +2                | Étude de Tinkerer                        | 3                            | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 3   | +2                | Technologie de Cantrip Adaptative        | 3                            | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
 | 4   | +2                | Amélioration de Score de Caractéristique | 4                            | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
@@ -41,7 +41,7 @@ Vous recevez les aptitudes de classe suivante en tant que bricoleur
 
 **Armures :** Aucune
 
-**Armes :** Dagues, flêchettes, fronde, sceptre, mousquets
+**Armes :** Dagues, flêchettes, fronde, baton, mousquets
 
 **Outils :** Outils de voleurs, outils de bricolage, ou un type d'outils d'artisan de votre choix
 
@@ -53,21 +53,22 @@ Vous recevez les aptitudes de classe suivante en tant que bricoleur
 
 Vous débutez avec l'équipement suivant, en plus de celui que vous octroie votre historique :
 
--   _(a)_ un sceptre ou _(b)_ une dague
+-   _(a)_ un baton ou _(b)_ une dague
 -   un gadget de votre choix et un des schémas
 -   des outils de voleurs et un paquetage de donjon
 
-### Pouvoir de création (lanceur de sorts)
+### Pouvoir de création
 
-En tant qu'étudiant en robotique et en technologie avancée, vous avez le gadget de votre choix ainsi que des plans contenant des Créations (sorts) qui montrent les premières lueurs de vos véritables capacités. Cette classe utilise la liste des sorts de bricoleur du [chapitre 8](../Chapitre%208.md).
+En tant qu'étudiant en robotique et en technologie avancée, vous avez le gadget de votre choix ainsi que des plans contenant des Créations qui montrent les premières lueurs de vos véritables capacités. Cette classe utilise la liste des sorts de bricoleur du [chapitre 8](../Chapitre%208.md#créations-de-bricoleurs).
 
-#### Gadget et plans (livre de sorts)
+#### Gadget et plans
 
-Au 1er niveau, vous disposez d'un gadget et de plans (similaires à un livre de sorts dans le 5e standard) contenant six sorts de bricoleur de 1er niveau de votre choix. Vos plans sont des instructions qui vous indiquent comment construire votre gadget, ainsi qu'un répertoire des sorts et des capacités que vous découvrez, à l'exception de vos capacités naturelles , qui peuvent être utilisées avec ou sans vos plans et votre gadget en utilisant des matériaux ou des dispositifs et des méthodes distincts. Votre gadget est une forme de source d'énergie (voir le chapitre 5, « Matériel d'aventurier »), et il est utilisé comme foyer d'incantation.
+Au 1er niveau, vous disposez d'un gadget et de plans contenant six créations de bricoleur de 1er niveau de votre choix. Vos plans sont des instructions qui vous indiquent comment construire votre gadget, ainsi qu'un répertoire des sorts et des capacités que vous découvrez, à l'exception de vos capacités naturelles , qui peuvent être utilisées avec ou sans vos plans et votre gadget en utilisant des matériaux ou des dispositifs et des méthodes distincts. Votre gadget est une forme de source d'énergie :
+- Une source d'énergie est un objet spécial - une pile, un cadran spécial, un cristal d'énergie, une barre de combustible ou un objet similaire - conçu pour canaliser la puissance des capacités et des sorts. Un bricoleur peut utiliser un tel objet comme foyer de lanceur de sorts, comme décrit dans le chapitre 10 du Manuel du joueur de D&D 5e édition.
 
 #### Outils nécessaires
 
-Pour construire, compléter et utiliser votre gadget, qui vous permet de lancer les effets de votre pouvoir de création de bricoleur (sort), vous devez utiliser des outils spéciaux - en particulier des outils de voleur ou une sorte d'outil d'artisan. Vous devez maîtriser l'outil en question pour pouvoir l'utiliser de cette manière.
+Pour construire, compléter et utiliser votre gadget, qui vous permet de lancer les effets de votre pouvoir de Création, vous devez utiliser des outils spéciaux - en particulier des outils de voleur ou une sorte d'outil d'artisan. Vous devez maîtriser l'outil en question pour pouvoir l'utiliser de cette manière.
 
 #### Capacités naturelles
 
@@ -77,11 +78,11 @@ Au 1er niveau, vous connaissez trois capacités naturelles de votre choix dans l
 
 La table du bricoleur indique le nombre d'emplacements de pouvoir de création (sorts) dont vous disposez pour lancer vos sorts de 1er niveau et plus. Pour lancer un de ces sorts, vous devez dépenser un emplacement du niveau du sort ou d'un niveau supérieur. Vous regagnez tous les emplacements de sorts dépensés lorsque vous terminez un repos long.
 
-Vous préparez et installez sur votre gadget la liste des pouvoirs de création du bricoleur (sorts) que vous pouvez lancer. Pour ce faire, vous choisissez un nombre de sorts parmi vos Blueprints égal à votre modificateur d'Intelligence + votre niveau de bricoleur (minimum d'un sort). Les sorts doivent être d'un niveau pour lequel vous disposez d'emplacements de sorts.
+Vous préparez et installez sur votre gadget la liste des pouvoirs de création du bricoleur (sorts) que vous pouvez lancer. Pour ce faire, vous choisissez un nombre de sorts parmi vos Schémas égal à votre modificateur d'Intelligence + votre niveau de bricoleur (minimum d'un sort). Les sorts doivent être d'un niveau pour lequel vous disposez d'emplacements de sorts.
 
-Par exemple, si vous êtes un bricoleur de 3e niveau, vous disposez de quatre emplacements de pouvoir de création (sort) de 1er niveau et de deux emplacements de 2e niveau. Avec une Intelligence de 16, votre liste de sorts préparés peut inclure six sorts de 1er ou 2ème niveau, dans n'importe quelle combinaison, choisis parmi vos Blueprints. Si vous préparez le sort de 1er niveau Missile magique, vous pouvez le lancer en utilisant un emplacement de 1er ou de 2ème niveau. Le fait de lancer le sort ne le retire pas de votre liste de sorts préparés.
+Par exemple, si vous êtes un bricoleur de 3e niveau, vous disposez de quatre emplacements de pouvoir de création (sort) de 1er niveau et de deux emplacements de 2e niveau. Avec une Intelligence de 16, votre liste de sorts préparés peut inclure six sorts de 1er ou 2ème niveau, dans n'importe quelle combinaison, choisis parmi vos Schémas. Si vous préparez le sort de 1er niveau Missile magique, vous pouvez le lancer en utilisant un emplacement de 1er ou de 2ème niveau. Le fait de lancer le sort ne le retire pas de votre liste de sorts préparés.
 
-Vous pouvez modifier votre liste de pouvoirs de création préparés (sorts) installés sur votre gadget lorsque vous terminez un repos long. Préparer une nouvelle liste de pouvoirs de création demande du temps pour étudier vos Blueprints et les ajouter aux parties de votre gadget en utilisant vos outils : au moins 1 minute par niveau de pouvoir de création (sort) pour chaque pouvoir de création (sort) de votre liste.
+Vous pouvez modifier votre liste de pouvoirs de création préparés (sorts) installés sur votre gadget lorsque vous terminez un repos long. Préparer une nouvelle liste de pouvoirs de création demande du temps pour étudier vos Schémas et les ajouter aux parties de votre gadget en utilisant vos outils : au moins 1 minute par niveau de pouvoir de création (sort) pour chaque pouvoir de création (sort) de votre liste.
 
 #### Capacité de pouvoir de création (capacité de lanceur de sorts)
 
@@ -93,7 +94,7 @@ votre modificateur d'Intelligence
 **Modificateur d'attaque de création** = votre bonus de compétence + votre modificateur d'intelligence
 votre modificateur d'Intelligence
 
-#### Vos Blueprints
+#### Vos Schémas
 
 Les pouvoirs de création (sorts) et les capacités que vous ajoutez à votre gadget à partir des plans au fur et à mesure que vous gagnez des niveaux reflètent les recherches avancées que vous menez par vous-même, ainsi que les découvertes scientifiques que vous avez faites sur la nature du monde et l'innovation technologique. Vous pouvez découvrir d'autres sorts au cours de vos aventures. Vous pouvez découvrir un sort inscrit sur des plans dans une usine abandonnée, par exemple, ou dans des documents poussiéreux d'une ancienne bibliothèque.
 
