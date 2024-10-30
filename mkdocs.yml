@@ -1,5 +1,8 @@
 site_name: One Piece Wiki
 site_url: https://otchitan.github.io/One-Piece-Wiki
+plugins:
+    - search
+    - autorefs
 theme:
     name: material
     palette:
@@ -10,9 +13,5 @@ theme:
         - navigation.footer
 extra_css:
     - stylesheets/extra.css
-plugins:
-    - search
-    - autorefs:
-          resolve_closest: true
 markdown_extensions:
     - attr_list
