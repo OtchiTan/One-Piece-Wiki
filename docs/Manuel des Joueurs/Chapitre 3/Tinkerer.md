@@ -72,7 +72,7 @@ Pour construire, compléter et utiliser votre gadget, qui vous permet de lancer 
 
 #### Capacités naturelles
 
-Au 1er niveau, vous connaissez trois capacités naturelles de votre choix dans la liste des sorts du bricoleur. Vous apprenez d'autres tours de passe-passe de votre choix à des niveaux plus élevés, comme indiqué dans la colonne Capacités naturelles (tours de passe-passe) connues de la table de passe-passe.
+Au 1er niveau, vous connaissez trois capacités naturelles de votre choix dans la liste des sorts du bricoleur. Vous apprenez d'autres tours de passe-passe de votre choix à des niveaux plus élevés, comme indiqué dans la colonne Capacités naturelles connues de la liste des sorts de bricoleur du [chapitre 8](../Chapitre%208.md#créations-de-bricoleurs).
 
 #### Préparer et utiliser les créations (lancer des sorts)
 
@@ -131,3 +131,5 @@ Par exemple, si vous êtes un bricoleur de 4e niveau, vous pouvez récupérer ju
 Lorsque vous atteignez le 2e niveau, vous choisissez votre domaine d'étude, ce qui vous permet de développer vos connaissances et votre pratique de l'invention à travers différentes écoles : Science militaire, Météorologie et Robotique.
 
 Votre choix vous confère des caractéristiques au 2e niveau, puis aux 6e, 10e et 14e niveaux.
+
+Exchange Rates
