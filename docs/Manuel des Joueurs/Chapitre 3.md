@@ -327,11 +327,11 @@ Au 2e niveau, vous adoptez un style de combat particulier comme spécialité : c
 
 ###### Tireur au corps à corps
 
-Lorsque vous effectuez une attaque à distance avec une arme à feu ou une fronde alors que vous êtes à moins de 5 pieds d'une créature hostile, vous n'avez pas de désavantage sur le jet d'attaque. Vos attaques à distance avec une arme à feu ou une fronde ignorent la demi-couverture et la couverture trois-quarts contre les cibles situées à moins de 30 pieds de vous. Vous avez un bonus de +1 aux jets d'attaque à distance avec une arme à feu ou une fronde.
+Lorsque vous effectuez une attaque à distance avec une arme à feu ou une fronde alors que vous êtes à moins de 5 pieds d'une créature hostile, vous n'avez pas de désavantage sur le jet d'attaque. Vos attaques à distance avec une arme à feu ou une fronde ignorent la demi-couverture et la couverture trois-quarts contre les cibles situées à moins de 30 pieds de vous.
 
 ###### Deadeye
 
-Vous bénéficiez d'un bonus de +2 aux jets d'attaque que vous effectuez avec une arme à feu ou une fronde. Cet effet n'est pas cumulable avec le style de combat Tir à l'arc.
+Vous gagnez un bonus de +2 aux jets d’attaque et +2 aux jets de dégâts que vous effectuez en utilisant des armes à distance.
 
 ###### Tir aiguisé
 
@@ -340,47 +340,6 @@ Vous gagnez un bonus de +2 aux jets de dégâts que vous effectuez en utilisant 
 ###### Combat à deux armes
 
 Lorsque vous vous engagez dans un combat à deux armes avec au moins un pistolet, vous pouvez ajouter votre modificateur d'aptitude aux dégâts de la seconde attaque.
-
-#### Tactiques spéciales (lanceurs de sorts)
-
-Lorsque vous atteignez le 2e niveau, vous avez appris à utiliser des tactiques et des capacités spéciales pour mieux traiter vos cibles. Les tactiques spéciales sont l'équivalent des « sorts » dans la 5e édition, et les emplacements de tactiques sont les mêmes que les « emplacements de sorts ». Assurez-vous de consulter la section « Lancer un sort » dans le Manuel du Joueur pour comprendre le lancer de sorts dans la 5e édition de D&D. Les tactiques de Marksman comptent comme des sorts de Marksman dans le [chapitre 8](../Chapitre%208.md).
-
-#### Nombre d'emplacements tactiques (emplacements de sorts)
-
-La table Marksman indique le nombre d'emplacements de sorts dont vous disposez pour lancer vos tactiques de Marksman de 1er niveau et plus. Pour utiliser l'une de ces tactiques, vous devez dépenser un emplacement du niveau de la tactique ou d'un niveau supérieur. Vous regagnez tous les emplacements de tactique dépensés lorsque vous terminez un repos long.
-
-Par exemple, si vous connaissez la tactique du Collet de 1er niveau et que vous disposez d'un emplacement de tactique de 1er niveau et d'un emplacement de tactique de 2ème niveau, vous pouvez lancer le Collet en utilisant l'un ou l'autre de ces emplacements.
-
-##### Tactiques connues de 1er niveau et plus
-
-Vous connaissez deux tactiques de 1er niveau de votre choix, tirées de la liste des sorts de tireur d'élite.
-
-La colonne Tactique connue de la table des tireurs indique quand vous apprenez d'autres tactiques de tireur d'élite de votre choix. Le terme « niveau de tactique » est équivalent au « niveau de sort ». Chacune de ces tactiques doit être d'un niveau pour lequel vous disposez d'emplacements de tactique. Par exemple, lorsque vous atteignez le 5e niveau dans cette classe, vous pouvez apprendre une nouvelle tactique de 1er ou 2e niveau.
-
-De plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir l'une des tactiques de tireur d'élite que vous connaissez et la remplacer par une autre de la liste des sorts de tireur d'élite, qui doit également être d'un niveau pour lequel vous disposez d'emplacements de tactique.
-
-##### Capacité tactique spéciale (capacité de lanceur de sorts)
-
-La sagesse est votre capacité tactique spéciale pour vos tactiques de tireur d'élite, puisque vos compétences proviennent de votre accord avec votre environnement. Vous utilisez votre Sagesse chaque fois qu'une tactique (sort) fait référence à votre capacité spéciale de tactique (lanceur de sorts). De plus, vous utilisez votre modificateur de Sagesse pour déterminer le DD d'un jet de sauvegarde pour une tactique de tireur d'élite que vous utilisez et pour effectuer un jet d'attaque avec une tactique de tireur d'élite.
-
-**DD de sauvegarde tactique** = 8 + votre bonus de compétence + votre modificateur de sagesse
-
-**Modificateur d'attaque tactique** = votre bonus de compétence + votre modificateur de sagesse.
-
-#### Armurier
-
-À partir du 2e niveau, vous pouvez utiliser vos outils de bricoleur pour fabriquer n'importe quel type d'arme à feu non magique ou de fronde et de munitions pour une arme que vous possédez en dépensant la moitié du coût standard indiqué au chapitre 5. Lors d'un repos long réussi, vous devez avoir passé au moins 1 heure pour fabriquer entièrement une arme à feu ou jusqu'à cinq munitions. Vous ne pouvez pas répéter ce processus avant le prochain repos long.
-
-| Niveau | Capacité de Soins de Terrain                                                                                                                                     | Utilisations par Repos |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| 1      | Soins de Terrain (de base) : Soigne 1d6 points de vie en utilisant une action et une trousse de médecin.                                                         | 2                      |
-| 3      | Soins Améliorés : Soigne 1d8 points de vie.                                                                                                                      | 3                      |
-| 5      | Soins Avancés : Soigne 1d8 + modificateur de Sagesse. Le Médecin peut maintenant utiliser une action bonus pour soigner.                                         | 3                      |
-| 7      | Soins Supérieurs : Soigne 2d8 + modificateur de Sagesse. Peut stabiliser une créature inconsciente et lui rendre 1 point de vie.                                 | 4                      |
-| 10     | Soins Experts : Soigne 2d10 + modificateur de Sagesse. Peut annuler une condition mineure (comme empoisonné ou aveuglé) en plus des soins.                       | 4                      |
-| 15     | Soins Maîtrisés : Soigne 3d10 + modificateur de Sagesse. Peut être utilisé en réaction pour stabiliser une créature ou soigner 1d10 points de vie.               | 5                      |
-| 18     | Soins de Maître : Soigne 4d10 + modificateur de Sagesse. Les créatures soignées gagnent également un bonus temporaire de +2 à la CA pendant 1 tour.              | 5                      |
-| 20     | Soins Légendaires : Soigne 5d10 + modificateur de Sagesse. Peut être utilisé une fois pour soigner complètement une créature et supprimer toutes ses conditions. | 5                      |
 
 ## Voleur
 
