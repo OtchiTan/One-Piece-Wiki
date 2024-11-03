@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Bookinsanity;
+    src: local("Bookinsanity"),
+        url("fonts/Bookinsanity/Bookinsanity.otf") format("opentype");
+}
+
+:root {
+    --md-primary-fg-color: #58170d;
+}
+
+body {
+    font-family: Bookinsanity;
+    background-image: url("https://www.aidedd.org/images/fond-ph.jpg");
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+.md-typeset :is(h1, h2, h3, h4, h5, h6) {
+    color: #58170d;
+}
+
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+    padding: 4px;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #d1d5d6;
+}
