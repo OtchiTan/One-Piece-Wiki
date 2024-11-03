@@ -18,3 +18,12 @@ body {
 .md-typeset :is(h1, h2, h3, h4, h5, h6) {
     color: #58170d;
 }
+
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+    padding: 4px;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #d1d5d6;
+}

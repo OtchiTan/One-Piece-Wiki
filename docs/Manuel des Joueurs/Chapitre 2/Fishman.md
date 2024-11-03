@@ -62,9 +62,9 @@ Les hommes-poissons poulpes ont tendance à avoir six bras et une peau teintée 
 
 **Augmentation de Score de Capacité.** Vos scores de Force et de Dextérité augmentent tous deux de 1.
 
-**Précision Mortelle.** Vous gagnez la compétence dans l'un des domaines suivants : adresse de mains ou un outil d'artisanat de votre choix.
+**Précision Mortelle.** Vous gagnez la compétence dans l'un des domaines suivants : tour de passe-passe ou un outil d'artisanat de votre choix.
 
-**Multi-Branches.** Vous avez quatre bras supplémentaires, pour un total de six. Bien que vous ne puissiez pas utiliser efficacement des armes avec ces bras, vous pouvez les utiliser pour tenir des objets plus petits comme des potions et des bibelots. De plus, vous avez l'avantage sur les tests de saisie avec vos bras.
+**Multi-Bras.** Vous avez quatre bras supplémentaires, pour un total de six. Bien que vous ne puissiez pas utiliser efficacement des armes avec ces bras, vous pouvez les utiliser pour tenir des objets plus petits comme des potions et des bibelots. De plus, vous avez l'avantage sur les tests de lutte (jet de Force (Acrobatie)).
 
 #### Traits de Sprat-Daurade
 
